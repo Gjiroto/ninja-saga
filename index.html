@@ -1,46 +1,49 @@
 <!doctype html>
 <html lang="es">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#111714">
-  <meta name="description" content="Explora y compara talentos, sage modes, jutsus y mascotas de Ninja Saga. Un archivo de habilidades para preparar tu próxima batalla.">
-  <title>Ninja Saga Codex — Catálogo y comparador</title>
-  <link rel="icon" href="./favicon.svg" type="image/svg+xml">
-  <link rel="stylesheet" href="./styles.css">
-  <script src="./app.js" defer></script>
+  <meta name="description" content="Explora y compara talentos, sage modes, jutsus y mascotas de Ninja Saga.">
+  <title>Ninja Saga Codex</title>
+  <link rel="icon" href="./favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="./styles.css">
+  <script src="./i18n.js" defer></script><script src="./app.js" defer></script>
 </head>
 <body>
-  <a class="skip" href="#main">Saltar al catálogo</a>
+  <a class="skip" href="#main" data-t="skip">Saltar al contenido</a>
   <header class="topbar">
-    <a class="brand" href="./"><span class="seal" aria-hidden="true">N</span><span>NINJA SAGA <strong>CODEX</strong></span></a>
-    <span class="header-note">ARCHIVO DE HABILIDADES <span class="version">VOL. 01</span></span>
+    <a class="brand" href="#home"><span class="seal" aria-hidden="true">N</span><span>NINJA SAGA <strong>CODEX</strong></span></a>
+    <div class="header-tools"><span class="header-note" data-t="archive">ARCHIVO DE HABILIDADES</span><div class="language-switch" role="group" data-label="language"><button data-lang="es" lang="es" aria-label="Español">ES</button><button data-lang="en" lang="en" aria-label="English">EN</button></div></div>
   </header>
   <div class="layout">
-    <aside class="sidebar">
-      <p class="eyebrow">EXPLORAR</p>
-      <nav id="categories" aria-label="Categorías"></nav>
-      <div class="side-note"><span class="small-seal">忍</span><p>Conoce tus habilidades.<br><strong>Elige tu estrategia.</strong></p></div>
-      <p class="sidebar-foot">Catálogo de la comunidad.<br>No afiliado al juego.</p>
-    </aside>
-    <main id="main">
-      <section class="intro"><div><p class="eyebrow">TU PRÓXIMA BATALLA EMPIEZA AQUÍ</p><h1 id="heading">Talentos extremos</h1><p id="category-description">Explora las pasivas y técnicas que definen tu personaje.</p></div><div class="index-mark" aria-hidden="true">01<span>CODEX / NS</span></div></section>
-      <section class="toolbar" aria-label="Buscar y filtrar">
-        <label class="search"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Buscar nombre, habilidad o efecto…" aria-label="Buscar nombre, habilidad o efecto"></label>
-        <label>Efecto<select id="effect"><option value="">Todos los efectos</option></select></label>
-        <label>Ordenar<select id="sort"><option value="original">Orden del catálogo</option><option value="name">Nombre A–Z</option><option value="level">Nivel: menor primero</option><option value="cp">CP: menor primero</option><option value="cd">Cooldown: menor primero</option></select></label>
+    <aside class="sidebar"><p class="eyebrow" data-t="explore">EXPLORAR</p><nav id="categories" aria-label="Catálogo / Catalog"></nav><div class="side-note"><span class="small-seal">忍</span><p data-t="side"></p></div><p class="sidebar-foot" data-t="unofficial"></p></aside>
+    <main id="main" tabindex="-1">
+      <section id="home" hidden>
+        <div class="home-hero"><p class="eyebrow">NINJA SAGA CODEX / VOL. 01</p><h1 data-t="homeTitle"></h1><p data-t="homeText"></p><div id="home-counts" class="home-counts"></div></div>
+        <label class="home-search-label" for="global-search" data-t="homeSearch"></label><label class="search home-search"><span aria-hidden="true">⌕</span><input id="global-search" type="search" data-placeholder="search" data-label="homeSearch"></label>
+        <p id="global-count" role="status" aria-live="polite"></p><div id="global-results" class="grid"></div>
+        <h2 class="eyebrow home-section-title" data-t="catalog"></h2><div id="home-categories" class="home-categories"></div>
+        <div class="home-bottom"><section class="home-panel"><span class="eyebrow" data-t="comparison"></span><h2 data-t="compareHome"></h2><p data-t="compareHomeText"></p><button class="primary" data-category="extreme" data-t="compareStart"></button></section><section class="home-panel"><h2 data-t="qualityTitle"></h2><p data-t="qualityText"></p></section></div>
       </section>
-      <div class="results-line"><p id="results" role="status" aria-live="polite">Cargando catálogo…</p><button id="reset" class="text-button">Restablecer filtros</button></div>
-      <div id="grid" class="grid" aria-label="Resultados"></div>
-      <div id="empty" class="empty" hidden><span aria-hidden="true">⌕</span><h2>Sin coincidencias</h2><p>Prueba otro nombre o elimina el filtro de efecto.</p><button id="empty-reset">Ver todo</button></div>
-      <div id="error" class="empty" hidden><h2>No pudimos cargar el catálogo</h2><p>Comprueba tu conexión y vuelve a intentarlo.</p><button onclick="location.reload()">Reintentar</button></div>
-      <footer>Los efectos se muestran según sus fuentes. Las fórmulas y la acumulación de bonos no están confirmadas.<br><span id="totals"></span></footer>
+      <section id="catalog-view" hidden>
+        <section class="intro"><div><p class="eyebrow" data-t="eyebrow"></p><h1 id="heading"></h1><p id="category-description"></p></div><div class="index-mark" aria-hidden="true"></div></section>
+        <section class="toolbar" aria-label="Filtros / Filters">
+          <label class="search"><span aria-hidden="true">⌕</span><input id="search" type="search" data-placeholder="search" data-label="search"></label>
+          <label><span data-t="effect"></span><select id="effect" data-label="effect"></select></label>
+          <label><span data-t="sort"></span><select id="sort" data-label="sort"><option value="original" data-t="originalOrder"></option><option value="name" data-t="az"></option><option value="level" data-t="levelOrder"></option><option value="cp" data-t="cpOrder"></option><option value="cd" data-t="cdOrder"></option></select></label>
+        </section>
+        <div class="results-line"><p id="results" role="status" aria-live="polite" data-t="loading"></p><button id="reset" class="text-button" data-t="reset"></button></div>
+        <div id="grid" class="grid"></div>
+        <div id="empty" class="empty" hidden><span aria-hidden="true">⌕</span><h2 data-t="noResults"></h2><p data-t="emptyHint"></p><button id="empty-reset" data-t="all"></button></div>
+      </section>
+      <div id="error" class="empty" hidden><h2 data-t="loadError"></h2><p data-t="retryHint"></p><button onclick="location.reload()" data-t="retry"></button></div>
+      <footer><span data-t="footer"></span><br><span id="totals"></span></footer>
     </main>
   </div>
-  <section id="compare-tray" class="compare-tray" aria-label="Selección para comparar" hidden><div><span class="eyebrow">COMPARADOR</span><div id="selected"></div></div><div class="tray-actions"><button id="clear-compare" class="text-button">Vaciar</button><button id="open-compare" class="primary">Comparar <span id="compare-count"></span></button></div></section>
+  <section id="compare-tray" class="compare-tray" hidden><div><span class="eyebrow" data-t="comparison"></span><div id="selected"></div></div><div class="tray-actions"><button id="clear-compare" class="text-button" data-t="clear"></button><button id="open-compare" class="primary"><span data-t="compare"></span> <span id="compare-count"></span></button></div></section>
   <div id="toast" class="toast" role="status" aria-live="polite"></div>
-  <dialog id="detail" aria-label="Ficha de habilidades"><div class="dialog-bar"><span class="eyebrow">FICHA DEL ARCHIVO</span><button class="close" data-close="detail" aria-label="Cerrar ficha">✕</button></div><div id="detail-content"></div></dialog>
-  <dialog id="comparison" aria-label="Comparador de habilidades"><div class="dialog-bar"><div><span class="eyebrow">COMPARADOR</span><h2>Encuentra tu siguiente técnica</h2></div><button class="close" data-close="comparison" aria-label="Cerrar comparador">✕</button></div><p class="comparison-note">Comparamos características descritas, sin sumar bonos ni simular daño. «Sin dato» no significa cero.</p><div id="comparison-content" class="table-scroll" tabindex="0" aria-label="Tabla comparativa, desplázate para ver todas las columnas"></div></dialog>
-  <noscript><p>Activa JavaScript para explorar y comparar el catálogo.</p></noscript>
+  <dialog id="detail" data-label="sheet"><div class="dialog-bar"><span class="eyebrow" data-t="sheet"></span><div class="dialog-tools"><div class="language-switch" role="group" data-label="language"><button data-lang="es" lang="es">ES</button><button data-lang="en" lang="en">EN</button></div><button class="close" data-close="detail" data-label="closeDetail">✕</button></div></div><div id="detail-content"></div></dialog>
+  <dialog id="comparison" data-label="comparison"><div class="dialog-bar"><div><span class="eyebrow" data-t="comparison"></span><h2 data-t="compareTitle"></h2></div><div class="dialog-tools"><div class="language-switch" role="group" data-label="language"><button data-lang="es" lang="es">ES</button><button data-lang="en" lang="en">EN</button></div><button class="close" data-close="comparison" data-label="closeCompare">✕</button></div></div><p class="comparison-note" data-t="compareNote"></p><div id="comparison-content" class="table-scroll" tabindex="0" data-label="tableLabel"></div></dialog>
+  <dialog id="language-welcome" aria-labelledby="welcome-title"><span class="seal" aria-hidden="true">N</span><p class="eyebrow">NINJA SAGA CODEX</p><h2 id="welcome-title">Elige tu idioma<br><span lang="en">Choose your language</span></h2><p>Se aplicará a todo el catálogo.<br><span lang="en">Your choice applies to the entire catalog.</span></p><div class="welcome-options"><button class="primary" data-lang="es" lang="es">Español <span>ES</span></button><button data-lang="en" lang="en">English <span>EN</span></button></div><p class="welcome-note">Puedes cambiarlo después · You can change it later</p></dialog>
+  <noscript><p>Activa JavaScript para explorar el catálogo. / Enable JavaScript to browse the catalog.</p></noscript>
 </body>
 </html>
