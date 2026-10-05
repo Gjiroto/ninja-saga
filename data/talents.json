@@ -1,0 +1,4230 @@
+{
+  "extreme": [
+    {
+      "name": "Eye of Mirror",
+      "image": "images/eye-of-mirror.png",
+      "thumb": "thumbs/eye-of-mirror.png",
+      "desc": "An ancient eye skill which grants the user strong vision and perception, but it also brings a huge physical burden.",
+      "skills": [
+        {
+          "name": "Eye of Mirror",
+          "desc": "(Passive) After enemy used a skill in battle, there is 15% chance you can automatically copy and use that skill immediately. Not effective when CP is not adequate for copying skill. (PVP Jutsu)(Talent skills will not be copied).",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 50.26,
+          "y": 9.3
+        },
+        {
+          "name": "Crescent Eye of Mirror",
+          "desc": "(Passive) 20% to rebound Genjutsu.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 50.26,
+          "y": 33.73
+        },
+        {
+          "name": "Mirror of Passion",
+          "desc": "Reduce target HP by 4% for 5 turns.",
+          "damage": "900",
+          "cp": "1180",
+          "cd": "22",
+          "x": 14.54,
+          "y": 62.22
+        },
+        {
+          "name": "Mirror of Grace",
+          "desc": "100% chance to inflict Chaos & Restriction on target (cannot control character and use jutsu). Reduce target damage by 100% for 3 turns.",
+          "damage": "0",
+          "cp": "705",
+          "cd": "18",
+          "x": 84.95,
+          "y": 62.22
+        },
+        {
+          "name": "Mirror of Strength",
+          "desc": "Activate titan attack per action damage from base weapon/skill (550% damage of character level)(5 turns). Successful Titan Attack has 20% chance to 'Stun' the enemy for 1 turn.",
+          "damage": "550",
+          "cp": "910",
+          "cd": "24",
+          "x": 14.54,
+          "y": 86.96
+        },
+        {
+          "name": "Mirror of Freedom",
+          "desc": "(Passive) Recover HP and CP by 50% when HP is below 0 for once. User cannot use Eye of Mirror skills again in the same battle.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 84.95,
+          "y": 86.96
+        }
+      ]
+    },
+    {
+      "name": "Eight Extremities",
+      "image": "images/eight-extremities.png",
+      "thumb": "thumbs/eight-extremities.png",
+      "desc": "This talent focuses on the flexibility of 8 body parts and the art of taijutsu. Explosive power can be achieved under extreme mode, but there will be serious side effects.",
+      "skills": [
+        {
+          "name": "Soul Punch",
+          "desc": "Basic: Concentrates chakra on your palm and punch the target.",
+          "damage": "708",
+          "cp": "20",
+          "cd": "6",
+          "x": 28.84,
+          "y": 9.67
+        },
+        {
+          "name": "Eight Extremities",
+          "desc": "(Passive) Increases attack damage of taijutsu skill type by 20%. Reduce HP deduction from taijutsu skill type by 100%.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 28.84,
+          "y": 35.57
+        },
+        {
+          "name": "Eight Extremities Fist",
+          "desc": "100% chance to reduce target's CP by 50%.",
+          "damage": "1000",
+          "cp": "900",
+          "cd": "19",
+          "x": 76.28,
+          "y": 35.57
+        },
+        {
+          "name": "Eight Extremities Strengthen",
+          "desc": "(Passive) Increases agility by 20%. Increases maximum HP by 10%.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 28.84,
+          "y": 60.84
+        },
+        {
+          "name": "Extreme Mode",
+          "desc": "Increases attack damage of all taijutsu by 80% (5 turns). User cannot be healed (5 turns).",
+          "damage": "0",
+          "cp": "1450",
+          "cd": "16",
+          "x": 28.84,
+          "y": 85.8
+        },
+        {
+          "name": "Ultimate Dance",
+          "desc": "Must be in Extreme Mode. 90% chance to +CP Cost of target for 3 turns.",
+          "damage": "1778",
+          "cp": "1000",
+          "cd": "19",
+          "x": 76.28,
+          "y": 85.8
+        }
+      ]
+    },
+    {
+      "name": "Dark Eye",
+      "image": "images/dark-eye.png",
+      "thumb": "thumbs/dark-eye.png",
+      "desc": "Combine eye skill with acupuncture skill to give the user the ability to look through the target's nerves and meridians.",
+      "skills": [
+        {
+          "name": "Dark Eye",
+          "desc": "(Passive) Increase accuracy by 10%. Increase dodge chance by 10%.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 52.45,
+          "y": 9.42
+        },
+        {
+          "name": "Meridian Kekkai",
+          "desc": "(Passive) Whenever your CP was absorbed or reduced, attacker will receive 55% the absorbed/reduced CP as damage and has 50% chance of getting stunned for 1 turn. (No effect with CP reduction over time skills).",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 14.99,
+          "y": 37.69
+        },
+        {
+          "name": "Acupuncture: Meridian Anesthesia",
+          "desc": "Reduce damage taken by 20% (4 turns). Recover HP by 20% each turn (3 turns). User is not allowed to charge (3 turns).",
+          "damage": "0",
+          "cp": "820",
+          "cd": "16",
+          "x": 85.27,
+          "y": 37.69
+        },
+        {
+          "name": "Meridian Search",
+          "desc": "(Passive) Increase critical chance by 5%. Increase critical damage by 10%.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 14.99,
+          "y": 62.31
+        },
+        {
+          "name": "Meridian Strengthen",
+          "desc": "(Passive) Increases maximum CP by 20%. Recover CP by extra 25% per charge.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 85.27,
+          "y": 62.31
+        },
+        {
+          "name": "Acupuncture: Meridian Destruction",
+          "desc": "Restrict target (cannot use skills) (2 turns). 85% chance to clear all buff of target",
+          "damage": "1145",
+          "cp": "1180",
+          "cd": "20",
+          "x": 52.45,
+          "y": 90.43
+        }
+      ]
+    },
+    {
+      "name": "Deadly Performance",
+      "image": "images/deadly-performance.png",
+      "thumb": "thumbs/deadly-performance.png",
+      "desc": "Dead Bone performer can summon deceased beings in battle. Advanced performers can manipulate more dead bones at the same time.",
+      "skills": [
+        {
+          "name": "Onmyouji: Wondrous Doors",
+          "desc": "Convert 100% of taken damage to HP positively (4 turns).",
+          "damage": "0",
+          "cp": "550",
+          "cd": "16",
+          "x": 14.88,
+          "y": 9.81
+        },
+        {
+          "name": "Samurai: One Sword",
+          "desc": "Expose target defence for 40% (3 turns). Reduce target's dodge chance by 40% (3 turns).",
+          "damage": "1230",
+          "cp": "1180",
+          "cd": "20",
+          "x": 86.95,
+          "y": 9.81
+        },
+        {
+          "name": "Soul of Onmyouji",
+          "desc": "(Passive) Reduce damage taken by 5%. 20% chance to resist stun .",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 14.88,
+          "y": 33.23
+        },
+        {
+          "name": "Soul of Samurai",
+          "desc": "(Passive) 19% chance to rebound 50% damage taken.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 86.95,
+          "y": 33.23
+        },
+        {
+          "name": "Burial of Dead Bone",
+          "desc": "All enemies cannot use weapon, jutsu and talent to attack (3 turns).",
+          "damage": "410",
+          "cp": "1460",
+          "cd": "26",
+          "x": 52.22,
+          "y": 62.5
+        },
+        {
+          "name": "Divine Wind of Onmyousamurai",
+          "desc": "Convert damage caused by this jutsu to HP by 100%.",
+          "damage": "1540",
+          "cp": "1000",
+          "cd": "16",
+          "x": 52.22,
+          "y": 86.23
+        }
+      ]
+    },
+    {
+      "name": "Orochi's Rage",
+      "image": "images/orochis-rage.png",
+      "thumb": "thumbs/orochis-rage.png",
+      "desc": "Blessed by the great snake Orochi, the user gains protection and immunity to poison and also gains the ability to revive the dead.",
+      "skills": [
+        {
+          "name": "Orochi's Scales",
+          "desc": "(Passive) Reduce damage taken by 10% and recover 4% HP when your current HP is below 50%.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 49.0,
+          "y": 8.9
+        },
+        {
+          "name": "Orochi's Blessing",
+          "desc": "(Passive) Granted immunity to poison and 20% chance to recover HP when attacking (60% of damage dealt).",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 49.75,
+          "y": 34.05
+        },
+        {
+          "name": "Snake Summoning Technique",
+          "desc": "Poison the enemy by 8% for 3 turns.",
+          "damage": "956",
+          "cp": "1021",
+          "cd": "21",
+          "x": 14.93,
+          "y": 63.19
+        },
+        {
+          "name": "Snake Binding Technique",
+          "desc": "Vulnerable your target by 60% for 2 turns.",
+          "damage": "990",
+          "cp": "910",
+          "cd": "18",
+          "x": 82.59,
+          "y": 63.19
+        },
+        {
+          "name": "Orochi's Roar",
+          "desc": "Strike fear for 3 turns.",
+          "damage": "780",
+          "cp": "1090",
+          "cd": "20",
+          "x": 14.93,
+          "y": 88.65
+        },
+        {
+          "name": "The Circle of Transmigration",
+          "desc": "Revive your teammates with 30% HP/CP by sacrificing 50% of your current HP. One time only. Cannot use talent abilities after that.",
+          "damage": "0",
+          "cp": "750",
+          "cd": "99",
+          "x": 82.59,
+          "y": 88.65
+        }
+      ]
+    },
+    {
+      "name": "Saint Power",
+      "image": "images/saint-power.png",
+      "thumb": "thumbs/saint-power.png",
+      "desc": "Saint Power allows the user to achieve the pinnacle of chakra manipulation by understanding the fundamental essence of life.",
+      "skills": [
+        {
+          "name": "Saint Soul",
+          "desc": "(Passive) Recover HP by 220% every turn. Increase healing power of scrolls by 150%.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 49.5,
+          "y": 8.96
+        },
+        {
+          "name": "Saint Physique",
+          "desc": "(Passive) Recover 200 HP every turn if current HP is less than 70%. Increase maximum HP by 800.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 49.75,
+          "y": 34.31
+        },
+        {
+          "name": "Saint Fist",
+          "desc": "75% chance to clear all targets' positive status.",
+          "damage": "900",
+          "cp": "1150",
+          "cd": "18",
+          "x": 14.32,
+          "y": 63.68
+        },
+        {
+          "name": "Saint Light",
+          "desc": "Instant recover 2800 HP for team.",
+          "damage": "0",
+          "cp": "975",
+          "cd": "18",
+          "x": 83.42,
+          "y": 63.68
+        },
+        {
+          "name": "Saint Blessing",
+          "desc": "Recover HP by 1000 every turn (4 turns).",
+          "damage": "0",
+          "cp": "1280",
+          "cd": "18",
+          "x": 14.32,
+          "y": 89.34
+        },
+        {
+          "name": "Unyielding Saint",
+          "desc": "(Passive) Triggered in death. Maintaining 1 HP. Increase all attack damage by 130% and ignore 130% target's dodge. But User cannot use any skill and HP cannot be recover. One-time only.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 83.42,
+          "y": 89.34
+        }
+      ]
+    },
+    {
+      "name": "Insect Symbiosis",
+      "image": "images/insect-symbiosis.png",
+      "thumb": "thumbs/insect-symbiosis.png",
+      "desc": "Years of studying various insect and learning their biology has unraveled the secrets of insect utilization and manipulation.",
+      "skills": [
+        {
+          "name": "Beetle Carapace",
+          "desc": "(Passive) Reduce damage taken by 10%. Increase purify chance by 1% purify chance on every 700 max CP.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 49.24,
+          "y": 8.88
+        },
+        {
+          "name": "Primal Evolution",
+          "desc": "(Passive) Increase Max HP by 10% of Max CP. Recovers 6% CP every turn if CP is less than 50%.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 50.0,
+          "y": 34.0
+        },
+        {
+          "name": "Pestilence",
+          "desc": "Drains 35% of the target's max CP. If the target's CP turns to 0 after drain, stuns the target for 3 turns.",
+          "damage": "980",
+          "cp": "1000",
+          "cd": "17",
+          "x": 15.15,
+          "y": 63.09
+        },
+        {
+          "name": "Medial Evolution",
+          "desc": "(Passive) Has 50% chance to recover 650HP whenever the user uses direct CP reduction and drain attacks.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 83.84,
+          "y": 63.09
+        },
+        {
+          "name": "Ultimate Evolution",
+          "desc": "(Passive) Increases all attack damage by 10% of the user's max CP.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 15.15,
+          "y": 88.51
+        },
+        {
+          "name": "Holocaust",
+          "desc": "Reduce the target's CP by 40% and inflict negative status 'Restriction' for 3 turns. If the target's CP turn to 0 after the attacks, the target cannot recover CP for 2 turns.",
+          "damage": "1120",
+          "cp": "1200",
+          "cd": "18",
+          "x": 83.84,
+          "y": 88.51
+        }
+      ]
+    },
+    {
+      "name": "Soul Marionette",
+      "image": "images/soul-marionette.png",
+      "thumb": "thumbs/soul-marionette.png",
+      "desc": "A new body that was created by puppeteer after abandoning their flesh body. Become a full-fledged puppet while still being a puppeteer.",
+      "skills": [
+        {
+          "name": "Ultimate String",
+          "desc": "(Passive) 50% chance to inflict chaos everytime the user poison the enemy for 2 turns, recover 650 HP instantly.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 14.46,
+          "y": 9.97
+        },
+        {
+          "name": "Perfect Control Marionette",
+          "desc": "(Passive) Increase max damage by 10%. Increase purify chance by 1% every 700 max HP.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 82.29,
+          "y": 9.97
+        },
+        {
+          "name": "Puppet Stab",
+          "desc": "Bleeding enemy by 100% for 3 turns and poison enemy by 5% for 3 turns.",
+          "damage": "628",
+          "cp": "512",
+          "cd": "14",
+          "x": 14.46,
+          "y": 33.28
+        },
+        {
+          "name": "Poison Thrust",
+          "desc": "Put 1 random skill into cooldown for 8 turns and poison enemy by 7% for 3 turns.",
+          "damage": "1230",
+          "cp": "1180",
+          "cd": "18",
+          "x": 82.29,
+          "y": 33.28
+        },
+        {
+          "name": "Puppet Mode",
+          "desc": "Purify instantly, gain Anti Internal injury for 4 turns. (This effect cannot be dispersed).",
+          "damage": "0",
+          "cp": "1450",
+          "cd": "16",
+          "x": 51.12,
+          "y": 63.18
+        },
+        {
+          "name": "Performance of a Hundred Puppets",
+          "desc": "Damage all enemies. User gain 100% protection against any damage for 3 turns.",
+          "damage": "1778",
+          "cp": "1000",
+          "cd": "16",
+          "x": 51.12,
+          "y": 88.1
+        }
+      ]
+    },
+    {
+      "name": "Eye of Creation",
+      "image": "images/eye-of-creation.png",
+      "thumb": "thumbs/eye-of-creation.png",
+      "desc": "The Eye of Creation skills unlock visionary power, enabling users to manifest and reshape intricate realities with unparalleled creativity.",
+      "skills": [
+        {
+          "name": "Future Vision",
+          "desc": "(Passive) 45% chance to use skill without CP (Talent is not affected). For the first time the skill is used, has 25% chance to cut the cooldown in half (Talent and Senjutsu is not affected).",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 14.5,
+          "y": 9.95
+        },
+        {
+          "name": "Chakra Convergence",
+          "desc": "(Passive) If Future Vision is activated, convert 100% of that skill's CP Cost to increase damage of that turn.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 82.5,
+          "y": 9.95
+        },
+        {
+          "name": "Time Manipulation",
+          "desc": "Instantly remove all buffs and debuffs from user, also recover HP & CP by 30%. Can be used either in stun, restriction or chaos condition, etc.",
+          "damage": "0",
+          "cp": "500",
+          "cd": "30",
+          "x": 14.5,
+          "y": 32.91
+        },
+        {
+          "name": "Chronos Seal",
+          "desc": "Put 1 target's random skill into cooldown for 7 turns. 100% chance to disperse target.",
+          "damage": "1230",
+          "cp": "910",
+          "cd": "16",
+          "x": 82.5,
+          "y": 32.91
+        },
+        {
+          "name": "Tailed Beast Absorption",
+          "desc": "(Passive) Increase purify chance and max CP by 15%.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 51.25,
+          "y": 63.08
+        },
+        {
+          "name": "Eternal Slumber",
+          "desc": "Inflict sleep for 4 turns. High chance to crit.",
+          "damage": "1540",
+          "cp": "1000",
+          "cd": "19",
+          "x": 51.25,
+          "y": 87.8
+        }
+      ]
+    },
+    {
+      "name": "Knowledge of Time",
+      "image": "images/knowledge-of-time.png",
+      "thumb": "thumbs/knowledge-of-time.png",
+      "desc": "The Knowledge of Time grants control over temporal flow, enhancing agility, amplifying power through speed, and shaping inevitable outcomes.",
+      "skills": [
+        {
+          "name": "Knowledge of the Ages",
+          "desc": "(Passive) For every 500 max HP, increase agility by 2.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 14.5,
+          "y": 9.69
+        },
+        {
+          "name": "Essence of Time",
+          "desc": "(Passive) For every 12 agility points, increase all attack damage by 1%.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 82.5,
+          "y": 9.69
+        },
+        {
+          "name": "Garden of Wisdom",
+          "desc": "Increase all active buff duration by 3 turns.",
+          "damage": "0",
+          "cp": "820",
+          "cd": "16",
+          "x": 14.5,
+          "y": 32.34
+        },
+        {
+          "name": "Future Sentence",
+          "desc": "Stores all damage dealt to the enemy for 3 turns. After that, damage is applied as an effect that ignores all damage reduction effects, but can be negated by Debuff Resistance. Cannot be dispersed.",
+          "damage": "0",
+          "cp": "1450",
+          "cd": "16",
+          "x": 82.5,
+          "y": 32.34
+        },
+        {
+          "name": "Heaven Judgement",
+          "desc": "Inflict Chaos on all enemy for 3 turns.",
+          "damage": "550",
+          "cp": "910",
+          "cd": "16",
+          "x": 51.25,
+          "y": 61.72
+        },
+        {
+          "name": "Holy Pillar",
+          "desc": "Reduce enemy's CP by 55% and inflict Internal Injury for 3 turns.",
+          "damage": "1000",
+          "cp": "1000",
+          "cd": "19",
+          "x": 51.25,
+          "y": 85.94
+        }
+      ]
+    },
+    {
+      "name": "Byakugan",
+      "image": "images/byakugan.png",
+      "thumb": "thumbs/byakugan.png",
+      "desc": "A legendary eye technique that grants the user extraordinary vision, allowing them to see through obstacles and perceive the flow of chakra.",
+      "skills": [
+        {
+          "name": "Byakugan Focus",
+          "desc": "(Passive) Increase accuracy 25%.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 48.75,
+          "y": 8.92
+        },
+        {
+          "name": "Byakugan Precision",
+          "desc": "(Passive) Increase critical chance by 10%.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 49.25,
+          "y": 34.15
+        },
+        {
+          "name": "Awareness",
+          "desc": "Dodge and Accuracy increase 30% on self for 3 turns.",
+          "damage": "250",
+          "cp": "150",
+          "cd": "3",
+          "x": 14.25,
+          "y": 63.69
+        },
+        {
+          "name": "Byakugan",
+          "desc": "(Passive) Damage reduce 27% on self for 3 turns. Recover 27% on self for 3 turns.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 83.25,
+          "y": 63.69
+        },
+        {
+          "name": "Sixty-four Palms",
+          "desc": "Restrict target from using any skill (3 turns). Block target from charging (6 turns)",
+          "damage": "250",
+          "cp": "150",
+          "cd": "3",
+          "x": 14.25,
+          "y": 89.23
+        },
+        {
+          "name": "Twin-lion Shot",
+          "desc": "Instantly reduce 11% of enemy HP & CP.",
+          "damage": "250",
+          "cp": "150",
+          "cd": "3",
+          "x": 83.25,
+          "y": 89.23
+        }
+      ]
+    },
+    {
+      "name": "Sharingan",
+      "image": "images/sharingan.png",
+      "thumb": "thumbs/sharingan.png",
+      "desc": "Legendary eyes that enhance perception and unlock forbidden techniques.",
+      "skills": [
+        {
+          "name": "Tomoe Mastery",
+          "desc": "(Passive) Increase accuracy by 15% and agility by 15.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 14.5,
+          "y": 9.89
+        },
+        {
+          "name": "Tomoe Insight",
+          "desc": "(Passive) Increase dodge rate by 10%.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 82.5,
+          "y": 9.89
+        },
+        {
+          "name": "Amaterasu",
+          "desc": "Blaze 5% on enemy for 10 turns.",
+          "damage": "250",
+          "cp": "150",
+          "cd": "12",
+          "x": 14.5,
+          "y": 33.01
+        },
+        {
+          "name": "Tsukuyomi",
+          "desc": "Inflict Restriction on enemy for 3 turns. Weaken 99% for 3 turns and Chaos for 3 turns.",
+          "damage": "250",
+          "cp": "150",
+          "cd": "14",
+          "x": 82.5,
+          "y": 33.01
+        },
+        {
+          "name": "Izanagi",
+          "desc": "(Passive) Revive once per battle. Remove all buffs and debuffs and recover 1750 HP & CP. All Sharingan skills are sealed for the rest of the battle",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 51.25,
+          "y": 63.0
+        },
+        {
+          "name": "Susanoo",
+          "desc": "Activate Titan Mode (5 turns) which will activate after successful attacks on opponent. Each attack has a 15% chance to disperse enemy.",
+          "damage": "700",
+          "cp": "150",
+          "cd": "18",
+          "x": 51.25,
+          "y": 87.72
+        }
+      ]
+    },
+    {
+      "name": "Super Beast Scroll",
+      "image": "images/super-beast-scroll.png",
+      "thumb": "thumbs/super-beast-scroll.png",
+      "desc": "A secret art that brings ink drawings to life.",
+      "skills": [
+        {
+          "name": "Ink Reservoir",
+          "desc": "(Passive) Increase max CP by 30%.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 48.75,
+          "y": 8.9
+        },
+        {
+          "name": "Beast Vitality",
+          "desc": "(Passive) Increase max HP by 10%.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 49.25,
+          "y": 33.44
+        },
+        {
+          "name": "Ink Titan Smash",
+          "desc": "Inflict Restriction on enemy for 3 turns and inflict Weaken 50% for 3 turns.",
+          "damage": "1125",
+          "cp": "675",
+          "cd": "20",
+          "x": 14.25,
+          "y": 62.88
+        },
+        {
+          "name": "Ink Tiger Snatch",
+          "desc": "Drains target current HP by 30% and CP by 60%.",
+          "damage": "1375",
+          "cp": "825",
+          "cd": "16",
+          "x": 83.0,
+          "y": 62.88
+        },
+        {
+          "name": "Ink Smash",
+          "desc": "Stun an enemy for 4 turns.",
+          "damage": "900",
+          "cp": "675",
+          "cd": "16",
+          "x": 14.25,
+          "y": 88.65
+        },
+        {
+          "name": "Ink Dragon",
+          "desc": "Inflict 60% Muddy on enemy for 5 turns.",
+          "damage": "1300",
+          "cp": "975",
+          "cd": "20",
+          "x": 83.0,
+          "y": 88.65
+        }
+      ]
+    },
+    {
+      "name": "Paper",
+      "image": "images/paper.png",
+      "thumb": "thumbs/paper.png",
+      "desc": "A secret wind technique that commands razor-sharp sheets of paper, sending them through the air to slice enemies with deadly precision.",
+      "skills": [
+        {
+          "name": "Paper Drift",
+          "desc": "(Passive) Increase accuracy by 15% and agility by 10.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 51.64,
+          "y": 8.9
+        },
+        {
+          "name": "Paper Gale Edge",
+          "desc": "(Passive) Increase dodge by 15%.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 15.62,
+          "y": 37.88
+        },
+        {
+          "name": "Papershield",
+          "desc": "Purify and gain 60% dodge rate for 3 turns.",
+          "damage": "0",
+          "cp": "375",
+          "cd": "14",
+          "x": 83.63,
+          "y": 37.58
+        },
+        {
+          "name": "Papercut",
+          "desc": "Disperse the enemy. Inflict bleeding 100% on enemy for 3 turns.",
+          "damage": "600",
+          "cp": "615",
+          "cd": "18",
+          "x": 15.62,
+          "y": 62.88
+        },
+        {
+          "name": "Paper Circle Cut",
+          "desc": "Dismantle enemy for 6 turns.",
+          "damage": "820",
+          "cp": "625",
+          "cd": "12",
+          "x": 83.63,
+          "y": 62.88
+        },
+        {
+          "name": "Paperwave",
+          "desc": "High damage, low cooldown.",
+          "damage": "1030",
+          "cp": "510",
+          "cd": "6",
+          "x": 51.64,
+          "y": 90.8
+        }
+      ]
+    },
+    {
+      "name": "Magma",
+      "image": "images/magma.png",
+      "thumb": "thumbs/magma.png",
+      "desc": "A devastating technique that unleashes scorching molten lava.",
+      "skills": [
+        {
+          "name": "Magma Scalding Skin",
+          "desc": "(Passive) 30% chance to inflict Blaze 3% on the attacker for 1 turn when hit.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 14.96,
+          "y": 9.88
+        },
+        {
+          "name": "Magma Vitality",
+          "desc": "(Passive) Increase max HP by 10% and accuracy by 15%.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 82.29,
+          "y": 9.88
+        },
+        {
+          "name": "Meteor Volcano",
+          "desc": "Inflict 8% Burn on ALL enemy for 3 turns.",
+          "damage": "1250",
+          "cp": "1000",
+          "cd": "20",
+          "x": 14.96,
+          "y": 33.77
+        },
+        {
+          "name": "Magma Hand",
+          "desc": "Instantly reduce target's max HP by 10%. Burn 10% for 1 turn.",
+          "damage": "900",
+          "cp": "625",
+          "cd": "18",
+          "x": 82.29,
+          "y": 33.77
+        },
+        {
+          "name": "Magma Explosion",
+          "desc": "Disperse the target.",
+          "damage": "1100",
+          "cp": "750",
+          "cd": "16",
+          "x": 51.12,
+          "y": 64.58
+        },
+        {
+          "name": "Hellhound",
+          "desc": "Instantly reduce target's max HP by 8% and inflict Internal Injury on enemy for 3 turns.",
+          "damage": "800",
+          "cp": "600",
+          "cd": "14",
+          "x": 51.12,
+          "y": 89.79
+        }
+      ]
+    },
+    {
+      "name": "Glint",
+      "image": "images/glint.png",
+      "thumb": "thumbs/glint.png",
+      "desc": "A mysterious light technique that releases a brilliant flash.",
+      "skills": [
+        {
+          "name": "Glint Swiftness",
+          "desc": "(Passive) Increases Agility by 20.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 29.65,
+          "y": 10.69
+        },
+        {
+          "name": "Glint Focus",
+          "desc": "(Passive) Increases accuracy by 15%.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 29.65,
+          "y": 35.42
+        },
+        {
+          "name": "Soul Beam",
+          "desc": "Inflict 60% Blind on enemy for 3 turns.",
+          "damage": "900",
+          "cp": "375",
+          "cd": "5",
+          "x": 73.62,
+          "y": 35.42
+        },
+        {
+          "name": "Sword of Light",
+          "desc": "Puts target's one random skill on +99 turn cooldown.",
+          "damage": "1000",
+          "cp": "250",
+          "cd": "24",
+          "x": 29.65,
+          "y": 60.31
+        },
+        {
+          "name": "Speed of Light",
+          "desc": "Disperse enemy and inflict 60% Bleeding for 3 turns.",
+          "damage": "960",
+          "cp": "450",
+          "cd": "16",
+          "x": 29.65,
+          "y": 85.19
+        },
+        {
+          "name": "Light Meteors",
+          "desc": "Attack ALL targets to inflict Restriction and Disorient 40% for 4 turns.",
+          "damage": "1185",
+          "cp": "1185",
+          "cd": "12",
+          "x": 73.62,
+          "y": 85.19
+        }
+      ]
+    },
+    {
+      "name": "Karma",
+      "image": "images/karma.png",
+      "thumb": "thumbs/karma.png",
+      "desc": "A mysterious forbidden power awakening immense hidden strength.",
+      "skills": [
+        {
+          "name": "Karma Vessel",
+          "desc": "(Passive) Increase max HP by 10%.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 49.0,
+          "y": 8.5
+        },
+        {
+          "name": "Karma Unbound",
+          "desc": "(Passive) 30% chance to use jutsu without spending chakra.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 49.5,
+          "y": 33.69
+        },
+        {
+          "name": "Activation",
+          "desc": "Activate Karma to increase accuracy by 50% and damage dealt by 50% for 3 turns.",
+          "damage": "0",
+          "cp": "600",
+          "cd": "20",
+          "x": 14.25,
+          "y": 63.37
+        },
+        {
+          "name": "Manifestation",
+          "desc": "Drains 20% of target's current HP & CP.",
+          "damage": "1125",
+          "cp": "625",
+          "cd": "24",
+          "x": 83.0,
+          "y": 63.37
+        },
+        {
+          "name": "Eye of Truth",
+          "desc": "Inflicts Weaken 50% on enemy for 3 turns.",
+          "damage": "0",
+          "cp": "800",
+          "cd": "16",
+          "x": 14.25,
+          "y": 88.87
+        },
+        {
+          "name": "Internal Destruction",
+          "desc": "ALL OUT DEVASTATION!",
+          "damage": "2400",
+          "cp": "2000",
+          "cd": "36",
+          "x": 83.0,
+          "y": 88.87
+        }
+      ]
+    },
+    {
+      "name": "Shinigami",
+      "image": "images/shinigami.png",
+      "thumb": "thumbs/shinigami.png",
+      "desc": "A forbidden technique that invokes the power of the Death God.",
+      "skills": [
+        {
+          "name": "Soul Ward",
+          "desc": "(Passive) Reduces incoming damage by 15%.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 52.01,
+          "y": 8.77
+        },
+        {
+          "name": "Death's Indifference",
+          "desc": "(Passive) 12% chance to resist a debuff affecting you.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 15.83,
+          "y": 39.54
+        },
+        {
+          "name": "Shinigami's Soul",
+          "desc": "Gain 100% Protection on self for 3 turns. Can't be dispersed.",
+          "damage": "0",
+          "cp": "1190",
+          "cd": "20",
+          "x": 83.67,
+          "y": 39.23
+        },
+        {
+          "name": "Shinigami's Sword",
+          "desc": "Meridian Seal on enemy for 3 turns.",
+          "damage": "1240",
+          "cp": "1190",
+          "cd": "20",
+          "x": 15.83,
+          "y": 61.54
+        },
+        {
+          "name": "Shinigami's Graveyard",
+          "desc": "Restriction on enemy for 3 turns. Internal Injury 5% on enemy for 3 turns.",
+          "damage": "570",
+          "cp": "1340",
+          "cd": "18",
+          "x": 83.67,
+          "y": 61.54
+        },
+        {
+          "name": "Shinigami's Sacrificial",
+          "desc": "Drain 20% of target's current HP.",
+          "damage": "1570",
+          "cp": "1000",
+          "cd": "16",
+          "x": 52.01,
+          "y": 90.77
+        }
+      ]
+    },
+    {
+      "name": "Magnetic Sand",
+      "image": "images/magnetic-sand.png",
+      "thumb": "thumbs/magnetic-sand.png",
+      "desc": "A secret technique that controls magnetic sand.",
+      "skills": [
+        {
+          "name": "Magnetic Sand Focus",
+          "desc": "(Passive) Increase accuracy by 20%.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 15.0,
+          "y": 9.68
+        },
+        {
+          "name": "Magnetic Sand Precision",
+          "desc": "(Passive) Increase critical chance by 10%.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 82.5,
+          "y": 9.68
+        },
+        {
+          "name": "Magnet Field",
+          "desc": "Debuff resist on self for 3 turns. Purify on self.",
+          "damage": "0",
+          "cp": "940",
+          "cd": "16",
+          "x": 15.0,
+          "y": 33.39
+        },
+        {
+          "name": "Magnet Smothering",
+          "desc": "Inflict Prison 12% on enemy for 3 turns.",
+          "damage": "600",
+          "cp": "400",
+          "cd": "18",
+          "x": 82.5,
+          "y": 33.39
+        },
+        {
+          "name": "Magnet Piercing Strike",
+          "desc": "High damage, always crit.",
+          "damage": "1800",
+          "cp": "1000",
+          "cd": "24",
+          "x": 51.25,
+          "y": 63.23
+        },
+        {
+          "name": "Magnet Avalanche",
+          "desc": "Suffocate 15% for 3 turns.",
+          "damage": "600",
+          "cp": "400",
+          "cd": "18",
+          "x": 51.25,
+          "y": 88.71
+        }
+      ]
+    },
+    {
+      "name": "Sand Manipulation",
+      "image": "images/sand-manipulation.png",
+      "thumb": "thumbs/sand-manipulation.png",
+      "desc": "A secret technique that grants complete control over sand.",
+      "skills": [
+        {
+          "name": "Sand Manipulation Sand Armor",
+          "desc": "(Passive) Reduce damage taken by 10% and recover 100 HP every turn.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 49.25,
+          "y": 8.16
+        },
+        {
+          "name": "Sand Manipulation Vitality",
+          "desc": "(Passive) Increase max HP by 10%.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 49.75,
+          "y": 33.75
+        },
+        {
+          "name": "Sand Strike",
+          "desc": "Instantly reduce target's CP by 80% of their max CP.",
+          "damage": "1250",
+          "cp": "1000",
+          "cd": "14",
+          "x": 14.32,
+          "y": 64.05
+        },
+        {
+          "name": "Sand Dancing Strikes",
+          "desc": "Inflict Restriction on enemy for 5 turns.",
+          "damage": "1240",
+          "cp": "900",
+          "cd": "16",
+          "x": 83.42,
+          "y": 64.05
+        },
+        {
+          "name": "Sand Eruption",
+          "desc": "Inflict Stun on enemy for 3 turns.",
+          "damage": "880",
+          "cp": "500",
+          "cd": "18",
+          "x": 14.32,
+          "y": 89.8
+        },
+        {
+          "name": "Agile Sand Guard",
+          "desc": "CP Shield 100% on self for 5 turns.",
+          "damage": "0",
+          "cp": "1250",
+          "cd": "14",
+          "x": 83.42,
+          "y": 89.8
+        }
+      ]
+    },
+    {
+      "name": "Butterfly Vein",
+      "image": "images/butterfly-vein.png",
+      "thumb": "thumbs/butterfly-vein.png",
+      "desc": "A secret technique that awakens the user's hidden potential, forming radiant butterfly wings that greatly enhance their power.",
+      "skills": [
+        {
+          "name": "Butterfly Vein Renewal",
+          "desc": "(Passive) Recover 375 HP per turn.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 51.64,
+          "y": 8.79
+        },
+        {
+          "name": "Butterfly Vein Fortitude",
+          "desc": "(Passive) Increase max HP & CP by 10%.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 15.62,
+          "y": 37.58
+        },
+        {
+          "name": "Butterfly Wings",
+          "desc": "Instantly Purify yourself. Gain 20% HP regeneration for 3 turns.",
+          "damage": "0",
+          "cp": "1000",
+          "cd": "14",
+          "x": 83.88,
+          "y": 37.27
+        },
+        {
+          "name": "Nikudan Sensha",
+          "desc": "Stun target for 3 turns.",
+          "damage": "900",
+          "cp": "750",
+          "cd": "14",
+          "x": 15.62,
+          "y": 60.91
+        },
+        {
+          "name": "Butterfly Leg Strikes",
+          "desc": "Inflict 100% Weaken for 3 turns.",
+          "damage": "600",
+          "cp": "400",
+          "cd": "16",
+          "x": 83.88,
+          "y": 60.91
+        },
+        {
+          "name": "Butterfly Fist Strike",
+          "desc": "Drain 20% of target's current HP.",
+          "damage": "600",
+          "cp": "400",
+          "cd": "18",
+          "x": 51.64,
+          "y": 90.0
+        }
+      ]
+    },
+    {
+      "name": "Jogan",
+      "image": "images/jogan.png",
+      "thumb": "thumbs/jogan.png",
+      "desc": "A mysterious eye technique that grants extraordinary perception.",
+      "skills": [
+        {
+          "name": "Jogan Precision",
+          "desc": "(Passive) Increase accuracy by 20%.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 49.37,
+          "y": 8.73
+        },
+        {
+          "name": "Jogan Reflux",
+          "desc": "(Passive) Recover 30% of damage taken as CP. Increase agility by 10.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 49.87,
+          "y": 33.38
+        },
+        {
+          "name": "Awakening",
+          "desc": "Gaining CP Shield on self for 3 turns. Purify on self. 1CP = 3HP",
+          "damage": "0",
+          "cp": "900",
+          "cd": "16",
+          "x": 14.36,
+          "y": 62.79
+        },
+        {
+          "name": "Karma Execution",
+          "desc": "Execute enemies inner spirit. Instantly reduce their max CP by 80%.",
+          "damage": "940",
+          "cp": "1130",
+          "cd": "16",
+          "x": 83.63,
+          "y": 62.79
+        },
+        {
+          "name": "Guardian Summon",
+          "desc": "Disperse the enemy and inflict 20% CP Burn for 3 turns.",
+          "damage": "1125",
+          "cp": "965",
+          "cd": "15",
+          "x": 14.36,
+          "y": 88.06
+        },
+        {
+          "name": "Summon Gedo Statue",
+          "desc": "Inflict 80% Disorient on enemy for 3 turns. Can't be purified.",
+          "damage": "1130",
+          "cp": "750",
+          "cd": "16",
+          "x": 83.63,
+          "y": 88.06
+        }
+      ]
+    },
+    {
+      "name": "Ice Kenjutsu",
+      "image": "images/ice-kenjutsu.png",
+      "thumb": "thumbs/ice-kenjutsu.png",
+      "desc": "A deadly sword art that channels freezing energy through the blade.",
+      "skills": [
+        {
+          "name": "Ice Kenjutsu Glacial Flow",
+          "desc": "(Passive) Increase accuracy by 15% and chance of using jutsu without CP by 15%.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 29.87,
+          "y": 11.02
+        },
+        {
+          "name": "Ice Kenjutsu Cleansing",
+          "desc": "(Passive) Increase Purify chance by 15%.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 29.87,
+          "y": 36.54
+        },
+        {
+          "name": "Glacial Severance",
+          "desc": "Disperse and Frozen the enemy for 3 turns.",
+          "damage": "750",
+          "cp": "400",
+          "cd": "16",
+          "x": 74.18,
+          "y": 36.54
+        },
+        {
+          "name": "Frostbite Waltz",
+          "desc": "High damage, low cooldown.",
+          "damage": "900",
+          "cp": "200",
+          "cd": "6",
+          "x": 29.87,
+          "y": 61.89
+        },
+        {
+          "name": "Ice Bricks Destruction",
+          "desc": "Put all targets abilities (excluding talent/senjutsu) on +3 cooldown.",
+          "damage": "750",
+          "cp": "565",
+          "cd": "18",
+          "x": 29.87,
+          "y": 87.56
+        },
+        {
+          "name": "Diamond Dust Barrage",
+          "desc": "Inflict Bleeding 150% on enemy for 3 turns.",
+          "damage": "1200",
+          "cp": "800",
+          "cd": "14",
+          "x": 74.18,
+          "y": 87.56
+        }
+      ]
+    },
+    {
+      "name": "Wood Control",
+      "image": "images/wood-control.png",
+      "thumb": "thumbs/wood-control.png",
+      "desc": "A secret technique that grants mastery over wood.",
+      "skills": [
+        {
+          "name": "Wood Control Reservoir",
+          "desc": "(Passive) Increase max HP by 15% and accuracy by 20%.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 15.11,
+          "y": 9.4
+        },
+        {
+          "name": "Wood Control Vitality",
+          "desc": "(Passive) Recover 300 HP every turn. 20% chance to resist debuff.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 83.12,
+          "y": 9.4
+        },
+        {
+          "name": "Veritable 1000-Armed Kanon",
+          "desc": "Restriction on enemy for 3 turns. Reduce ALL enemies max HP by 10%.",
+          "damage": "1130",
+          "cp": "900",
+          "cd": "14",
+          "x": 15.11,
+          "y": 33.55
+        },
+        {
+          "name": "Gracious Deity Gate",
+          "desc": "Seals target movement reducing his agility by 30% for 3 turns.",
+          "damage": "600",
+          "cp": "600",
+          "cd": "16",
+          "x": 83.12,
+          "y": 33.55
+        },
+        {
+          "name": "Wooden Dragons",
+          "desc": "Inflict 50% Bleeding and 50% Muddy on enemy for 3 turns.",
+          "damage": "1135",
+          "cp": "1000",
+          "cd": "16",
+          "x": 51.64,
+          "y": 63.53
+        },
+        {
+          "name": "Enraged Forest",
+          "desc": "User gains 30% regeneration on self for 5 turns.",
+          "damage": "0",
+          "cp": "750",
+          "cd": "18",
+          "x": 51.64,
+          "y": 89.14
+        }
+      ]
+    },
+    {
+      "name": "Rinnegan Sharingan",
+      "image": "images/rinner-sharingan.png",
+      "thumb": "thumbs/rinner-sharingan.png",
+      "desc": "A legendary eye technique possessing overwhelming visual power.",
+      "skills": [
+        {
+          "name": "Rinnegan Sharingan Focus",
+          "desc": "(Passive) Increase accuracy by 25%.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 48.88,
+          "y": 8.88
+        },
+        {
+          "name": "Rinnegan Sharingan Chakra Shift",
+          "desc": "(Passive) Increase max CP by 12% and recover 250 CP per turn. Recover 10% damage taken as CP.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 49.38,
+          "y": 33.96
+        },
+        {
+          "name": "Susanoo Manifestation",
+          "desc": "Disperse the target.",
+          "damage": "1000",
+          "cp": "800",
+          "cd": "12",
+          "x": 14.21,
+          "y": 63.86
+        },
+        {
+          "name": "Susanoo Blade: Thunder Fang",
+          "desc": "Inflict Chaos on enemy for 3 turns.",
+          "damage": "1240",
+          "cp": "800",
+          "cd": "18",
+          "x": 82.79,
+          "y": 63.86
+        },
+        {
+          "name": "Dimensional Burrow",
+          "desc": "Instantly recover 50% of max CP. Take damage as CP instead of HP (1CP = 3HP)(5 turns).",
+          "damage": "0",
+          "cp": "1000",
+          "cd": "16",
+          "x": 14.21,
+          "y": 89.56
+        },
+        {
+          "name": "Divine Lightning Arrows",
+          "desc": "Stun enemy for 3 turns.",
+          "damage": "880",
+          "cp": "400",
+          "cd": "12",
+          "x": 82.79,
+          "y": 89.56
+        }
+      ]
+    },
+    {
+      "name": "Rinnegan",
+      "image": "images/rinnegan.png",
+      "thumb": "thumbs/rinnegan.png",
+      "desc": "A legendary eye technique said to possess divine power.",
+      "skills": [
+        {
+          "name": "Rinnegan: Gravity Might",
+          "desc": "(Passive) Increase accuracy by 15% and ALL damage dealt by 10%.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 51.64,
+          "y": 8.88
+        },
+        {
+          "name": "Rinnegan Fortitude",
+          "desc": "(Passive) Increase max HP & CP by 10% and agility by 8.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 15.62,
+          "y": 37.98
+        },
+        {
+          "name": "Chibaku Tensei",
+          "desc": "Disperse the enemy. Internal Injury for 2 turns and decrease target max CP by 30%.",
+          "damage": "800",
+          "cp": "500",
+          "cd": "16",
+          "x": 83.88,
+          "y": 37.67
+        },
+        {
+          "name": "Awakening",
+          "desc": "Energize self by 40% for 5 turns.",
+          "damage": "0",
+          "cp": "627",
+          "cd": "24",
+          "x": 15.62,
+          "y": 61.56
+        },
+        {
+          "name": "Gedo Celestial Spin",
+          "desc": "Inflict 80% Vulnerable on enemy for 5 turns.",
+          "damage": "1500",
+          "cp": "600",
+          "cd": "10",
+          "x": 83.88,
+          "y": 61.56
+        },
+        {
+          "name": "Shinra Tensei",
+          "desc": "Disperse ALL enemies and reduce their max HP & CP by 10%.",
+          "damage": "1200",
+          "cp": "800",
+          "cd": "16",
+          "x": 51.64,
+          "y": 90.96
+        }
+      ]
+    },
+    {
+      "name": "Shadow Control",
+      "image": "images/shadow-control.png",
+      "thumb": "thumbs/shadow-control.png",
+      "desc": "A secret technique that manipulates shadows to bind and control enemies.",
+      "skills": [
+        {
+          "name": "Shadow Control Swiftness",
+          "desc": "(Passive) Increase agility by 18.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 51.77,
+          "y": 8.9
+        },
+        {
+          "name": "Shadow Control: Shadow Well",
+          "desc": "(Passive) Increase accuracy by 12% & max CP by 800.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 15.66,
+          "y": 38.04
+        },
+        {
+          "name": "Curse of the Dark Hand",
+          "desc": "Reduce target's agility by 40% for 3 turns. Can not be purified.",
+          "damage": "655",
+          "cp": "505",
+          "cd": "10",
+          "x": 84.09,
+          "y": 37.73
+        },
+        {
+          "name": "Shadow Binding Thorns",
+          "desc": "Inflict Shadow Prison onto the enemy making them unable to act and reducing their HP & CP by 10% for 3 turns.",
+          "damage": "1200",
+          "cp": "750",
+          "cd": "16",
+          "x": 15.66,
+          "y": 61.66
+        },
+        {
+          "name": "Shadow Binding Explosions",
+          "desc": "High damage to the target.",
+          "damage": "1400",
+          "cp": "900",
+          "cd": "14",
+          "x": 84.09,
+          "y": 61.66
+        },
+        {
+          "name": "Extinguish",
+          "desc": "Inflict Restriction on enemy for 5 turns.",
+          "damage": "1180",
+          "cp": "900",
+          "cd": "12",
+          "x": 51.77,
+          "y": 91.1
+        }
+      ]
+    },
+    {
+      "name": "Hakaiken",
+      "image": "images/hakaiken.png",
+      "thumb": "thumbs/hakaiken.png",
+      "desc": "A forbidden combat art that channels destructive energy into devastating strikes.",
+      "skills": [
+        {
+          "name": "Hakaiken Swiftness",
+          "desc": "(Passive) Increase agility by 12.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 15.11,
+          "y": 9.39
+        },
+        {
+          "name": "Hakaiken Destruction",
+          "desc": "(Passive) Increase taijutsu damage by 50%.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 83.12,
+          "y": 9.39
+        },
+        {
+          "name": "Blood Rage Stance",
+          "desc": "Purify and gain 100% Strengthen on self for 3 turns.",
+          "damage": "0",
+          "cp": "1250",
+          "cd": "14",
+          "x": 15.11,
+          "y": 33.5
+        },
+        {
+          "name": "Destructive Technique: Thousand Kicks",
+          "desc": "Reduce enemy max HP by 10%.",
+          "damage": "875",
+          "cp": "375",
+          "cd": "8",
+          "x": 83.12,
+          "y": 33.5
+        },
+        {
+          "name": "Destructive Technique: Destructive Leg Barrage",
+          "desc": "Inflict Restriction and Internal Injury on enemy for 3 turns.",
+          "damage": "1250",
+          "cp": "475",
+          "cd": "14",
+          "x": 51.64,
+          "y": 63.43
+        },
+        {
+          "name": "Final Form: Annihilation Type",
+          "desc": "Disperse the target.",
+          "damage": "885",
+          "cp": "1125",
+          "cd": "16",
+          "x": 51.64,
+          "y": 89.0
+        }
+      ]
+    },
+    {
+      "name": "Dark Devil Beast",
+      "image": "images/dark-devil-beast.png",
+      "thumb": "thumbs/dark-devil-beast.png",
+      "desc": "A sinister aura that awakens the power of a dark demonic beast.",
+      "skills": [
+        {
+          "name": "Dark Devil Beast Focus",
+          "desc": "(Passive) Increase accuracy by 25%.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 49.62,
+          "y": 8.8
+        },
+        {
+          "name": "Dark Devil Beast Swiftness",
+          "desc": "(Passive) Increase agility by 12.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 50.13,
+          "y": 33.64
+        },
+        {
+          "name": "Spirit Unity",
+          "desc": "Gain 'Power' increasing your damage by 100% for 3 turns. Reduce cooldown of skills that are resting by 5 on self.",
+          "damage": "0",
+          "cp": "875",
+          "cd": "16",
+          "x": 14.43,
+          "y": 63.27
+        },
+        {
+          "name": "Shigan",
+          "desc": "Inflict Bleeding 100% on enemy for 3 turns.",
+          "damage": "500",
+          "cp": "65",
+          "cd": "5",
+          "x": 84.05,
+          "y": 63.27
+        },
+        {
+          "name": "Hashinryu: Flash Combo",
+          "desc": "Instantly reduce enemy max HP by 15%.",
+          "damage": "1020",
+          "cp": "720",
+          "cd": "14",
+          "x": 14.43,
+          "y": 88.73
+        },
+        {
+          "name": "Dark Combo Shot",
+          "desc": "Instantly reduce ALL enemy max HP by 15% and inflict Internal Injury for 3 turns.",
+          "damage": "1250",
+          "cp": "750",
+          "cd": "16",
+          "x": 84.05,
+          "y": 88.73
+        }
+      ]
+    },
+    {
+      "name": "Dragon Force",
+      "image": "images/dragon-force.png",
+      "thumb": "thumbs/dragon-force.png",
+      "desc": "A legendary aura that awakens the power of an ancient dragon.",
+      "skills": [
+        {
+          "name": "Dragon Force Dragon Might",
+          "desc": "(Passive) Increase outgoing damage by 15%.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 51.9,
+          "y": 8.9
+        },
+        {
+          "name": "Dragon Force Dragon Scales",
+          "desc": "(Passive) Reduce damage taken by 12% and increase debuff resist chance by 5%.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 15.7,
+          "y": 38.04
+        },
+        {
+          "name": "Rising Dragon",
+          "desc": "Gain Power Up (Increase damage dealt) by 100% on self for 3 turns.",
+          "damage": "0",
+          "cp": "800",
+          "cd": "16",
+          "x": 84.3,
+          "y": 37.73
+        },
+        {
+          "name": "Blast Breath",
+          "desc": "Inflict 12% burn on ALL enemies for 3 turns.",
+          "damage": "875",
+          "cp": "400",
+          "cd": "12",
+          "x": 15.7,
+          "y": 61.66
+        },
+        {
+          "name": "Blast Destruction",
+          "desc": "Inflict Chaos on enemy for 3 turns and Blaze 5% for 5 turns.",
+          "damage": "1000",
+          "cp": "600",
+          "cd": "14",
+          "x": 84.3,
+          "y": 61.66
+        },
+        {
+          "name": "Flaming Bagua",
+          "desc": "Stun enemy for 3 turns.",
+          "damage": "1200",
+          "cp": "874",
+          "cd": "14",
+          "x": 51.9,
+          "y": 91.1
+        }
+      ]
+    },
+    {
+      "name": "Mist Force",
+      "image": "images/mist-force.png",
+      "thumb": "thumbs/mist-force.png",
+      "desc": "A mysterious technique that controls dense vapor and mist.",
+      "skills": [
+        {
+          "name": "Mist Force Reservoir",
+          "desc": "(Passive) Increase max CP by 10%. 10% chance to resist debuff.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 51.77,
+          "y": 8.84
+        },
+        {
+          "name": "Mist Force Cleansing",
+          "desc": "(Passive) Increase purify chance by 10%. Decrease damage taken by 10%.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 15.66,
+          "y": 37.8
+        },
+        {
+          "name": "Vapor Bomb Explosion",
+          "desc": "Inflict Restriction and Weaken 100% on enemy for 2 turns increasing damage taken.",
+          "damage": "750",
+          "cp": "750",
+          "cd": "15",
+          "x": 84.09,
+          "y": 37.5
+        },
+        {
+          "name": "Mirage Mist",
+          "desc": "Disperse ALL enemies. Freeze them for 3 turns.",
+          "damage": "0",
+          "cp": "600",
+          "cd": "18",
+          "x": 15.66,
+          "y": 61.28
+        },
+        {
+          "name": "Vapor Clone: Detonation",
+          "desc": "Disorient target by 80% for 3 turns.",
+          "damage": "1250",
+          "cp": "940",
+          "cd": "18",
+          "x": 84.09,
+          "y": 61.28
+        },
+        {
+          "name": "Crystal Frost Bubble",
+          "desc": "Inflict 12% Frostbite on enemy for 3 turns.",
+          "damage": "0",
+          "cp": "800",
+          "cd": "20",
+          "x": 51.77,
+          "y": 90.55
+        }
+      ]
+    },
+    {
+      "name": "Soul General",
+      "image": "images/soul-general.png",
+      "thumb": "thumbs/soul-general.png",
+      "desc": "A forbidden spiritual technique that summons the power of an ancient warrior spirit",
+      "skills": [
+        {
+          "name": "Soul General Swiftness",
+          "desc": "(Passive) Increase agility by 10, accuracy by 10%, and critical chance by 10%.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 49.87,
+          "y": 8.5
+        },
+        {
+          "name": "Soul General Blade Mastery",
+          "desc": "(Passive) Increase weapon damage efficiency by 50% and weapon accuracy efficiency by 50%. Applies in combat.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 49.87,
+          "y": 33.69
+        },
+        {
+          "name": "Murasama no Mitama",
+          "desc": "Purify on self and gain 50% Strengthen buff for 3 turns.",
+          "damage": "0",
+          "cp": "450",
+          "cd": "14",
+          "x": 14.21,
+          "y": 63.37
+        },
+        {
+          "name": "Akugyakubudou",
+          "desc": "Instantly reduce enemy max HP by 15%.",
+          "damage": "700",
+          "cp": "875",
+          "cd": "16",
+          "x": 85.53,
+          "y": 63.37
+        },
+        {
+          "name": "Murasama Kenjutsu: Sanpogiri",
+          "desc": "Inflict Restriction on enemy for 3 turns and has 70% chance to disperse target.",
+          "damage": "745",
+          "cp": "650",
+          "cd": "10",
+          "x": 14.21,
+          "y": 88.87
+        },
+        {
+          "name": "Futsu Kenjutsu: Itto Ryodan",
+          "desc": "Stun ALL enemies for 3 turns.",
+          "damage": "1075",
+          "cp": "1050",
+          "cd": "14",
+          "x": 85.53,
+          "y": 88.87
+        }
+      ]
+    },
+    {
+      "name": "Insect Control",
+      "image": "images/insect-control.png",
+      "thumb": "thumbs/insect-control.png",
+      "desc": "A secret technique that commands swarms of chakra-feeding insects.",
+      "skills": [
+        {
+          "name": "Insect Control Hive Shell",
+          "desc": "(Passive) Increase max CP by 1000.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 49.0,
+          "y": 8.88
+        },
+        {
+          "name": "Insect Control Cleansing",
+          "desc": "(Passive) Increase purify chance by 10%. User has 8% chance to use skill without CP.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 49.5,
+          "y": 33.96
+        },
+        {
+          "name": "Insect Shield",
+          "desc": "Grant yourself 100% CP Shield for 5 turns. 1 CP = 2 HP.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "18",
+          "x": 14.25,
+          "y": 63.86
+        },
+        {
+          "name": "Swarm Fists",
+          "desc": "Increase amount of CP enemy requires to use a skill by 100% for 3 turns.",
+          "damage": "937",
+          "cp": "1000",
+          "cd": "14",
+          "x": 83.0,
+          "y": 63.86
+        },
+        {
+          "name": "Insects Crush",
+          "desc": "Drain enemy CP by 50%.",
+          "damage": "1000",
+          "cp": "1000",
+          "cd": "12",
+          "x": 14.25,
+          "y": 89.56
+        },
+        {
+          "name": "Parasitic Destruction",
+          "desc": "Inflict 8% Suffocate on enemy for 3 turns.",
+          "damage": "780",
+          "cp": "675",
+          "cd": "18",
+          "x": 83.0,
+          "y": 89.56
+        }
+      ]
+    },
+    {
+      "name": "Art Style Clay",
+      "image": "images/art-style-clay.png",
+      "thumb": "thumbs/art-style-clay.png",
+      "desc": "A secret technique that shapes chakra-infused clay into living creations.",
+      "skills": [
+        {
+          "name": "Art Style: Clay Precision",
+          "desc": "(Passive) Increase critical chance by 10%.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 49.37,
+          "y": 8.82
+        },
+        {
+          "name": "Art Style: Clay Detonation",
+          "desc": "(Passive) Increase damage by 10% and critical damage by 10%.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 49.87,
+          "y": 33.75
+        },
+        {
+          "name": "Art of Aerial Bombing",
+          "desc": "Instantly reduce enemy max HP by 10%. Inflict Burn 6% on enemy for 2 turns.",
+          "damage": "1250",
+          "cp": "1000",
+          "cd": "16",
+          "x": 14.36,
+          "y": 63.47
+        },
+        {
+          "name": "Suicidal Trooper Explosion",
+          "desc": "Reduce 8% max HP on ALL enemies.",
+          "damage": "1375",
+          "cp": "1875",
+          "cd": "18",
+          "x": 83.63,
+          "y": 63.47
+        },
+        {
+          "name": "Artistic Swarm Detonation",
+          "desc": "Inflict 8% Blaze on target.",
+          "damage": "900",
+          "cp": "1000",
+          "cd": "16",
+          "x": 14.36,
+          "y": 89.01
+        },
+        {
+          "name": "Perfect Artistic Explosion",
+          "desc": "(Passive) Activates upon death. Remove all buffs and debuffs from self and deal high damage, then heal 1 HP afterwards. Can't use clay after that.",
+          "damage": "1395",
+          "cp": "0",
+          "cd": "0",
+          "x": 83.63,
+          "y": 89.01
+        }
+      ]
+    },
+    {
+      "name": "Infinity",
+      "image": "images/infinity.png",
+      "thumb": "thumbs/infinity.png",
+      "desc": "Break the limits and unleash infinite power.",
+      "skills": [
+        {
+          "name": "Infinity Limitless",
+          "desc": "(Passive) Increase agility by 10, max HP & CP by 10%.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 15.11,
+          "y": 9.11
+        },
+        {
+          "name": "Infinity Reversal",
+          "desc": "(Passive) Grants 10% chance to reverse each incoming debuff back to the attacker instead of receiving it. Each debuff is checked separately. Reversed debuff are still affected by the attacker's own immunity and resistance, cannot be reversed again, and do not apply to self-inflicted debuffs.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 83.12,
+          "y": 9.11
+        },
+        {
+          "name": "Limitless Shield",
+          "desc": "Instantly purify and gain 100% Protection on self for 3 turns.",
+          "damage": "0",
+          "cp": "900",
+          "cd": "10",
+          "x": 15.11,
+          "y": 32.5
+        },
+        {
+          "name": "Domain Expansion: Infinite Void",
+          "desc": "Increase max HP & CP by 1500 for 3 turns. Gain CP Shield on self for 3 turns (1CP absorbs 3 damage)",
+          "damage": "0",
+          "cp": "800",
+          "cd": "14",
+          "x": 83.12,
+          "y": 32.5
+        },
+        {
+          "name": "Cursed Technique Reversal: Red",
+          "desc": "Disperse ALL enemies and inflict Bleeding 75% for 3 turns.",
+          "damage": "875",
+          "cp": "500",
+          "cd": "14",
+          "x": 51.64,
+          "y": 61.54
+        },
+        {
+          "name": "Cursed Technique Lapse: Blue",
+          "desc": "Activate Titan Mode on self for 6 turns. Inflict Vulnerable 25% on enemy for 1 turn per attack while in Titan Mode.",
+          "damage": "500",
+          "cp": "625",
+          "cd": "14",
+          "x": 51.64,
+          "y": 86.34
+        }
+      ]
+    },
+    {
+      "name": "Underworld",
+      "image": "images/underworld.png",
+      "thumb": "thumbs/underworld.png",
+      "desc": "Summons the uncanny underworld at the heavy cost of the user's health.",
+      "skills": [
+        {
+          "name": "Spirit Mode",
+          "desc": "Stores damage instead of taking it, up to 50% of your max HP, for 4 turns. All of it lands at once when the effect ends.",
+          "damage": "0",
+          "cp": "800",
+          "cd": "16",
+          "x": 29.8,
+          "y": 10.74
+        },
+        {
+          "name": "Underworld Bond",
+          "desc": "(Passive) Increase accuracy by 25%.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 29.8,
+          "y": 35.58
+        },
+        {
+          "name": "Underworld Jail",
+          "desc": "Restrict all targets for 3 turns and inflict Blaze 8% for 3 turns.",
+          "damage": "600",
+          "cp": "600",
+          "cd": "12",
+          "x": 73.99,
+          "y": 35.58
+        },
+        {
+          "name": "Bone Armor",
+          "desc": "(Passive) Reflect 10% of all damage taken back to the attacker.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 29.8,
+          "y": 60.28
+        },
+        {
+          "name": "Underworld Judgement",
+          "desc": "Slows all targets by 25% for 3 turns. Reduce their purify rate and damage by 35% for 3 turns.",
+          "damage": "600",
+          "cp": "800",
+          "cd": "16",
+          "x": 29.8,
+          "y": 85.28
+        },
+        {
+          "name": "Underworld Agony",
+          "desc": "Inflict 10% Azure Scorch on enemy for 3 turns. Can't be purified.",
+          "damage": "300",
+          "cp": "600",
+          "cd": "12",
+          "x": 73.99,
+          "y": 85.28
+        }
+      ]
+    },
+    {
+      "name": "Cataclysm",
+      "image": "images/cataclysm.png",
+      "thumb": "thumbs/cataclysm.png",
+      "desc": "",
+      "skills": [
+        {
+          "name": "Shimon",
+          "desc": "(Passive) Grants user 20% chance to steal target's 1 active positive status with a weapon attack.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 51.51,
+          "y": 8.9
+        },
+        {
+          "name": "Chi no Joki",
+          "desc": "Guarantee critical hit.",
+          "damage": "950",
+          "cp": "1180",
+          "cd": "22",
+          "x": 15.58,
+          "y": 38.04
+        },
+        {
+          "name": "Roran Vein Strike",
+          "desc": "Disable all target's passives for 3 turns. Attack has 20% extra accuracy for each active buff on the target.",
+          "damage": "800",
+          "cp": "750",
+          "cd": "19",
+          "x": 83.67,
+          "y": 37.73
+        },
+        {
+          "name": "Reverse Ritual",
+          "desc": "(Passive) 25% chance to inflict 25% Blind and Numb on enemy for 1 turn.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 15.58,
+          "y": 61.66
+        },
+        {
+          "name": "Kyomon",
+          "desc": "Heals user for 50%. Recover 75% CP on self. Increase critical damage 50% on self for 2 turns.",
+          "damage": "0",
+          "cp": "700",
+          "cd": "18",
+          "x": 83.67,
+          "y": 61.66
+        },
+        {
+          "name": "Dark Thunder Storm",
+          "desc": "Absorb 3 active buffs from enemy and give it to user.",
+          "damage": "900",
+          "cp": "1150",
+          "cd": "18",
+          "x": 51.51,
+          "y": 91.1
+        }
+      ]
+    }
+  ],
+  "secret": [
+    {
+      "name": "Demon Sound",
+      "image": "images/demon-sound.png",
+      "thumb": "thumbs/demon-sound.png",
+      "desc": "The Demon Sound is combined by the elements of Thunder and Wind. Users interfere targets with different kinds of sounds and music.",
+      "skills": [
+        {
+          "name": "Demon Song",
+          "desc": "(Passive Skill) 70% chance to reduce target's damage by 32% (3 turns) by hitting enemy with thunder-wind ninjutsu.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 49.13,
+          "y": 30.12
+        },
+        {
+          "name": "Demon Song: Phantom Wave",
+          "desc": "Play the song of demon to interfere with the attention of target. Reduce target's accuracy - extra 20% dodge rate during target's attack (3 turns). Reduce target's critical chance by 20% (3 turns).",
+          "damage": "1000",
+          "cp": "910",
+          "cd": "16",
+          "x": 15.46,
+          "y": 74.56
+        },
+        {
+          "name": "Demon Song: Song of Fantasia",
+          "desc": "Play the song of demon to temporarily erase jutsu knowledge of target. Put target's 1 random skill into cooldown for 14 turns (PvP Jutsu).",
+          "damage": "1000",
+          "cp": "729",
+          "cd": "14",
+          "x": 84.29,
+          "y": 74.56
+        }
+      ]
+    },
+    {
+      "name": "Enraged Forest",
+      "image": "images/enraged-forest.png",
+      "thumb": "thumbs/enraged-forest.png",
+      "desc": "The Enraged Forest is combined by the elements of Water and Earth. User manipulates the growth of tree and uses wood to attack target.",
+      "skills": [
+        {
+          "name": "Nature Power",
+          "desc": "(Passive Skill) 58% chance to recover 6% HP & CP when using water and Earth skills.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 49.25,
+          "y": 29.18
+        },
+        {
+          "name": "Secret Enraged Forest: Smothering Bind",
+          "desc": "Entwine target with branches of tree. Stun target (2 turn).",
+          "damage": "730",
+          "cp": "825",
+          "cd": "15",
+          "x": 15.5,
+          "y": 72.24
+        },
+        {
+          "name": "Secret Enraged Forest: Matsuri",
+          "desc": "Entwine target with explosion of giant branches of a tree.",
+          "damage": "1630",
+          "cp": "1000",
+          "cd": "16",
+          "x": 84.5,
+          "y": 72.24
+        }
+      ]
+    },
+    {
+      "name": "Explosive Lava",
+      "image": "images/explosive-lava.png",
+      "thumb": "thumbs/explosive-lava.png",
+      "desc": "Explosive Lava is combined by the elements of Fire and Earth. User damage target by ignition and explosion.",
+      "skills": [
+        {
+          "name": "Explosive Lava",
+          "desc": "(Passive Skill) Increase fire-earth ninjutsu damage by 10%.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 49.75,
+          "y": 28.22
+        },
+        {
+          "name": "Secret Lava: Lava Shield",
+          "desc": "Stick target with pieces of lava when target attacks user. Affected target receives extra damage when user attacks with fire-earth ninjutsu. Lava Shield (6 Turns). Inflict 'Lava' on target (target receives extra 20% damage from fire, earth ninjutsu and Secret Lava: Lava Spirits) 2 turns. reduce target's dodge rate by 20% (2 turns).",
+          "damage": "0",
+          "cp": "600",
+          "cd": "20",
+          "x": 15.66,
+          "y": 69.86
+        },
+        {
+          "name": "Secret Lava: Lava Spirits",
+          "desc": "Create explosive clay bugs and dispatch them to target. 70% Chance to inflict 3% 'Burn' for 2 turns.",
+          "damage": "1120",
+          "cp": "1009",
+          "cd": "16",
+          "x": 85.35,
+          "y": 69.86
+        }
+      ]
+    },
+    {
+      "name": "Hidden Silhouette",
+      "image": "images/hidden-silhouette.png",
+      "thumb": "thumbs/hidden-silhouette.png",
+      "desc": "Silhouette user manipulates human shadows to restrict and control target. Advanced user can incarnate shadows into physical objects and attack target directly.",
+      "skills": [
+        {
+          "name": "Silhouette Capture",
+          "desc": "(Passive Skill) Any attack may inflict Capture (debuff) on target. Target under Capture status has lower dodge chance. 15% chance to inflict Capture on target (Reduce target's dodge chance by 10% for 3 turns)",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 49.25,
+          "y": 29.43
+        },
+        {
+          "name": "Secret Silhouette: Strangle",
+          "desc": "Restrict and strangle target by manipulating the shadow. Damage tripled when target is in 'Silhouette' status. User and target get 'Stun' 3 Turns. Target reduce 2% HP each 3 turns. Increase Silhouette chance by 15%",
+          "damage": "0",
+          "cp": "480",
+          "cd": "16",
+          "x": 15.5,
+          "y": 72.86
+        },
+        {
+          "name": "Secret Silhouette: Extinguish",
+          "desc": "Restrict and stab target with shadow spears. Damage tripled when target is in 'Silhouette' status. Restrict target (2 turn). Increase Silhouette chance by 15%",
+          "damage": "425",
+          "cp": "910",
+          "cd": "16",
+          "x": 84.5,
+          "y": 72.86
+        }
+      ]
+    },
+    {
+      "name": "Icy Crystal",
+      "image": "images/icy-crystal.png",
+      "thumb": "thumbs/icy-crystal.png",
+      "desc": "Combine Wind and Water elements together to form a new element type - Icy Crystal. Use low temperature to attack target or protect yourself.",
+      "skills": [
+        {
+          "name": "Absolute Zero Zone",
+          "desc": "(Passive Skill) Chance to freeze enemy by hitting enemy with wind-water ninjutsu. 13% chance to freeze target (1 turn)",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 49.25,
+          "y": 29.01
+        },
+        {
+          "name": "Secret Icy Crystal: Hakukage Horo",
+          "desc": "Freeze down all the moisture and form a armor. Damage will be decrease when being attacked and target will reduce CP. Reduce damage taken by 30% (2 turns). Reduce Target's 12% CP during target's attack",
+          "damage": "0",
+          "cp": "910",
+          "cd": "20",
+          "x": 15.5,
+          "y": 71.83
+        },
+        {
+          "name": "Secret Icy Crystal: Icy Kaleidoscope",
+          "desc": "Hide yourself in hundreds of crystal and attack target back and forth between the crystals. Wind and Water Jutsu will increase their damage. Target receives extra 12% damage from wind, water ninjutsu (3 turns)",
+          "damage": "1180",
+          "cp": "1360",
+          "cd": "16",
+          "x": 84.5,
+          "y": 71.83
+        }
+      ]
+    },
+    {
+      "name": "Iron Sand",
+      "image": "images/iron-sand.png",
+      "thumb": "thumbs/iron-sand.png",
+      "desc": "Iron Sand is a powerful skill that manipulates particles to create versatile weapons or defenses. The user controls the iron sand to form barriers and projectiles, making it highly adaptable in combat.",
+      "skills": [
+        {
+          "name": "Metallic Control",
+          "desc": "(Passive Skill) Allows the user to manipulate ferrous particles, providing an occasional, formidable defense mechanism when under heavy attack. If the user receives more than 1000 damage in a single turn, they have a 15% chance to gain 100% protection (Buff: Wolfram) for the next turn.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 49.25,
+          "y": 29.01
+        },
+        {
+          "name": "Secret Iron Sand: Aegis Shield",
+          "desc": "The user harnesses the power of iron sand to enter a heightened state, significantly enhancing their resilience and mental clarity. Clear all debuffs. Reduce damage taken by 100% for 3 turns.",
+          "damage": "0",
+          "cp": "540",
+          "cd": "16",
+          "x": 15.5,
+          "y": 71.83
+        },
+        {
+          "name": "Secret Iron Sand: Ferrous Barrage",
+          "desc": "The user commands iron sand to execute a devastating strike, disrupting the enemy's energy flow and leaving them significantly more vulnerable to subsequent attacks. Enemy's CP is reduced by 1000 instantly, and the enemy become vulnerable, receiving 50% more damage and weaken it for the next 2 turns.",
+          "damage": "822",
+          "cp": "804",
+          "cd": "15",
+          "x": 84.5,
+          "y": 71.83
+        }
+      ]
+    },
+    {
+      "name": "Crystal Manifestation",
+      "image": "images/crystal-manifestation.png",
+      "thumb": "thumbs/crystal-manifestation.png",
+      "desc": "Crystal Manifestation taps into the latent energies of the environment, channeling them to create intricate and powerful crystalline structures.",
+      "skills": [
+        {
+          "name": "Crystal Mastery",
+          "desc": "(Passive Skill) Crystal Mastery is a passive skill that bestows the user with an exceptional bond to the mystical properties of crystals. This skill grants a heightened resistance to negative effects, allowing the user 10% chance to resist all debuff.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 49.5,
+          "y": 29.6
+        },
+        {
+          "name": "Secret: Crystal Summoner's Art",
+          "desc": "Secret: Crystal Summoner's Art is an enigmatic skill that channels the mystical energies of the crystals to sap the life force of enemies. This skill reduces the enemy's HP and CP by a fixed amount. Reduce enemy HP and CP by 800.",
+          "damage": "425",
+          "cp": "1009",
+          "cd": "12",
+          "x": 15.58,
+          "y": 73.28
+        },
+        {
+          "name": "Secret: Crystal Rain Conjuration",
+          "desc": "Secret: Crystal Rain Conjuration is a formidable skill that calls forth a shower of razor-sharp crystalline shards from the sky. When activated, a deluge of shimmering crystals rains down upon the battlefield. All enemies inflicted by internal injury and bleeding for 2 turns. (70% amount bleeding)",
+          "damage": "708",
+          "cp": "1000",
+          "cd": "16",
+          "x": 84.92,
+          "y": 73.28
+        }
+      ]
+    },
+    {
+      "name": "Light Matter",
+      "image": "images/light-matter.png",
+      "thumb": "thumbs/light-matter.png",
+      "desc": "The Light Matter channels radiant energy to boost courage, enhance abilities, and unleash light to empower and destroy.",
+      "skills": [
+        {
+          "name": "Light Heart",
+          "desc": "(Passive Skill) A heart with pure light will help you to be more courageous and strong. 10% chance to apply Internal Injury for 2 turns after dealing damage.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 49.62,
+          "y": 29.26
+        },
+        {
+          "name": "Secret: Light of Courage",
+          "desc": "Secret: Gather the power of light and use it to buff yourself. Increase accuracy and damage by 60% for 5 turns (Solar Might).",
+          "damage": "0",
+          "cp": "1009",
+          "cd": "12",
+          "x": 15.62,
+          "y": 72.44
+        },
+        {
+          "name": "Secret: Ray of Light",
+          "desc": "Secret: Concentrate the power of light and use it like a ray to deal damage to enemies. Deal damage to one enemy, this skill can be used frequently. (This skill is high accurate).",
+          "damage": "708",
+          "cp": "20",
+          "cd": "6",
+          "x": 85.14,
+          "y": 72.44
+        }
+      ]
+    },
+    {
+      "name": "Dark Matter",
+      "image": "images/dark-matter.png",
+      "thumb": "thumbs/dark-matter.png",
+      "desc": "The Dark Matter harnesses primordial darkness to strengthen the body, empower attacks, and strike as a shadow from the void.",
+      "skills": [
+        {
+          "name": "Dark Heart",
+          "desc": "(Passive Skill) A heart embraced by darkness grants resilience through fear and despair, making you unyielding and relentless. 10% chance to apply disable enemy weapon effect for 2 turns upon damaging the enemy.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 49.25,
+          "y": 29.01
+        },
+        {
+          "name": "Secret: Oblivion Surge",
+          "desc": "Secret: Darkness floods your body, increasing strength and endurance while shrouding you in shadow. Clear all debuffs. Gain immunity to bleeding effect for 4 turns.",
+          "damage": "0",
+          "cp": "540",
+          "cd": "16",
+          "x": 15.5,
+          "y": 71.83
+        },
+        {
+          "name": "Dark Phantom Assassinate",
+          "desc": "Secret: Concentrate the power of dark and turn into a dark phantom to deal damage to enemy. Inflict 'Blind' to target by 65% for 3 turns.",
+          "damage": "1000",
+          "cp": "910",
+          "cd": "16",
+          "x": 84.5,
+          "y": 71.83
+        }
+      ]
+    },
+    {
+      "name": "Lunar Fang",
+      "image": "images/lunar-fang.png",
+      "thumb": "thumbs/lunar-fang.png",
+      "desc": "Awaken the feral power hidden beneath the moonlight. Lunar Beast grants its wielder savage strength, heightened instincts, and devastating celestial techniques capable.",
+      "skills": [
+        {
+          "name": "Lunar Fang Lunar Blessing",
+          "desc": "(Passive Skill) Increases ALL damage by 15%.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 49.25,
+          "y": 29.43
+        },
+        {
+          "name": "Lunar Fury",
+          "desc": "Instantly purify yourself. Increase damage dealt by 75% for 3 turns.",
+          "damage": "0",
+          "cp": "870",
+          "cd": "16",
+          "x": 15.5,
+          "y": 72.86
+        },
+        {
+          "name": "Celestial Thunderclap Strike",
+          "desc": "Deal high damage.",
+          "damage": "1735",
+          "cp": "1000",
+          "cd": "16",
+          "x": 84.5,
+          "y": 72.86
+        }
+      ]
+    },
+    {
+      "name": "Lightning Infusion",
+      "image": "images/lightning-infusion.png",
+      "thumb": "thumbs/lightning-infusion.png",
+      "desc": "Master the art of lightning chakra and infuse your attacks with high-voltage energy to strike enemies",
+      "skills": [
+        {
+          "name": "Lightning Infusion Precision",
+          "desc": "(Passive Skill) Increases Critical Damage by 20%.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 49.25,
+          "y": 29.01
+        },
+        {
+          "name": "Electric Wrath",
+          "desc": "Inflict Bleeding 100% on enemy for 3 turns.",
+          "damage": "860",
+          "cp": "600",
+          "cd": "18",
+          "x": 15.5,
+          "y": 71.83
+        },
+        {
+          "name": "Electric Strangle",
+          "desc": "Inflict Stun on enemy for 3 turns.",
+          "damage": "600",
+          "cp": "400",
+          "cd": "22",
+          "x": 84.5,
+          "y": 71.83
+        }
+      ]
+    },
+    {
+      "name": "Black Thunder",
+      "image": "images/balck-thunder.png",
+      "thumb": "thumbs/balck-thunder.png",
+      "desc": "A forbidden lightning art that condenses chakra into violent black electricity.",
+      "skills": [
+        {
+          "name": "Black Thunder Savagery",
+          "desc": "(Passive Skill) Increases Critical Damage dealt by 15%.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 49.25,
+          "y": 29.01
+        },
+        {
+          "name": "Black Panther",
+          "desc": "Remove all negative buffs and gain \"Lightning Armor\" while under the effect gain Increased Damage, Critical Chance and Ignore targets dodge rate by 50% for 3 turns.",
+          "damage": "0",
+          "cp": "500",
+          "cd": "14",
+          "x": 15.5,
+          "y": 71.83
+        },
+        {
+          "name": "Black Laser Circus",
+          "desc": "Inflicts Numb (decrease targets dodge rate) by 30% for 3 turns.",
+          "damage": "1300",
+          "cp": "1000",
+          "cd": "14",
+          "x": 84.5,
+          "y": 71.83
+        }
+      ]
+    },
+    {
+      "name": "Snowstorm",
+      "image": "images/snowstorm.png",
+      "thumb": "thumbs/snowstorm.png",
+      "desc": "A powerful ice technique.",
+      "skills": [
+        {
+          "name": "Snowstorm Ice Release",
+          "desc": "(Passive Skill) 10% Chance to Freeze enemies when dealing damage for 1 turn.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 49.62,
+          "y": 28.85
+        },
+        {
+          "name": "Blizzard Slice",
+          "desc": "Inflicts Frozen on enemy for 3 turns and instantly Reduce their Max CP by 10%.",
+          "damage": "600",
+          "cp": "400",
+          "cd": "14",
+          "x": 15.62,
+          "y": 71.43
+        },
+        {
+          "name": "Snow Dragon",
+          "desc": "Inflicts 30% Slow (decrease their agility) on enemy for 3 turns and inflict Weaken (reducing their damage dealt) by 50% for 3 turns.",
+          "damage": "1000",
+          "cp": "370",
+          "cd": "14",
+          "x": 85.14,
+          "y": 71.43
+        }
+      ]
+    },
+    {
+      "name": "Soul Music",
+      "image": "images/soul-music.png",
+      "thumb": "thumbs/soul-music.png",
+      "desc": "A mysterious melody that resonates with the soul. Its enchanted rhythm disrupts the enemy's spirit while empowering the user with mystical energy.",
+      "skills": [
+        {
+          "name": "Soul Music Rhythm",
+          "desc": "(Passive Skill) Increases Dodge rate by 10 % and Max CP by 10%.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 49.25,
+          "y": 29.26
+        },
+        {
+          "name": "Explosive Soundtrack",
+          "desc": "Inflict Restriction on ALL enemy for 3 turns and 30% Disorient for 3 turns.",
+          "damage": "1000",
+          "cp": "900",
+          "cd": "16",
+          "x": 15.5,
+          "y": 72.44
+        },
+        {
+          "name": "Souls Inner Song",
+          "desc": "Remove all debuffs on yourself and gain 50% Reflexes (Increases dodge chance) on self for 3 turns.",
+          "damage": "0",
+          "cp": "1000",
+          "cd": "16",
+          "x": 84.5,
+          "y": 72.44
+        }
+      ]
+    },
+    {
+      "name": "Inner Light",
+      "image": "images/inner-light.png",
+      "thumb": "thumbs/inner-light.png",
+      "desc": "A secret technique that awakens the hidden light within the soul, releasing pure spiritual energy to strengthen the user and overcome the darkness.",
+      "skills": [
+        {
+          "name": "Inner Cleansing",
+          "desc": "(Passive Skill) Increases Purify chance by 10%.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 49.25,
+          "y": 29.26
+        },
+        {
+          "name": "Yata no Kagami",
+          "desc": "Regeneration 20% on self for 5 turns.",
+          "damage": "0",
+          "cp": "1000",
+          "cd": "16",
+          "x": 15.5,
+          "y": 72.44
+        },
+        {
+          "name": "Yasakani no Magatama",
+          "desc": "Disperse enemy (Remove all positive buffs).",
+          "damage": "1000",
+          "cp": "1000",
+          "cd": "18",
+          "x": 84.5,
+          "y": 72.44
+        }
+      ]
+    },
+    {
+      "name": "Thunder Clap",
+      "image": "images/thunderclap.png",
+      "thumb": "thumbs/thunderclap.png",
+      "desc": "A powerful lightning technique that unleashes a deafening thunderclap, striking enemies with a sudden burst of electrical energy.",
+      "skills": [
+        {
+          "name": "Thunder Precision",
+          "desc": "(Passive Skill) Increases Critical chance by 10%.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 49.5,
+          "y": 29.01
+        },
+        {
+          "name": "Thundersplitter",
+          "desc": "Bleeding 200% on enemy for 2 turns.",
+          "damage": "900",
+          "cp": "1125",
+          "cd": "16",
+          "x": 15.58,
+          "y": 71.83
+        },
+        {
+          "name": "Thunderblast",
+          "desc": "Inflict Negate (target is unable to gain buffs) on enemy for 3 turns.",
+          "damage": "1000",
+          "cp": "600",
+          "cd": "18",
+          "x": 84.92,
+          "y": 71.83
+        }
+      ]
+    },
+    {
+      "name": "Mangekyou Sharingan",
+      "image": "images/mangekyou-sharingan.png",
+      "thumb": "thumbs/mangekyou-sharingan.png",
+      "desc": "A legendary eye technique awakened through powerful emotions, granting the user extraordinary visual prowess and mysterious abilities beyond the ordinary Sharingan.",
+      "skills": [
+        {
+          "name": "Mirror Pupil",
+          "desc": "(Passive Skill) Reflects an incoming genjutsu back at its caster with a 30% chance, and copies an enemy jutsu that strikes you with a 5% chance.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 49.25,
+          "y": 29.18
+        },
+        {
+          "name": "Nitoryu: Amaterasu",
+          "desc": "Inflict Burn 8% on enemy for 3 turns.",
+          "damage": "900",
+          "cp": "750",
+          "cd": "12",
+          "x": 15.5,
+          "y": 72.24
+        },
+        {
+          "name": "Fireball Amaterasu",
+          "desc": "Inflict 8% Blaze on enemy for 3 turns. This effect is uncleansable.",
+          "damage": "1250",
+          "cp": "900",
+          "cd": "16",
+          "x": 84.5,
+          "y": 72.24
+        }
+      ]
+    },
+    {
+      "name": "Eternal Black Flame",
+      "image": "images/eternal-black-flame.png",
+      "thumb": "thumbs/eternal-black-flame.png",
+      "desc": "A forbidden fire technique that summons mysterious black flames, relentlessly burning the target with an inextinguishable blaze.",
+      "skills": [
+        {
+          "name": "Eternal Black Flame Vitality",
+          "desc": "(Passive Skill) Increases Max HP by 20%.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 49.62,
+          "y": 29.01
+        },
+        {
+          "name": "Hell Eruption",
+          "desc": "Inflict Blaze 10% on enemy for 2 turns. This effect cannot be cleansed.",
+          "damage": "1185",
+          "cp": "415",
+          "cd": "10",
+          "x": 15.62,
+          "y": 71.83
+        },
+        {
+          "name": "Deaths Hand",
+          "desc": "Drains enemy current HP by 30% and Current CP by 10%.",
+          "damage": "1310",
+          "cp": "810",
+          "cd": "14",
+          "x": 85.14,
+          "y": 71.83
+        }
+      ]
+    },
+    {
+      "name": "Katsuryugan",
+      "image": "images/katsuryugan.png",
+      "thumb": "thumbs/katsuryugan.png",
+      "desc": "The legendary eye of the Chinoike Clan. Grants its wielder powerful genjutsu and the ability to manipulate blood.",
+      "skills": [
+        {
+          "name": "Blood Feast",
+          "desc": "(Passive Skill) Lifesteal 30% of damage dealt.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 49.25,
+          "y": 29.18
+        },
+        {
+          "name": "Blood Curse",
+          "desc": "Regen 33% HP on self for 5 turns and gain 30% Protection for 5 turns.",
+          "damage": "0",
+          "cp": "370",
+          "cd": "10",
+          "x": 15.5,
+          "y": 72.24
+        },
+        {
+          "name": "Blood Dragons",
+          "desc": "Attack all targets to inflict 100% internal Injury for 3 turns. Decrease Purify Active chance by 60% on all enemies for 3 turns.",
+          "damage": "1200",
+          "cp": "620",
+          "cd": "14",
+          "x": 84.5,
+          "y": 72.24
+        }
+      ]
+    },
+    {
+      "name": "Crystal Sanctuary",
+      "image": "images/crystal-sanctuary.png",
+      "thumb": "thumbs/crystal-sanctuary.png",
+      "desc": "A secret crystal technique.",
+      "skills": [
+        {
+          "name": "Crystal Bulwark",
+          "desc": "(Passive Skill) Increases Max CP by 10%. Reduces Damage Taken by 10%.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 49.25,
+          "y": 29.34
+        },
+        {
+          "name": "Crystal Dragon",
+          "desc": "Stun an enemy for 3 turns.",
+          "damage": "400",
+          "cp": "400",
+          "cd": "13",
+          "x": 15.5,
+          "y": 72.65
+        },
+        {
+          "name": "Crystal Mirror Explosion",
+          "desc": "Remove all buffs from the enemy and Reduce MAX CP by 50%.",
+          "damage": "600",
+          "cp": "400",
+          "cd": "8",
+          "x": 84.5,
+          "y": 72.65
+        }
+      ]
+    },
+    {
+      "name": "Tremor",
+      "image": "images/tremor.png",
+      "thumb": "thumbs/tremor.png",
+      "desc": "A powerful earth technique that sends violent vibrations through the ground, shaking enemies off balance with devastating force.",
+      "skills": [
+        {
+          "name": "Seismic Force",
+          "desc": "(Passive Skill) Increased damage dealt by 20%.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 49.13,
+          "y": 29.01
+        },
+        {
+          "name": "Severe Earthquake",
+          "desc": "Inflicts 100% Vulnerable (increasing damage taken) on enemy for 3 turns.",
+          "damage": "1125",
+          "cp": "565",
+          "cd": "16",
+          "x": 15.46,
+          "y": 71.83
+        },
+        {
+          "name": "Shockwave",
+          "desc": "Disperse the enemy and inflict and increases their CP Cost of skills by 100% for 3 turns.",
+          "damage": "975",
+          "cp": "750",
+          "cd": "18",
+          "x": 84.29,
+          "y": 71.83
+        }
+      ]
+    },
+    {
+      "name": "Archery",
+      "image": "images/archery.png",
+      "thumb": "thumbs/archery.png",
+      "desc": "A precise combat art that channels energy through the bow, allowing the user to strike enemies from afar with swift and deadly arrows.",
+      "skills": [
+        {
+          "name": "Archery Focus",
+          "desc": "(Passive Skill) Increases Accuracy by 15%.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 49.62,
+          "y": 29.26
+        },
+        {
+          "name": "Sky Reversal Shot",
+          "desc": "Inflicts Negate (Enemy cannot receive buffs) on enemy for 3 turns. Inflicts Bleeding 75% on enemy for 3 turns.",
+          "damage": "1050",
+          "cp": "620",
+          "cd": "16",
+          "x": 15.62,
+          "y": 72.44
+        },
+        {
+          "name": "Echo Shots",
+          "desc": "Inflict 100% Disorient (Decreases targets critical, dodge, combustion, purify and reactive force) for 3 turns.",
+          "damage": "1000",
+          "cp": "625",
+          "cd": "14",
+          "x": 85.14,
+          "y": 72.44
+        }
+      ]
+    },
+    {
+      "name": "Raijin Flash",
+      "image": "images/rajin-flash.png",
+      "thumb": "thumbs/rajin-flash.png",
+      "desc": "A legendary lightning technique that moves with the speed of thunder, striking the enemy in a brilliant flash before they can react.",
+      "skills": [
+        {
+          "name": "Raijin Step",
+          "desc": "(Passive Skill) Increases Agility by 15.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 49.13,
+          "y": 29.43
+        },
+        {
+          "name": "Raijin Senbonzakura",
+          "desc": "Inflict Internal Injury on enemy for 5 turns and drains 10% HP by.",
+          "damage": "1200",
+          "cp": "800",
+          "cd": "16",
+          "x": 15.46,
+          "y": 72.86
+        },
+        {
+          "name": "Raijin Rasenshuriken",
+          "desc": "Disperse the enemy (Remove all positive active effects).",
+          "damage": "1200",
+          "cp": "875",
+          "cd": "16",
+          "x": 84.29,
+          "y": 72.86
+        }
+      ]
+    },
+    {
+      "name": "Abyssal Void",
+      "image": "images/abyssal-void.png",
+      "thumb": "thumbs/abyssal-void.png",
+      "desc": "A forbidden technique that summons the power of the endless abyss, engulfing enemies in a dark void that consumes everything in its path.",
+      "skills": [
+        {
+          "name": "Emptiness",
+          "desc": "(Passive Skill) Increases MAX cp by 10%.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 49.13,
+          "y": 28.85
+        },
+        {
+          "name": "Black Hole",
+          "desc": "Drains 80% of the enemy current CP.",
+          "damage": "1125",
+          "cp": "1250",
+          "cd": "16",
+          "x": 15.46,
+          "y": 71.43
+        },
+        {
+          "name": "Gravity Ball",
+          "desc": "Target one enemy. Put all of that target's skills on cooldown for 5 turns and inflict Prison 10% for 3 turns.",
+          "damage": "1200",
+          "cp": "750",
+          "cd": "16",
+          "x": 84.29,
+          "y": 71.43
+        }
+      ]
+    },
+    {
+      "name": "Sunfire",
+      "image": "images/sunfire.png",
+      "thumb": "thumbs/sunfire.png",
+      "desc": "A legendary fire technique that harnesses the scorching power of the sun, engulfing enemies in radiant flames of overwhelming heat.",
+      "skills": [
+        {
+          "name": "Solar Fury",
+          "desc": "(Passive Skill) Increases accuracy by 25%.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 49.13,
+          "y": 28.85
+        },
+        {
+          "name": "Sunfire",
+          "desc": "Inflict 10% Suffocate on enemy for 3 turns.",
+          "damage": "800",
+          "cp": "400",
+          "cd": "10",
+          "x": 15.46,
+          "y": 71.43
+        },
+        {
+          "name": "Sunburn",
+          "desc": "Attack all targets to Burn 10% on all enemy for 3 turns.",
+          "damage": "870",
+          "cp": "420",
+          "cd": "10",
+          "x": 84.29,
+          "y": 71.43
+        }
+      ]
+    },
+    {
+      "name": "Storm Cloud",
+      "image": "images/stormcloud.png",
+      "thumb": "thumbs/stormcloud.png",
+      "desc": "A powerful lightning technique that summons dark storm clouds, raining down thunderbolts upon enemies with devastating force.",
+      "skills": [
+        {
+          "name": "Storm Focus",
+          "desc": "(Passive Skill) Increases Critical chance by 20%.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 49.25,
+          "y": 29.18
+        },
+        {
+          "name": "Thunderstorm",
+          "desc": "Inflicts Barrier on enemy for 1 turns. Inflicts 50% Numb on enemy for 3 turns.",
+          "damage": "900",
+          "cp": "1000",
+          "cd": "14",
+          "x": 15.5,
+          "y": 72.24
+        },
+        {
+          "name": "Thundercloud",
+          "desc": "Inflicts Disorient (Decrease dodge, accuracy, purify and reactive force) chance by 100% on enemy for 3 turns.",
+          "damage": "1125",
+          "cp": "1500",
+          "cd": "12",
+          "x": 84.5,
+          "y": 72.24
+        }
+      ]
+    },
+    {
+      "name": "Snow Release",
+      "image": "images/snow-release.png",
+      "thumb": "thumbs/snow-release.png",
+      "desc": "Awaken an ancient technique - Snow Release. Snow Release specializes in low CP cost skills, modifying target stats and counter attacking with ease.",
+      "skills": [
+        {
+          "name": "Snow Release",
+          "desc": "(Passive Skill) Receive 9% damage as CP instead of HP. (Conversion rate: 1HP = 3CP)",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 49.0,
+          "y": 28.77
+        },
+        {
+          "name": "Snow Release: Gigantic Snowball Barrage",
+          "desc": "Stun on enemy for 2 turns.",
+          "damage": "300",
+          "cp": "200",
+          "cd": "18",
+          "x": 15.42,
+          "y": 71.23
+        },
+        {
+          "name": "Snow Release: Snow Spike Massacre",
+          "desc": "Inflicts Frozen on enemy for 3 turns.",
+          "damage": "400",
+          "cp": "300",
+          "cd": "18",
+          "x": 84.08,
+          "y": 71.23
+        }
+      ]
+    },
+    {
+      "name": "Gale Release",
+      "image": "images/gale-release.png",
+      "thumb": "thumbs/gale-release.png",
+      "desc": "A super rare combination of Lightning, Wind and Water releases combining into light speed attacks.",
+      "skills": [
+        {
+          "name": "Gale Armor",
+          "desc": "(Passive Skill) Increases user's Critical by 15% and Dodge by 15%.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 49.25,
+          "y": 29.26
+        },
+        {
+          "name": "Gale Laser",
+          "desc": "Decrease Purify chance by 60% on all enemies for 3 turns.",
+          "damage": "700",
+          "cp": "600",
+          "cd": "18",
+          "x": 15.5,
+          "y": 72.44
+        },
+        {
+          "name": "Gale Light Beam",
+          "desc": "Increase users damage dealt by 100% for 3 turns. Energize (Increase users Crit, Dodge, Combustion, Reactive and purify) chance 30% for 3 turns.",
+          "damage": "0",
+          "cp": "600",
+          "cd": "18",
+          "x": 84.5,
+          "y": 72.44
+        }
+      ]
+    },
+    {
+      "name": "Puppeteering",
+      "image": "images/puppeteering.png",
+      "thumb": "thumbs/puppeteering.png",
+      "desc": "Forbidden technique, used in taking control of foreign objects.",
+      "skills": [
+        {
+          "name": "Chakra Network",
+          "desc": "(Passive Skill) Increases purify chance by 12%.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 49.25,
+          "y": 29.18
+        },
+        {
+          "name": "Steel Puppet - Black Hole",
+          "desc": "100% chance to Disperse target's all statuses.",
+          "damage": "700",
+          "cp": "800",
+          "cd": "14",
+          "x": 15.5,
+          "y": 72.24
+        },
+        {
+          "name": "Gold Puppet - Poison Field",
+          "desc": "Inflict 12% Poison on enemy for 5 turns.",
+          "damage": "700",
+          "cp": "800",
+          "cd": "20",
+          "x": 84.5,
+          "y": 72.24
+        }
+      ]
+    },
+    {
+      "name": "Sand Burial",
+      "image": "images/sand-burial.png",
+      "thumb": "thumbs/sand-burial.png",
+      "desc": "An ancient ability, giving user control over sand. Often used in quick counterattacks.",
+      "skills": [
+        {
+          "name": "Sand Armor",
+          "desc": "(Passive Skill) Recovers HP of the 25% CP Cost when using a jutsu.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 49.25,
+          "y": 29.26
+        },
+        {
+          "name": "Almighty Sand Shield",
+          "desc": "Increases users Reactive Force 100% for 5 turns. Recover Hp 10% on self for 5 turns.",
+          "damage": "0",
+          "cp": "800",
+          "cd": "22",
+          "x": 15.5,
+          "y": 72.44
+        },
+        {
+          "name": "Sand Cage Burial",
+          "desc": "Inflicts 10% Suffocate (reduce max hp & cp) on enemy for 3 turns.",
+          "damage": "500",
+          "cp": "900",
+          "cd": "22",
+          "x": 84.5,
+          "y": 72.44
+        }
+      ]
+    },
+    {
+      "name": "Vampire's Touch",
+      "image": "images/vampires-touch.png",
+      "thumb": "thumbs/vampires-touch.png",
+      "desc": "The ultimate ability to control individual blood cells of yourself and the enemy. May lead to extreme bloodlust.",
+      "skills": [
+        {
+          "name": "Vampire's Touch",
+          "desc": "(Passive Skill) Restore 10% of damage done as CP.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 49.0,
+          "y": 29.18
+        },
+        {
+          "name": "Secret Vampire's Touch: Blood Drago",
+          "desc": "Inflicts 40% Dark Curse on enemy for 3 turns. Decrease Purify chance 40% on enemy for 3 turns.",
+          "damage": "400",
+          "cp": "800",
+          "cd": "14",
+          "x": 15.42,
+          "y": 72.24
+        },
+        {
+          "name": "Secret Vampire's Touch: Parasite Viru",
+          "desc": "Drains 10% of enemy current HP. Inflicts Internal Injury 100% on enemy for 3 turns.",
+          "damage": "500",
+          "cp": "850",
+          "cd": "18",
+          "x": 84.08,
+          "y": 72.24
+        }
+      ]
+    },
+    {
+      "name": "Macabre Bone Pulse",
+      "image": "images/macabre-bone-pulse.png",
+      "thumb": "thumbs/macabre-bone-pulse.png",
+      "desc": "This talent bestows upon its user the power to control their own skeletal structure.",
+      "skills": [
+        {
+          "name": "Marrow Shield",
+          "desc": "(Passive Skill) Reduce damage taken by 10%.",
+          "damage": "0",
+          "cp": "0",
+          "cd": "0",
+          "x": 49.25,
+          "y": 29.18
+        },
+        {
+          "name": "Zephyr Bone Barrage",
+          "desc": "Inflicts Vulnerable 50% on enemy for 3 turns. Inflicts Disorient 50% on enemy for 3 turns.",
+          "damage": "600",
+          "cp": "300",
+          "cd": "15",
+          "x": 15.5,
+          "y": 72.24
+        },
+        {
+          "name": "Incursion of the Ivory Spikes",
+          "desc": "Inflicts Slow 30% on enemy for 3 turns.",
+          "damage": "800",
+          "cp": "700",
+          "cd": "14",
+          "x": 84.5,
+          "y": 72.24
+        }
+      ]
+    }
+  ],
+  "senjutsu": [
+    {
+      "name": "Toad Sage Mode",
+      "image": "images/toad-sage-mode.png",
+      "thumb": "thumbs/toad-sage-mode.png",
+      "desc": "The sage mode come from the Toad Hill, learn it from the Old Huge Toad, toad senjutsu can make our body become stronger and damage become more",
+      "req": "Level 80, Pass Ninja Tutor Exam",
+      "wide": true,
+      "hot": 9.8,
+      "skills": [
+        {
+          "name": "Mountains Flavor",
+          "desc": "(Passive) Increase Max HP by 12% and All attack damage increase by 8%.",
+          "damage": "0",
+          "sp": "0",
+          "cd": "0",
+          "x": 5.62,
+          "y": 47.72
+        },
+        {
+          "name": "Toad Oil",
+          "desc": "Decrease target 75% Agility for 4 turns.",
+          "damage": "300",
+          "sp": "335",
+          "cd": "8",
+          "x": 26.85,
+          "y": 21.76
+        },
+        {
+          "name": "Toad Fire Curse",
+          "desc": "Burn target 8% of the maximum HP & CP, if target got 'Oil' debuff, damage increases to 16%. (Oil debuff will be removed if using this skill)",
+          "damage": "550",
+          "sp": "475",
+          "cd": "9",
+          "x": 27.38,
+          "y": 67.19
+        },
+        {
+          "name": "Shield of Toad",
+          "desc": "Create a shield to offset 800 damage, the effect will cancel until the damage quota used up.",
+          "damage": "0",
+          "sp": "550",
+          "cd": "12",
+          "x": 48.4,
+          "y": 11.77
+        },
+        {
+          "name": "Ishikawa Goemon",
+          "desc": "Randomly use a skill from the target and put it in cooldown for 4 turns (PvP Jutsu) (Not applicable on Talent skill and Senjutsu)",
+          "damage": "100",
+          "sp": "800",
+          "cd": "20",
+          "x": 48.4,
+          "y": 35.27
+        },
+        {
+          "name": "Toad Spirit",
+          "desc": "(Passive) When player's HP is below 25%, increase 25% of critical rate and accuracy by 35%.",
+          "damage": "0",
+          "sp": "0",
+          "cd": "0",
+          "x": 48.4,
+          "y": 58.94
+        },
+        {
+          "name": "Special Pipe",
+          "desc": "60% of making target to skip the next action time for 1 turn.",
+          "damage": "625",
+          "sp": "730",
+          "cd": "15",
+          "x": 48.4,
+          "y": 82.27
+        },
+        {
+          "name": "Secret Sake of Toad",
+          "desc": "In the following 5 turns, all attack damage increased 50% of maximum SP.",
+          "damage": "0",
+          "sp": "735",
+          "cd": "20",
+          "x": 69.84,
+          "y": 23.34
+        },
+        {
+          "name": "Power of Toad",
+          "desc": "Deal bonus damage equal to 15% of the target's Max HP.",
+          "damage": "1075",
+          "sp": "790",
+          "cd": "20",
+          "x": 69.84,
+          "y": 69.64
+        },
+        {
+          "name": "Pneuma Toad Bomb",
+          "desc": "Drain 15% of all targets' maximum SP. (Targets' SP : Player's SP = 2:1) (PvP Jutsu)",
+          "damage": "1220",
+          "sp": "1025",
+          "cd": "22",
+          "x": 91.39,
+          "y": 51.23
+        }
+      ]
+    },
+    {
+      "name": "Snake Sage Mode",
+      "image": "images/snake-sage-mode.png",
+      "thumb": "thumbs/snake-sage-mode.png",
+      "desc": "The sage mode come from the Snake Cave, learn it from the Snake God, snake sage can make help for your skill using.",
+      "req": "Level 80, Pass Ninja Tutor Exam",
+      "wide": true,
+      "hot": 9.8,
+      "skills": [
+        {
+          "name": "Earth Flavor",
+          "desc": "(Passive) All skills use 24% less CP. Cooldown of skills decrease by 2 when the skill is first used.",
+          "damage": "0",
+          "sp": "0",
+          "cd": "0",
+          "x": 6.93,
+          "y": 32.6
+        },
+        {
+          "name": "Toxic Fangs",
+          "desc": "Petrify and poison target, then reduce 7% HP for 2 turns. (Petrified target cannot take any actions but will receive no damage, except damage over time)",
+          "damage": "0",
+          "sp": "380",
+          "cd": "17",
+          "x": 6.93,
+          "y": 74.64
+        },
+        {
+          "name": "Snake Swallow",
+          "desc": "Decrease the target's CP limit by 65% for 3 turns, if target got 'Toxic Tooth' debuff, the amount change to 80% for 3 turns (when the effect expired, the maximum limit of CP will return to normal)",
+          "damage": "490",
+          "sp": "530",
+          "cd": "15",
+          "x": 25.27,
+          "y": 53.27
+        },
+        {
+          "name": "Seven Snake Attack",
+          "desc": "This Senjutsu ignore target's 100% dodge rate.",
+          "damage": "740",
+          "sp": "680",
+          "cd": "13",
+          "x": 44.66,
+          "y": 32.6
+        },
+        {
+          "name": "Snake Mark",
+          "desc": "Target cannot use Talent and Senjutsu for 4 turns.",
+          "damage": "530",
+          "sp": "670",
+          "cd": "18",
+          "x": 44.66,
+          "y": 74.64
+        },
+        {
+          "name": "Special Snake Scales",
+          "desc": "Inflict 'Venom Spread' on user for 3 turns. (Reduce Target's 10% HP,CP,SP during target's attack)",
+          "damage": "0",
+          "sp": "635",
+          "cd": "18",
+          "x": 63.63,
+          "y": 16.7
+        },
+        {
+          "name": "Psychedelic Sound",
+          "desc": "Player teases target for 2 turns. While being teased, targets are forced to use weapon attack only. (PvP Jutsu)",
+          "damage": "480",
+          "sp": "825",
+          "cd": "20",
+          "x": 63.63,
+          "y": 53.27
+        },
+        {
+          "name": "Shedding",
+          "desc": "(Passive) When current SP reaches to 90% or above, player have 10% chance ignore all damage.",
+          "damage": "0",
+          "sp": "0",
+          "cd": "0",
+          "x": 63.63,
+          "y": 92.31
+        },
+        {
+          "name": "Snakes Shadow",
+          "desc": "Target will go into chaos for 1 times in first, third and fifth turn. (If target removes the debuff, only the first turn will be remove)",
+          "damage": "670",
+          "sp": "1160",
+          "cd": "21",
+          "x": 78.17,
+          "y": 53.27
+        },
+        {
+          "name": "Dragon Sublimation",
+          "desc": "Absorb target 15% HP and convert to SP (Target's HP : Player's SP = 2:1) (PvP Jutsu)",
+          "damage": "1080",
+          "sp": "875",
+          "cd": "20",
+          "x": 91.87,
+          "y": 53.27
+        }
+      ]
+    },
+    {
+      "name": "Slug Sage Mode",
+      "image": "images/slug-sage-mode.png",
+      "thumb": "thumbs/slug-sage-mode.png",
+      "desc": "Slug Sage Mode, imparted by the wise slugs of Shikkotsu Forest, is known for its unparalleled healing prowess and immense vitality.",
+      "req": "Level 80, Pass Ninja Tutor Exam",
+      "wide": true,
+      "hot": 9.8,
+      "skills": [
+        {
+          "name": "Slug Sage",
+          "desc": "Increase Max HP by 3000 & Recovers 2% HP every turn - cannot be dispersed (5 turns).",
+          "damage": "0",
+          "sp": "1000",
+          "cd": "20",
+          "x": 10.1,
+          "y": 48.23
+        },
+        {
+          "name": "Slug Protection",
+          "desc": "User takes 25% of the damage by CP and recovers 500 CP every turn - cannot be dispersed (5 turns).",
+          "damage": "0",
+          "sp": "400",
+          "cd": "12",
+          "x": 24.15,
+          "y": 48.23
+        },
+        {
+          "name": "Slug Explosion",
+          "desc": "Reduce 20% of the opponent's attack damage - cannot be purified (5 turns).",
+          "damage": "700",
+          "sp": "550",
+          "cd": "12",
+          "x": 43.5,
+          "y": 27.74
+        },
+        {
+          "name": "Earth Mastery",
+          "desc": "(Passive) Increase earth ninjutsu attack damage by 30% and reactive force chance by 30%.",
+          "damage": "0",
+          "sp": "0",
+          "cd": "0",
+          "x": 43.5,
+          "y": 48.23
+        },
+        {
+          "name": "Chakra Kick",
+          "desc": "Inflict 'CP Burn' effect on the opponent (Reduce opponent CP by 20% - 5 turns).",
+          "damage": "1000",
+          "sp": "500",
+          "cd": "14",
+          "x": 43.5,
+          "y": 71.82
+        },
+        {
+          "name": "Chakra Mega Punch",
+          "desc": "Inflict vulnerable effect on the target - target receives extra 50% damage - 2 turns (cannot be purified).",
+          "damage": "1200",
+          "sp": "800",
+          "cd": "14",
+          "x": 58.3,
+          "y": 27.92
+        },
+        {
+          "name": "Stoneheart Fortitude",
+          "desc": "(Passive) Increase Max HP and CP by 10%.",
+          "damage": "0",
+          "sp": "0",
+          "cd": "0",
+          "x": 58.51,
+          "y": 48.23
+        },
+        {
+          "name": "Slug Blessing",
+          "desc": "Heal the entire team (+ 2000 HP).",
+          "damage": "0",
+          "sp": "1000",
+          "cd": "20",
+          "x": 58.3,
+          "y": 71.82
+        },
+        {
+          "name": "Slug Absorption",
+          "desc": "Drain 15% HP from all targets (based on current HP).",
+          "damage": "900",
+          "sp": "800",
+          "cd": "25",
+          "x": 72.99,
+          "y": 48.23
+        },
+        {
+          "name": "Slug Breath",
+          "desc": "Inflict 'Reverse Healing' status on all targets - targets will lose HP instead of healing (3 turns). This jutsu cannot be purified.",
+          "damage": "1200",
+          "sp": "1000",
+          "cd": "50",
+          "x": 86.95,
+          "y": 48.23
+        }
+      ]
+    },
+    {
+      "name": "Monkey Sage Mode",
+      "image": "images/monkey-sage-mode.png",
+      "thumb": "thumbs/monkey-sage-mode.png",
+      "desc": "Monkey Sage Mode, learned from the Monkey Elder of the mountain peaks, balances body and chakra for relentless strength in battle.",
+      "req": "Level 80, Pass Ninja Tutor Exam",
+      "wide": true,
+      "hot": 9.8,
+      "skills": [
+        {
+          "name": "Monkey Sage",
+          "desc": "Increase Max HP by 2000 and Max CP by 2000. Reduce damage taken by 10% and recover 200 HP & CP every turn (10 turns - cannot be dispersed).",
+          "damage": "0",
+          "sp": "700",
+          "cd": "20",
+          "x": 10.07,
+          "y": 48.41
+        },
+        {
+          "name": "Collaborative Kicks",
+          "desc": "Inflict blind (reduce the opponent's accuracy by 40%; 3 turns - cannot be purified).",
+          "damage": "800",
+          "sp": "600",
+          "cd": "14",
+          "x": 24.1,
+          "y": 48.41
+        },
+        {
+          "name": "Monkey Cage",
+          "desc": "Mirror 100% of the incoming attack damage back to the opponent (3 turns - cannot be dispersed).",
+          "damage": "0",
+          "sp": "800",
+          "cd": "14",
+          "x": 43.41,
+          "y": 27.92
+        },
+        {
+          "name": "Monkey Shadow Assault",
+          "desc": "Stun the target (2 turns).",
+          "damage": "1200",
+          "sp": "1000",
+          "cd": "14",
+          "x": 43.41,
+          "y": 48.41
+        },
+        {
+          "name": "Spirit Destruction",
+          "desc": "Drain 20% of the opponent's current HP & CP.",
+          "damage": "1300",
+          "sp": "1200",
+          "cd": "14",
+          "x": 43.41,
+          "y": 72.0
+        },
+        {
+          "name": "Elemental Mastery",
+          "desc": "(Passive) Increase all attack damage by 20%.",
+          "damage": "0",
+          "sp": "0",
+          "cd": "0",
+          "x": 58.18,
+          "y": 28.09
+        },
+        {
+          "name": "Balance Control",
+          "desc": "(Passive) Increase Max HP & CP by 1000.",
+          "damage": "0",
+          "sp": "0",
+          "cd": "0",
+          "x": 58.39,
+          "y": 48.41
+        },
+        {
+          "name": "Primal Drop",
+          "desc": "Restrict the target (2 turns).",
+          "damage": "1400",
+          "sp": "800",
+          "cd": "10",
+          "x": 58.18,
+          "y": 72.0
+        },
+        {
+          "name": "Thousand-Cut Ritual",
+          "desc": "Ultra accurate. Reduce the target's dodge chance by 50% (3 turns).",
+          "damage": "1000",
+          "sp": "1400",
+          "cd": "14",
+          "x": 72.84,
+          "y": 48.41
+        },
+        {
+          "name": "Beast Blade Dance",
+          "desc": "Remove all positive buffs from the target and put ONE random jutsu on cooldown (+50 turns).",
+          "damage": "1300",
+          "sp": "1800",
+          "cd": "25",
+          "x": 86.76,
+          "y": 48.41
+        }
+      ]
+    },
+    {
+      "name": "Shark Sage Mode",
+      "image": "images/shark-sage-mode.png",
+      "thumb": "thumbs/shark-sage-mode.png",
+      "desc": "Shark Sage Mode, taught by the great sharks of the open sea, turns the tide of battle with the ferocity of the deep.",
+      "req": "Level 80, Pass Ninja Tutor Exam",
+      "wide": true,
+      "hot": 9.8,
+      "skills": [
+        {
+          "name": "Shark Sage",
+          "desc": "Increase Max CP by 5000 and recover 5% CP every turn (10 turns - cannot be dispersed).",
+          "damage": "0",
+          "sp": "1000",
+          "cd": "20",
+          "x": 10.03,
+          "y": 47.88
+        },
+        {
+          "name": "Shark Prison",
+          "desc": "Drain 50% of the opponent's current CP and stun them (2 turns).",
+          "damage": "750",
+          "sp": "700",
+          "cd": "12",
+          "x": 24.0,
+          "y": 47.88
+        },
+        {
+          "name": "Shark Attack",
+          "desc": "Reduce the opponent's purify chance by 50% (5 turns - cannot be purified).",
+          "damage": "850",
+          "sp": "900",
+          "cd": "14",
+          "x": 43.22,
+          "y": 27.39
+        },
+        {
+          "name": "Water Mastery",
+          "desc": "(Passive) Increase water ninjutsu attack damage by 40% and purify chance by 10%.",
+          "damage": "0",
+          "sp": "0",
+          "cd": "0",
+          "x": 43.22,
+          "y": 47.88
+        },
+        {
+          "name": "Water Shield",
+          "desc": "Reduce incoming attack damage by 70% and take the rest from CP instead of HP (1 HP = 1 CP), and protect user with debuff resist (3 turns - cannot be dispersed).",
+          "damage": "0",
+          "sp": "500",
+          "cd": "12",
+          "x": 43.22,
+          "y": 71.47
+        },
+        {
+          "name": "Shark Assault",
+          "desc": "Ultra accurate. Attack the opponent and inflict chaos (2 turns).",
+          "damage": "1050",
+          "sp": "1100",
+          "cd": "12",
+          "x": 57.93,
+          "y": 27.56
+        },
+        {
+          "name": "Hydro Blessing",
+          "desc": "(Passive) Recover 2% HP every turn. Increase Max HP by 500.",
+          "damage": "0",
+          "sp": "0",
+          "cd": "0",
+          "x": 58.14,
+          "y": 47.88
+        },
+        {
+          "name": "Shark Fang Whirl",
+          "desc": "Restrict the opponent (3 turns).",
+          "damage": "800",
+          "sp": "400",
+          "cd": "10",
+          "x": 57.93,
+          "y": 71.47
+        },
+        {
+          "name": "Demon Shark Dance",
+          "desc": "Inflict Reverse Charging: charging drains the CP it would have restored (7 turns - cannot be purified).",
+          "damage": "1600",
+          "sp": "1300",
+          "cd": "14",
+          "x": 72.53,
+          "y": 47.88
+        },
+        {
+          "name": "Shark's Final Dance",
+          "desc": "Heal HP after using this jutsu (200% of the damage made).",
+          "damage": "1750",
+          "sp": "1800",
+          "cd": "50",
+          "x": 86.4,
+          "y": 47.88
+        }
+      ]
+    },
+    {
+      "name": "Nature Sage Mode",
+      "image": "images/nature-sage-mode.png",
+      "thumb": "thumbs/nature-sage-mode.png",
+      "desc": "Nature Sage Mode draws on the living wood of the ancient forest to shield allies and bind enemies.",
+      "req": "Level 80, Pass Ninja Tutor Exam",
+      "wide": true,
+      "hot": 9.8,
+      "skills": [
+        {
+          "name": "Nature Sage",
+          "desc": "Increase Max HP by 3000, recovers 250 HP & 100 SP every turn (cannot be dispersed - 10 turns).",
+          "damage": "0",
+          "sp": "700",
+          "cd": "20",
+          "x": 10.01,
+          "y": 48.23
+        },
+        {
+          "name": "Golem Strike",
+          "desc": "Reduce the opponent's dodge chance and agility by 40% (cannot be purified - 3 turns).",
+          "damage": "800",
+          "sp": "600",
+          "cd": "12",
+          "x": 23.95,
+          "y": 48.23
+        },
+        {
+          "name": "Wooden Buddha",
+          "desc": "Resist any negative status and recover 500 HP & CP every turn (3 turns).",
+          "damage": "0",
+          "sp": "400",
+          "cd": "14",
+          "x": 43.13,
+          "y": 27.74
+        },
+        {
+          "name": "Wooden Dragon",
+          "desc": "Instantly reduce opponent's HP by 15% of their max HP.",
+          "damage": "900",
+          "sp": "800",
+          "cd": "8",
+          "x": 43.13,
+          "y": 48.23
+        },
+        {
+          "name": "Wooden Piercing Explosion",
+          "desc": "Has 100% chance to remove all positive buffs from the opponent.",
+          "damage": "800",
+          "sp": "800",
+          "cd": "9",
+          "x": 43.13,
+          "y": 71.82
+        },
+        {
+          "name": "Nature Power",
+          "desc": "(Passive) Increase Wood Control & Enraged Forest talent damage by 20%. Recover 6% HP & CP after using a Wood Control / Enraged Forest talent.",
+          "damage": "0",
+          "sp": "0",
+          "cd": "0",
+          "x": 57.81,
+          "y": 27.92
+        },
+        {
+          "name": "Natural Healing",
+          "desc": "(Passive) Recover 200 HP every turn. Increase Max HP by 1500.",
+          "damage": "0",
+          "sp": "0",
+          "cd": "0",
+          "x": 58.02,
+          "y": 48.23
+        },
+        {
+          "name": "Blooming Sanctuary",
+          "desc": "Protect the team with Debuff Resist and recover 600 HP & SP every turn (3 turns).",
+          "damage": "0",
+          "sp": "900",
+          "cd": "14",
+          "x": 57.81,
+          "y": 71.82
+        },
+        {
+          "name": "Rootquake Strike",
+          "desc": "Block the target from healing (Internal Injury - 6 turns; cannot be dispersed or purified).",
+          "damage": "1300",
+          "sp": "1000",
+          "cd": "12",
+          "x": 72.38,
+          "y": 48.23
+        },
+        {
+          "name": "Thousand Palm Devastation",
+          "desc": "Attack all targets and increase a random jutsu cooldown by 3 turns.",
+          "damage": "3000",
+          "sp": "1800",
+          "cd": "50",
+          "x": 86.22,
+          "y": 48.23
+        }
+      ]
+    },
+    {
+      "name": "Kyubi Sage Mode",
+      "image": "images/kyubi-sage-mode.png",
+      "thumb": "thumbs/kyubi-sage-mode.png",
+      "desc": "Kyubi Sage Mode channels the chakra of the Nine-Tailed Fox, burning with overwhelming power.",
+      "req": "Level 80, Pass Ninja Tutor Exam",
+      "wide": true,
+      "hot": 9.8,
+      "skills": [
+        {
+          "name": "Kyubi Mode",
+          "desc": "Increase Max HP by 1000, instantly heal 1000 HP and recover 500 HP every turn (10 turns - cannot be dispersed).",
+          "damage": "0",
+          "sp": "350",
+          "cd": "20",
+          "x": 10.13,
+          "y": 48.23
+        },
+        {
+          "name": "Divine Hands",
+          "desc": "Resist any negative status, reduce damage taken by 100% and increase attack damage by 450 (4 turns).",
+          "damage": "0",
+          "sp": "350",
+          "cd": "14",
+          "x": 24.08,
+          "y": 48.23
+        },
+        {
+          "name": "Divine Explosion",
+          "desc": "Inflict chaos on the opponent (2 turns) and instantly reduce the opponent's HP by 10% of their max HP.",
+          "damage": "800",
+          "sp": "650",
+          "cd": "12",
+          "x": 43.28,
+          "y": 27.74
+        },
+        {
+          "name": "Taijutsu Mastery",
+          "desc": "(Passive) Increase taijutsu attack damage by 10% and recover HP after dealing damage (15% of the damage made).",
+          "damage": "0",
+          "sp": "0",
+          "cd": "0",
+          "x": 43.28,
+          "y": 48.23
+        },
+        {
+          "name": "Kyubi Rasengan",
+          "desc": "Inflict bleeding on the target: it receives 75% extra damage (3 turns).",
+          "damage": "1000",
+          "sp": "500",
+          "cd": "14",
+          "x": 43.28,
+          "y": 71.82
+        },
+        {
+          "name": "Multi Rasengan",
+          "desc": "100% chance to remove all positive buffs from the target.",
+          "damage": "900",
+          "sp": "800",
+          "cd": "14",
+          "x": 57.97,
+          "y": 27.92
+        },
+        {
+          "name": "Tailed Sage Chakra",
+          "desc": "(Passive) Recover 100 HP & CP every turn. Increase Max HP by 750.",
+          "damage": "0",
+          "sp": "0",
+          "cd": "0",
+          "x": 58.18,
+          "y": 48.23
+        },
+        {
+          "name": "Biju Chakra Armor",
+          "desc": "Instantly purify self and reduce incoming attack damage by 100% (2 turns - cannot be dispersed).",
+          "damage": "0",
+          "sp": "700",
+          "cd": "14",
+          "x": 57.97,
+          "y": 71.82
+        },
+        {
+          "name": "Rasengan: Silent Flash",
+          "desc": "Ultra accurate. Reduce the opponent's dodge & accuracy by 60% (3 turns).",
+          "damage": "800",
+          "sp": "800",
+          "cd": "14",
+          "x": 72.56,
+          "y": 48.23
+        },
+        {
+          "name": "Divine Beast Slash",
+          "desc": "Remove all positive buffs from the target and inflict burn: lose 10% of max HP every turn (10 turns).",
+          "damage": "1000",
+          "sp": "1800",
+          "cd": "50",
+          "x": 86.41,
+          "y": 48.23
+        }
+      ]
+    },
+    {
+      "name": "Burning Heart Sage Mode",
+      "image": "images/burning-heart-sage-mode.png",
+      "thumb": "thumbs/burning-heart-sage-mode.png",
+      "desc": "Burning Heart Sage Mode turns an unbreakable fighting spirit into living flame that burns hotter the longer the battle rages.",
+      "req": "Level 80, Pass Ninja Tutor Exam",
+      "wide": true,
+      "hot": 9.8,
+      "skills": [
+        {
+          "name": "Blazing Fire",
+          "desc": "Increase Max HP by 3000. Recovers HP after dealing damage (80% of the damage dealt; 10 turns).",
+          "damage": "0",
+          "sp": "350",
+          "cd": "20",
+          "x": 10.21,
+          "y": 48.23
+        },
+        {
+          "name": "Rising Scorching Sun",
+          "desc": "Reduce the target's attack damage by 100% in the next turn (cannot be purified). This skill can be used frequently.",
+          "damage": "1000",
+          "sp": "350",
+          "cd": "6",
+          "x": 24.44,
+          "y": 48.23
+        },
+        {
+          "name": "Blazing Destruction",
+          "desc": "Inflict reverse healing on the opponent (target loses HP instead of healing; 3 turns). Disperse the target.",
+          "damage": "1000",
+          "sp": "800",
+          "cd": "12",
+          "x": 44.01,
+          "y": 27.74
+        },
+        {
+          "name": "Blazing Universe",
+          "desc": "Gain an additional 85% accuracy to strike the target and inflict chaos (2 turns).",
+          "damage": "900",
+          "sp": "700",
+          "cd": "10",
+          "x": 44.01,
+          "y": 48.23
+        },
+        {
+          "name": "Unknowing Fire",
+          "desc": "Inflict burn on the opponent (reduce 600 HP & CP every turn - cannot be purified; 5 turns).",
+          "damage": "1300",
+          "sp": "1000",
+          "cd": "14",
+          "x": 44.01,
+          "y": 71.82
+        },
+        {
+          "name": "Fire Mastery",
+          "desc": "(Passive) Increase all attack damage by 20%. After using a jutsu, recover HP equal to 30% of its CP cost.",
+          "damage": "0",
+          "sp": "0",
+          "cd": "0",
+          "x": 58.98,
+          "y": 27.92
+        },
+        {
+          "name": "Fusion of Might",
+          "desc": "(Passive) Increase Max HP by 500. Add 500 damage to every attack. Reduce all damage taken by 300.",
+          "damage": "0",
+          "sp": "0",
+          "cd": "0",
+          "x": 59.2,
+          "y": 48.23
+        },
+        {
+          "name": "Engoku Sodan",
+          "desc": "Instantly reduce 15% of the target's max HP.",
+          "damage": "700",
+          "sp": "200",
+          "cd": "10",
+          "x": 58.98,
+          "y": 71.82
+        },
+        {
+          "name": "Enko Senshu",
+          "desc": "Instantly reduce 1000 HP & CP from the target.",
+          "damage": "750",
+          "sp": "500",
+          "cd": "12",
+          "x": 73.85,
+          "y": 48.23
+        },
+        {
+          "name": "Divine Flame Roaring Slash",
+          "desc": "Disperse the target and stun it (3 turns). Instantly reduce 20% of the target's current HP & CP.",
+          "damage": "1200",
+          "sp": "1800",
+          "cd": "20",
+          "x": 87.97,
+          "y": 48.23
+        }
+      ]
+    }
+  ]
+}

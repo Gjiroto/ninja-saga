@@ -1,0 +1,1515 @@
+{
+  "jutsus": [
+    {
+      "id": "jutsu-001",
+      "skill_id": "skill_5002",
+      "name": "Kinjutsu: Black Lightning Combo",
+      "level": 60,
+      "desc": "Remove all positive effects from the enemy. This jutsu is extremely accurate.",
+      "damage": "469",
+      "cp": "100",
+      "cd": "14",
+      "image": "jutsus/Captura de pantalla 2026-09-28 083229.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-09-28 083229.png",
+        "jutsus/Captura de pantalla 2026-10-03 000637.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": ""
+    },
+    {
+      "id": "jutsu-002",
+      "skill_id": "skill_1445",
+      "name": "Kinjutsu: Perfect Susanoo no Mikoto",
+      "level": 60,
+      "desc": "Summon Susanoo no Mikoto to attack the target. Increases 55%% damage and reduces incoming damage by 55% for 5 turns. Susanoo no Mikoto will attack target when user inflicts damage to the target by attacks. Reduce target's 5% HP instantly and 30% chance to remove target's all positive status on every successful Susanoo no Mikoto attack. (This buff cannot be disperse).",
+      "damage": "500",
+      "cp": "1000",
+      "cd": "20",
+      "image": "jutsus/Captura de pantalla 2026-09-28 083249.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-09-28 083249.png",
+        "jutsus/Captura de pantalla 2026-10-03 000637.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": "Se conserva la errata 55%% tal como aparece en la ficha adjunta.",
+      "attachment_source": {
+        "description": "Imagenes adjuntas por el usuario en la conversacion del 2026-10-03; transcripcion visual, sin archivo local de las imagenes.",
+        "number": 8
+      }
+    },
+    {
+      "id": "jutsu-003",
+      "skill_id": "skill_5001",
+      "name": "Kinjutsu: Crimson Torrent",
+      "level": 60,
+      "desc": "Inflicts 'Muddy' by 25% and burns the target max HP by 4% for 4 turns.",
+      "damage": "200",
+      "cp": "10",
+      "cd": "14",
+      "image": "jutsus/Captura de pantalla 2026-09-28 083304.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-09-28 083304.png",
+        "jutsus/Captura de pantalla 2026-10-03 000618.png",
+        "jutsus/Captura de pantalla 2026-10-03 000637.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": ""
+    },
+    {
+      "id": "jutsu-004",
+      "skill_id": "skill_2060",
+      "name": "Blue Dragon's Kick",
+      "level": 60,
+      "desc": "The technique unleashes a dragon-like wind that can be controlled by the user at will and released in form of a kick. Inflict 'Stun' and 'Internal Injury' to enemies for 2 turns. This skill cannot be dodged.",
+      "damage": "600",
+      "cp": "10",
+      "cd": "14",
+      "image": "jutsus/Captura de pantalla 2026-09-28 083319.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-09-28 083319.png",
+        "jutsus/Captura de pantalla 2026-10-03 000637.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": ""
+    },
+    {
+      "id": "jutsu-005",
+      "skill_id": "skill_100682",
+      "name": "Gear Fifth",
+      "level": 40,
+      "desc": "Enter the state of the fifth gear. Increase accuracy chance by 50% and dodge rate by 50% (3 turns).",
+      "damage": "0",
+      "cp": "400",
+      "cd": "14",
+      "image": "jutsus/Captura de pantalla 2026-09-28 083330.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-09-28 083330.png",
+        "jutsus/Captura de pantalla 2026-10-03 000637.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": ""
+    },
+    {
+      "id": "jutsu-006",
+      "skill_id": "skill_100715",
+      "name": "Lightspeed Shockwave",
+      "level": 40,
+      "desc": "Attack the target with the speed of light - remove all positive buff from the target.",
+      "damage": "900",
+      "cp": "10",
+      "cd": "10",
+      "image": "jutsus/Captura de pantalla 2026-09-28 083340.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-09-28 083340.png",
+        "jutsus/Captura de pantalla 2026-10-03 000637.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": ""
+    },
+    {
+      "id": "jutsu-007",
+      "skill_id": "skill_2243",
+      "name": "Kinjutsu: Rain of Fortune Coin",
+      "level": 40,
+      "desc": "(Kinjutsu) Reducing 8% of maximum HP enemy and inflict 'Internal Injury' for 1 turns.",
+      "damage": "250",
+      "cp": "10",
+      "cd": "14",
+      "image": "jutsus/Captura de pantalla 2026-09-28 083354.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-09-28 083354.png",
+        "jutsus/Captura de pantalla 2026-10-03 000637.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": ""
+    },
+    {
+      "id": "jutsu-008",
+      "skill_id": "skill_2138",
+      "name": "Kinjutsu: Freedom Rage",
+      "level": 40,
+      "desc": "Strike the enemy with high speed movement. Reduce all target Max HP by 9%.",
+      "damage": "400",
+      "cp": "10",
+      "cd": "16",
+      "image": "jutsus/Captura de pantalla 2026-09-28 083407.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-09-28 083407.png",
+        "jutsus/Captura de pantalla 2026-10-03 000637.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": ""
+    },
+    {
+      "id": "jutsu-009",
+      "skill_id": "skill_100716",
+      "name": "Titan Slay",
+      "level": 20,
+      "desc": "Swing to the target to slay its neck. Put all targets skills on cooldown (+2 turns).",
+      "damage": "666",
+      "cp": "10",
+      "cd": "10",
+      "image": "jutsus/Captura de pantalla 2026-09-28 083436.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-09-28 083436.png",
+        "jutsus/Captura de pantalla 2026-10-03 000646.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": ""
+    },
+    {
+      "id": "jutsu-010",
+      "skill_id": "skill_100418",
+      "name": "Kinjutsu: Ultimate Two Swords Barrage",
+      "level": 20,
+      "desc": "Rapidly strike the target with two swords, causing them internal injury for 8 turns. (disable target from healing)",
+      "damage": "688",
+      "cp": "10",
+      "cd": "14",
+      "image": "jutsus/Captura de pantalla 2026-09-28 083444.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-09-28 083444.png",
+        "jutsus/Captura de pantalla 2026-10-03 000646.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": ""
+    },
+    {
+      "id": "jutsu-011",
+      "skill_id": "skill_1258",
+      "name": "Kinjutsu: Five Element Blade",
+      "level": 1,
+      "desc": "(Kinjutsu) Removes all positive from the target. Inflicts 'Internal Injury' for 2 turns. This Jutus is Ultra Accurate.",
+      "damage": "156",
+      "cp": "10",
+      "cd": "17",
+      "image": "jutsus/Captura de pantalla 2026-09-28 083452.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-09-28 083452.png",
+        "jutsus/Captura de pantalla 2026-10-03 000646.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": ""
+    },
+    {
+      "id": "jutsu-012",
+      "skill_id": "skill_1374",
+      "name": "Kinjutsu: Suiten Dragon Clash",
+      "level": 1,
+      "desc": "Reduces target's Dodge Chance by 60% for 3 turns. Reduces target's Reative Force by 60% for 3 turns. Reduces target's Damage by 60% for 3 turns.",
+      "damage": "300",
+      "cp": "298",
+      "cd": "16",
+      "image": "jutsus/Captura de pantalla 2026-09-28 083637.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-09-28 083637.png",
+        "jutsus/Captura de pantalla 2026-10-03 000646.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": ""
+    },
+    {
+      "id": "jutsu-013",
+      "skill_id": "skill_2242",
+      "name": "Kinjutsu: Rend",
+      "level": 1,
+      "desc": "(Kinjutsu) Instantly reduce target max HP by 12%. Target cannot use any jutsu and charge for 4 turns. (This jutsu is high accuracy).",
+      "damage": "666",
+      "cp": "10",
+      "cd": "12",
+      "image": "jutsus/Captura de pantalla 2026-09-28 083655.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-09-28 083655.png",
+        "jutsus/Captura de pantalla 2026-10-03 000646.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": ""
+    },
+    {
+      "id": "jutsu-014",
+      "skill_id": "skill_400",
+      "name": "Kinjutsu: Wolf Fists Attack",
+      "level": 1,
+      "desc": "(Kinjutsu) Ultimate leverage of chakra for attack. Reduce target's 10% HP",
+      "damage": "100",
+      "cp": "10",
+      "cd": "20",
+      "image": "jutsus/Captura de pantalla 2026-09-28 083703.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-09-28 083703.png",
+        "jutsus/Captura de pantalla 2026-10-03 000646.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": "",
+      "attachment_source": {
+        "description": "Imagenes adjuntas por el usuario en la conversacion del 2026-10-03; transcripcion visual, sin archivo local de las imagenes.",
+        "number": 9
+      }
+    },
+    {
+      "id": "jutsu-015",
+      "skill_id": "skill_30007",
+      "name": "Gomu Gomu No: Fireworks",
+      "level": 1,
+      "desc": "(Kinjutsu) Unleash a barrage of rubbery punches on all enemies. Instantly reduce targets' max HP by 15% and inflict Chaos for 2 turns.",
+      "damage": "200",
+      "cp": "100",
+      "cd": "16",
+      "image": "jutsus/Captura de pantalla 2026-09-28 083712.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-09-28 083712.png",
+        "jutsus/Captura de pantalla 2026-10-03 000659.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": ""
+    },
+    {
+      "id": "jutsu-016",
+      "skill_id": "skill_1310",
+      "name": "Kinjutsu: Advanced Metal Crush",
+      "level": 1,
+      "desc": "Inflicts 35% Bleeding and Stuns target for 3 turns.",
+      "damage": "777",
+      "cp": "10",
+      "cd": "13",
+      "image": "jutsus/Captura de pantalla 2026-09-28 083721.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-09-28 083721.png",
+        "jutsus/Captura de pantalla 2026-10-03 000646.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": ""
+    },
+    {
+      "id": "jutsu-017",
+      "skill_id": "skill_30002",
+      "name": "Kinjutsu: Eight Gate Release",
+      "level": 1,
+      "desc": "(Kinjutsu) Open the Eight Gates to unleash the body's full potential. Increase all damage done by 120% for 2 turns. Reduce own HP by 518 each turn (2 turns).",
+      "damage": "0",
+      "cp": "10",
+      "cd": "14",
+      "image": "jutsus/Captura de pantalla 2026-09-28 083930.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-09-28 083930.png",
+        "jutsus/Captura de pantalla 2026-10-03 000659.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": ""
+    },
+    {
+      "id": "jutsu-018",
+      "skill_id": "skill_369",
+      "name": "Kinjutsu: Advanced Phantom Impulse",
+      "level": 1,
+      "desc": "(Kinjutsu) Instantly reduce target max HP by 15%. Increases user's damage by 15% for 5 turns.",
+      "damage": "10",
+      "cp": "10",
+      "cd": "10",
+      "image": "jutsus/Captura de pantalla 2026-09-28 083957.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-09-28 083957.png",
+        "jutsus/Captura de pantalla 2026-10-03 000646.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": ""
+    },
+    {
+      "id": "jutsu-019",
+      "skill_id": "skill_382",
+      "name": "Kinjutsu: Genbu Defensive Style",
+      "level": 1,
+      "desc": "(Kinjutsu) Prepare a defense position to increase protection. Reduce damage taken by 20% (2 turns)",
+      "damage": "0",
+      "cp": "10",
+      "cd": "5",
+      "image": "jutsus/Captura de pantalla 2026-09-28 084005.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-09-28 084005.png",
+        "jutsus/Captura de pantalla 2026-10-03 000659.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": ""
+    },
+    {
+      "id": "jutsu-020",
+      "skill_id": "skill_334",
+      "name": "Kinjutsu: Kizui Kimama",
+      "level": 1,
+      "desc": "Absorb natural energy for faster healing - Recover 6% HP for the next 5 turns.",
+      "damage": "0",
+      "cp": "10",
+      "cd": "16",
+      "image": "jutsus/Captura de pantalla 2026-09-28 084015.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-09-28 084015.png",
+        "jutsus/Captura de pantalla 2026-10-03 000646.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": ""
+    },
+    {
+      "id": "jutsu-021",
+      "skill_id": "skill_1267",
+      "name": "Cursed Blade Strike",
+      "level": 1,
+      "desc": "Disperse target and inflict Slow by 30% for 3 turns (Slow = Reduce targets agility). This jutsu is highly accurate.",
+      "damage": "759",
+      "cp": "10",
+      "cd": "16",
+      "image": "jutsus/Captura de pantalla 2026-09-28 084025.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-09-28 084025.png",
+        "jutsus/Captura de pantalla 2026-10-03 000659.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": ""
+    },
+    {
+      "id": "jutsu-022",
+      "skill_id": "skill_1341",
+      "name": "Kinjutsu: Orb of Eternal Flame",
+      "level": 1,
+      "desc": "Drains all target's 12% Max HP and CP and restores it to the user.",
+      "damage": "100",
+      "cp": "100",
+      "cd": "16",
+      "image": "jutsus/Captura de pantalla 2026-09-28 084034.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-09-28 084034.png",
+        "jutsus/Captura de pantalla 2026-10-03 000659.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": ""
+    },
+    {
+      "id": "jutsu-023",
+      "skill_id": "skill_100773",
+      "name": "Kunai Rasenraiden",
+      "level": 100,
+      "desc": "Attack the target to reduce their CP by 40% and put one random jutsu on cooldown (+10 CD).",
+      "damage": "800",
+      "cp": "400",
+      "cd": "12",
+      "image": "jutsus/Captura de pantalla 2026-09-28 092151.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-09-28 092151.png",
+        "jutsus/Captura de pantalla 2026-10-03 000707.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": ""
+    },
+    {
+      "id": "jutsu-024",
+      "skill_id": "skill_100045",
+      "name": "Chakra Dust",
+      "level": 100,
+      "desc": "Decrease the target's Critical, Dodge, Combustion, Purify, and Reactive Force by 40%. Remove all positive effects and inflict Internal Injury for 4 turns. This skill has ultra accurate.",
+      "damage": "700",
+      "cp": "555",
+      "cd": "14",
+      "image": "jutsus/Captura de pantalla 2026-09-28 092159.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-09-28 092159.png",
+        "jutsus/Captura de pantalla 2026-10-03 000707.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": ""
+    },
+    {
+      "id": "jutsu-025",
+      "skill_id": "skill_100692",
+      "name": "Hinokami Kagura: Enbu",
+      "level": 100,
+      "desc": "Strike target with full fierce to decrease their CP by 30% and 10% HP.",
+      "damage": "1200",
+      "cp": "1070",
+      "cd": "12",
+      "image": "jutsus/Captura de pantalla 2026-09-28 092227.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-09-28 092227.png",
+        "jutsus/Captura de pantalla 2026-10-03 000707.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": ""
+    },
+    {
+      "id": "jutsu-026",
+      "skill_id": "skill_110047",
+      "name": "Rikkudo Item Destruction",
+      "level": 80,
+      "desc": "(Kenjutsu) Attack the opponent and increase the user's attack damage and reduce damage taken by 70% (2 turns)",
+      "damage": "700",
+      "cp": "100",
+      "cd": "12",
+      "image": "jutsus/Captura de pantalla 2026-09-28 092301.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-09-28 092301.png",
+        "jutsus/Captura de pantalla 2026-10-03 000707.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": ""
+    },
+    {
+      "id": "jutsu-027",
+      "skill_id": "skill_100657",
+      "name": "Kinjutsu: Infinite Potential",
+      "level": 80,
+      "desc": "Unleash your potential: Increases 40% agility (4 turns) & reduce all jutsu cooldown (3 turn)",
+      "damage": "0",
+      "cp": "200",
+      "cd": "16",
+      "image": "jutsus/Captura de pantalla 2026-09-28 092308.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-09-28 092308.png",
+        "jutsus/Captura de pantalla 2026-10-03 000707.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": ""
+    },
+    {
+      "id": "jutsu-028",
+      "skill_id": "skill_100737",
+      "name": "Saiyan Barrage",
+      "level": 80,
+      "desc": "Attack the target with the mighty saiyan power exposing their defence (Increases damage that they take) by 25% for 3 turns.",
+      "damage": "600",
+      "cp": "400",
+      "cd": "14",
+      "image": "jutsus/Captura de pantalla 2026-09-28 092326.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-09-28 092326.png",
+        "jutsus/Captura de pantalla 2026-10-03 000707.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": ""
+    },
+    {
+      "id": "jutsu-029",
+      "skill_id": "skill_2139",
+      "name": "Kinjutsu: Titan Protection",
+      "level": 60,
+      "desc": "Protect yourself with the power of titan. Clear user all negative status, ignore all incoming damage and resist any negative status for 4 turn.",
+      "damage": "0",
+      "cp": "500",
+      "cd": "12",
+      "image": "jutsus/Captura de pantalla 2026-09-28 092334.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-09-28 092334.png",
+        "jutsus/Captura de pantalla 2026-10-03 000707.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": ""
+    },
+    {
+      "id": "jutsu-030",
+      "skill_id": "skill_345",
+      "name": "Kinjutsu: Five Elements Consuming Seal",
+      "level": 60,
+      "desc": "(Kinjutsu) Seal the target with 5 elements power, directly remove target's 25% current HP.",
+      "damage": "100",
+      "cp": "1200",
+      "cd": "25",
+      "image": "jutsus/Captura de pantalla 2026-09-28 092342.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-09-28 092342.png",
+        "jutsus/Captura de pantalla 2026-10-03 000707.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": ""
+    },
+    {
+      "id": "jutsu-031",
+      "skill_id": "skill_110064",
+      "name": "Gedo Moons Destruction",
+      "level": 60,
+      "desc": "Instantly purify user while reducing target's dodge chance by 60% (2 turns).",
+      "damage": "730",
+      "cp": "830",
+      "cd": "10",
+      "image": "jutsus/Captura de pantalla 2026-09-28 092350.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-09-28 092350.png",
+        "jutsus/Captura de pantalla 2026-10-03 000707.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": ""
+    },
+    {
+      "id": "jutsu-032",
+      "skill_id": "skill_995",
+      "name": "Kinjutsu: Hanami Night Shower",
+      "level": 50,
+      "desc": "(Kinjutsu) A beautiful shower of sakura petals. Reduces all target's critical, dodge, combustion, purify and reactive force chance by 40% and causes 'Bleeding' effect for 4 turns. (Bleeding +40% damage taken)",
+      "damage": "0",
+      "cp": "500",
+      "cd": "15",
+      "image": "jutsus/Captura de pantalla 2026-09-28 092401.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-09-28 092401.png",
+        "jutsus/Captura de pantalla 2026-10-03 000719.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": ""
+    },
+    {
+      "id": "jutsu-033",
+      "skill_id": "skill_2301",
+      "name": "Kinjutsu: Mechbuser Blast",
+      "level": 50,
+      "desc": "(Kinjutsu) Remove negative status to user and inflict 'Buff Negate' to enemy for 2 turns. (Enemy with Buff Negate cannot apply any buff)",
+      "damage": "650",
+      "cp": "300",
+      "cd": "18",
+      "image": "jutsus/Captura de pantalla 2026-09-28 092409.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-09-28 092409.png",
+        "jutsus/Captura de pantalla 2026-10-03 000707.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": ""
+    },
+    {
+      "id": "jutsu-034",
+      "skill_id": "skill_2116",
+      "name": "Kinjutsu: Dark Seismic Seal",
+      "level": 40,
+      "desc": "Cast Sealing Techique with dark attribute. Inflict 'Meridian Seal' to enemy for 3 turns.",
+      "damage": "400",
+      "cp": "250",
+      "cd": "14",
+      "image": "jutsus/Captura de pantalla 2026-09-28 092417.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-09-28 092417.png",
+        "jutsus/Captura de pantalla 2026-10-03 000719.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": ""
+    },
+    {
+      "id": "jutsu-035",
+      "skill_id": "skill_2107",
+      "name": "Kinjutsu: Sakura Guard",
+      "level": 40,
+      "desc": "(Kinjutsu) Reduces attackers HP by 350 and Inflict Slow status to attackers for 3 turn (Slow: 25%)",
+      "damage": "0",
+      "cp": "400",
+      "cd": "16",
+      "image": "jutsus/Captura de pantalla 2026-09-28 092527.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-09-28 092527.png",
+        "jutsus/Captura de pantalla 2026-10-03 000719.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": ""
+    },
+    {
+      "id": "jutsu-036",
+      "skill_id": "skill_100640",
+      "name": "Kinjutsu: Forest Guardian",
+      "level": 40,
+      "desc": "All attacks on the user will be reounded (4 turns)",
+      "damage": "0",
+      "cp": "200",
+      "cd": "14",
+      "image": "jutsus/Captura de pantalla 2026-09-28 092534.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-09-28 092534.png",
+        "jutsus/Captura de pantalla 2026-10-03 000719.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": ""
+    },
+    {
+      "id": "jutsu-037",
+      "skill_id": "skill_2140",
+      "name": "Kinjutsu: Titan Ultimate Smash",
+      "level": 40,
+      "desc": "Attack the enemy with the power of attack titan. Reduce all enemies critical chance, dodge chance, combustion chance, purify chance, and reactive force chance by 70% and slow all enemies by 35% for 5 turns.",
+      "damage": "0",
+      "cp": "350",
+      "cd": "16",
+      "image": "jutsus/Captura de pantalla 2026-09-28 092548.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-09-28 092548.png",
+        "jutsus/Captura de pantalla 2026-10-03 000719.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": ""
+    },
+    {
+      "id": "jutsu-038",
+      "skill_id": "skill_9991",
+      "name": "Kyubi Electric Bomb",
+      "level": 20,
+      "desc": "Using the power of the mighty Kyubi, reduce 12% of maximum HP from all enemies instantly and inflict internal injury for 3 turns.",
+      "damage": "0",
+      "cp": "400",
+      "cd": "15",
+      "image": "jutsus/Captura de pantalla 2026-09-28 092555.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-09-28 092555.png",
+        "jutsus/Captura de pantalla 2026-10-03 000729.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": ""
+    },
+    {
+      "id": "jutsu-039",
+      "skill_id": "skill_2049",
+      "name": "Kinjutsu: Become Ashes",
+      "level": 20,
+      "desc": "This jutsu creates an immense wall of flame, which surrounds all targets and forms a huge contained sphere of flame in which makes all targets cannot move and loses 10% of MAX HP and 10% CP each turn for 4 turns.",
+      "damage": "200",
+      "cp": "500",
+      "cd": "15",
+      "image": "jutsus/Captura de pantalla 2026-09-28 092603.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-09-28 092603.png",
+        "jutsus/Captura de pantalla 2026-10-03 000719.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": ""
+    },
+    {
+      "id": "jutsu-040",
+      "skill_id": "skill_100732",
+      "name": "Ultimate Susanoo",
+      "level": 20,
+      "desc": "Susanoo's blades tear through the ALL targets, reducing 10% of their maximum HP as damage and dispersing every buff they hold. The strike leaves them disoriented, reducing dodge, critical, purify, combustion and reactive chance by 50% for 3 turns.",
+      "damage": "200",
+      "cp": "200",
+      "cd": "14",
+      "image": "jutsus/Captura de pantalla 2026-09-28 092610.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-09-28 092610.png",
+        "jutsus/Captura de pantalla 2026-10-03 000719.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": ""
+    },
+    {
+      "id": "jutsu-041",
+      "skill_id": "skill_966",
+      "name": "Tempest God of Valor",
+      "level": 20,
+      "desc": "Reduce ALL target's Max. HP by 15% and Stuns for 1 Turn.",
+      "damage": "388",
+      "cp": "300",
+      "cd": "15",
+      "image": "jutsus/Captura de pantalla 2026-09-28 092616.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-09-28 092616.png",
+        "jutsus/Captura de pantalla 2026-10-03 000719.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": ""
+    },
+    {
+      "id": "jutsu-042",
+      "skill_id": "skill_100736",
+      "name": "Super Saiyan (Kaio Ken)",
+      "level": 20,
+      "desc": "Increase attack damage by 125% (4 turns).",
+      "damage": "0",
+      "cp": "200",
+      "cd": "14",
+      "image": "jutsus/Captura de pantalla 2026-09-28 092625.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-09-28 092625.png",
+        "jutsus/Captura de pantalla 2026-10-03 000719.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": ""
+    },
+    {
+      "id": "jutsu-043",
+      "skill_id": "skill_40331",
+      "name": "Kinjutsu: Bijuu Bomb Plus II",
+      "level": 20,
+      "desc": "(Kinjutsu) Cast Restriction (target cannot use Ninjutsu) for 3 turns. Reduce 7% of enemy's maximum HP for 3 turns.",
+      "damage": "0",
+      "cp": "800",
+      "cd": "14",
+      "image": "jutsus/Captura de pantalla 2026-09-28 092633.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-09-28 092633.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": ""
+    },
+    {
+      "id": "jutsu-044",
+      "skill_id": "skill_2225",
+      "name": "Kinjutsu: Zoltrak Full Barrage",
+      "level": 20,
+      "desc": "(Kinjutsu) Casts a targeted spell that strikes from afar, inflicting damage on enemies in its path. Instantly reduce all enemy max HP and CP by 13% also reduce all target's accuracy by 45% for 4 turns",
+      "damage": "0",
+      "cp": "1000",
+      "cd": "16",
+      "image": "jutsus/Captura de pantalla 2026-09-28 092653.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-09-28 092653.png",
+        "jutsus/Captura de pantalla 2026-10-03 000719.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": ""
+    },
+    {
+      "id": "jutsu-045",
+      "skill_id": "skill_91",
+      "name": "Kinjutsu: Heavenly Illumination",
+      "level": 20,
+      "desc": "(Kinjutsu) Using the eye created by hatred, burn the enemy with flames that cannot be extinguished. (Inflict Blaze on target 5% for 4 turns)",
+      "damage": "300",
+      "cp": "200",
+      "cd": "10",
+      "image": "jutsus/Captura de pantalla 2026-09-28 092701.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-09-28 092701.png",
+        "jutsus/Captura de pantalla 2026-10-03 000719.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": ""
+    },
+    {
+      "id": "jutsu-046",
+      "skill_id": "skill_2368",
+      "name": "Kinjutsu: Chaos Demon Claw",
+      "level": 20,
+      "desc": "(Kinjutsu) Use the power of chaos to vulnerable enemy by 85% for 3 turns.",
+      "damage": "350",
+      "cp": "400",
+      "cd": "18",
+      "image": "jutsus/Captura de pantalla 2026-09-28 092710.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-09-28 092710.png",
+        "jutsus/Captura de pantalla 2026-10-03 000729.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": ""
+    },
+    {
+      "id": "jutsu-047",
+      "skill_id": "skill_110107",
+      "name": "Ninjutsu: Wooden Budha Barrage",
+      "level": 20,
+      "desc": "(Ninjutsu) Increase attack damage and reduce opponents attack damage by 100% (1 turn). This jutsu could be used frequently. (Can be resisted)",
+      "damage": "400",
+      "cp": "200",
+      "cd": "6",
+      "image": "jutsus/Captura de pantalla 2026-09-28 092719.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-09-28 092719.png",
+        "jutsus/Captura de pantalla 2026-10-03 000719.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": ""
+    },
+    {
+      "id": "jutsu-048",
+      "skill_id": "skill_109",
+      "name": "Kinjutsu: Spirit Touch",
+      "level": 10,
+      "desc": "(Kinjutsu) A genjutsu which fears your enemy for 2 turns.",
+      "damage": "0",
+      "cp": "100",
+      "cd": "14",
+      "image": "jutsus/Captura de pantalla 2026-09-28 092727.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-09-28 092727.png",
+        "jutsus/Captura de pantalla 2026-10-03 000729.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": ""
+    },
+    {
+      "id": "jutsu-049",
+      "skill_id": "skill_5058",
+      "name": "Kinjutsu: Advanced Kyubi Chakra Yoroi",
+      "level": 1,
+      "desc": "A chakra armor formed from the power of the Nine-Tailed Beast. Increases damage and reduces damage taken by 80% for 3 turns.",
+      "damage": "0",
+      "cp": "300",
+      "cd": "14",
+      "image": "jutsus/Captura de pantalla 2026-09-28 092733.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-09-28 092733.png",
+        "jutsus/Captura de pantalla 2026-10-03 000729.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": ""
+    },
+    {
+      "id": "jutsu-050",
+      "skill_id": "skill_176",
+      "name": "Kinjutsu: Serene Mind",
+      "level": 1,
+      "desc": "(Kinjutsu) Hallucinate target with mirror-like water so that all attack by target will be rebounded (2 turns).",
+      "damage": "0",
+      "cp": "200",
+      "cd": "14",
+      "image": "jutsus/Captura de pantalla 2026-09-28 092753.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-09-28 092753.png",
+        "jutsus/Captura de pantalla 2026-10-03 000740.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": ""
+    },
+    {
+      "id": "jutsu-051",
+      "skill_id": "skill_854",
+      "name": "Kinjutsu: Advanced Aphrodite's Blessing",
+      "level": 1,
+      "desc": "(Kinjutsu) Increase dodge chance by 50% for 3 turns. Reduce 4 cooldown turns of skills that are resting.",
+      "damage": "0",
+      "cp": "500",
+      "cd": "25",
+      "image": "jutsus/Captura de pantalla 2026-09-28 092801.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-09-28 092801.png",
+        "jutsus/Captura de pantalla 2026-10-03 000729.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": ""
+    },
+    {
+      "id": "jutsu-052",
+      "skill_id": "skill_100104",
+      "name": "Kinjutsu: Chakra Severance",
+      "level": 1,
+      "desc": "Read the flow of battle and slip between every strike. Recover 8% HP & CP each turn, increase user's accuracy by 55% and increase user's dodge rate by 60%. Inflict 'Buff Negate' for 4 turns (enemy with Buff Negate cannot apply any buff). This skill never misses.",
+      "damage": "0",
+      "cp": "400",
+      "cd": "16",
+      "image": "jutsus/Captura de pantalla 2026-09-28 092810.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-09-28 092810.png",
+        "jutsus/Captura de pantalla 2026-10-03 000729.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": ""
+    },
+    {
+      "id": "jutsu-053",
+      "skill_id": "skill_7038",
+      "name": "Chakra Demon Strike",
+      "level": 1,
+      "desc": "Drains target MAX CP by 30% and inflicts 30% Increased CP Cost (Targets skills cost 30% more CP)",
+      "damage": "100",
+      "cp": "400",
+      "cd": "18",
+      "image": "jutsus/Captura de pantalla 2026-09-28 092816.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-09-28 092816.png",
+        "jutsus/Captura de pantalla 2026-10-03 000729.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": ""
+    },
+    {
+      "id": "jutsu-054",
+      "skill_id": "skill_2044",
+      "name": "Kinjutsu: Overwhelm Aura",
+      "level": 1,
+      "desc": "(Kinjutsu) Increase Agility and Dodge by 30% for 3 turns.",
+      "damage": "0",
+      "cp": "400",
+      "cd": "10",
+      "image": "jutsus/Captura de pantalla 2026-09-28 092823.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-09-28 092823.png",
+        "jutsus/Captura de pantalla 2026-10-03 000729.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": ""
+    },
+    {
+      "id": "jutsu-055",
+      "skill_id": "skill_10000",
+      "name": "Kinjutsu: Gedo Mazou",
+      "level": 1,
+      "desc": "(Kinjutsu) Inflicts 'Poison' to all enemies for 3 turns reducing HP by 8% each turn. Stun all enemies for 3 turns.",
+      "damage": "0",
+      "cp": "500",
+      "cd": "14",
+      "image": "jutsus/Captura de pantalla 2026-09-28 092830.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-09-28 092830.png",
+        "jutsus/Captura de pantalla 2026-10-03 000729.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": ""
+    },
+    {
+      "id": "jutsu-056",
+      "skill_id": "skill_1469",
+      "name": "Kinjutsu: Lightning Kirin Massacre",
+      "level": 1,
+      "desc": "Disperse all targets then Stun all targets for 3 turns.",
+      "damage": "1000",
+      "cp": "10",
+      "cd": "16",
+      "image": "jutsus/Captura de pantalla 2026-09-28 092837.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-09-28 092837.png",
+        "jutsus/Captura de pantalla 2026-10-03 000729.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": ""
+    },
+    {
+      "id": "jutsu-057",
+      "skill_id": "skill_377",
+      "name": "Kinjutsu: Dark Mind Body Restriction",
+      "level": 1,
+      "desc": "(Kinjutsu) Create a scary atmosphere to restrict target, targets HP will be reduced 5% each turn (5 turns)",
+      "damage": "0",
+      "cp": "200",
+      "cd": "50",
+      "image": "jutsus/Captura de pantalla 2026-09-28 092844.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-09-28 092844.png",
+        "jutsus/Captura de pantalla 2026-10-03 000729.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": ""
+    },
+    {
+      "id": "jutsu-058",
+      "skill_id": "skill_928",
+      "name": "Kinjutsu: Black Lightning Piercing Strike",
+      "level": 1,
+      "desc": "(Kinjutsu) Reduce CP by 75%. Put target's 1 random skill into cooldown for 14 turns (PvP Jutsu)",
+      "damage": "400",
+      "cp": "200",
+      "cd": "14",
+      "image": "jutsus/Captura de pantalla 2026-09-28 092856.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-09-28 092856.png",
+        "jutsus/Captura de pantalla 2026-10-03 000740.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": ""
+    },
+    {
+      "id": "jutsu-059",
+      "skill_id": "skill_2003",
+      "name": "Zam Zam Miracle",
+      "level": 1,
+      "desc": "The miracle of Zam Zam. Clear all debuffs and recover 500 HP every turn (2 turns).",
+      "damage": "0",
+      "cp": "400",
+      "cd": "12",
+      "image": "jutsus/Captura de pantalla 2026-09-28 092928.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-09-28 092928.png",
+        "jutsus/Captura de pantalla 2026-10-03 000740.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": ""
+    },
+    {
+      "id": "jutsu-060",
+      "skill_id": "skill_1265",
+      "name": "Kinjutsu: Eternal Flame Seal",
+      "level": 1,
+      "desc": "Inflict 7% blaze for 2 turns which cannot be purified.",
+      "damage": "0",
+      "cp": "200",
+      "cd": "16",
+      "image": "jutsus/Captura de pantalla 2026-09-28 092936.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-09-28 092936.png",
+        "jutsus/Captura de pantalla 2026-10-03 000740.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": ""
+    },
+    {
+      "id": "jutsu-061",
+      "skill_id": "skill_860",
+      "name": "Kinjutsu: Advanced Bijuu Claw",
+      "level": 1,
+      "desc": "Kinjutsu: Reduce ALL enemies Max. HP by 15%. Inflicts 'Internal Injury' status for 4 turns.",
+      "damage": "0",
+      "cp": "425",
+      "cd": "18",
+      "image": "jutsus/Captura de pantalla 2026-09-28 092944.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-09-28 092944.png",
+        "jutsus/Captura de pantalla 2026-10-03 000729.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": ""
+    },
+    {
+      "id": "jutsu-062",
+      "skill_id": "skill_1421",
+      "name": "Kinjutsu: Shikigami Soul Split",
+      "level": 1,
+      "desc": "Split and share your soul with Shikigami. Applies Debuff Resist for 2 turns and removes all negative effects. This skill requires no CP.",
+      "damage": "0",
+      "cp": "0",
+      "cd": "15",
+      "image": "jutsus/Captura de pantalla 2026-09-28 092950.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-09-28 092950.png",
+        "jutsus/Captura de pantalla 2026-10-03 000740.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": ""
+    },
+    {
+      "id": "jutsu-063",
+      "skill_id": null,
+      "name": "Kinjutsu: Devouring Flames II",
+      "level": 95,
+      "desc": "Burns the target with ardent flames. Inflicts \"Burn\" status to target. (Burning: 4% HP, 3 turns) If target has got others negative status when this jutsu is using, inflicts \"Ultra Burning\" status to target. (Ultra Burning: 4% HP for each negative status, 4 turns)",
+      "damage": "1036",
+      "cp": "685",
+      "cd": "15",
+      "image": "jutsus/Captura de pantalla 2026-10-03 000516.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-10-03 000516.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": ""
+    },
+    {
+      "id": "jutsu-064",
+      "skill_id": null,
+      "name": "Giant Flame Palm",
+      "level": 90,
+      "desc": "Shoots fire palm to the ground that moves towards the enemy. Inflicts 'Burning' status to target. (Burning: 5%, 1 turn).",
+      "damage": "1122",
+      "cp": "820",
+      "cd": "10",
+      "image": "jutsus/Captura de pantalla 2026-10-03 000537.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-10-03 000537.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": ""
+    },
+    {
+      "id": "jutsu-065",
+      "skill_id": null,
+      "name": "Spears Of Nightmare",
+      "level": 100,
+      "desc": "Restrict the opponent for 3 turns and protect the user (reduce 75% damage taken - 3 turns).",
+      "damage": "450",
+      "cp": "10",
+      "cd": "14",
+      "image": "jutsus/Captura de pantalla 2026-10-03 000552.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-10-03 000552.png",
+        "jutsus/Captura de pantalla 2026-10-03 000637.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": ""
+    },
+    {
+      "id": "jutsu-066",
+      "skill_id": "skill_561",
+      "name": "Kinjutsu: Tomb of Excalibur",
+      "level": 65,
+      "desc": "(Kinjutsu) Impales your enemy with the power of the ancient legendary swords. Drains 15% of target's current HP & CP. (Using Taijutsu reduce your HP by 5%)",
+      "damage": "650",
+      "cp": "10",
+      "cd": "10",
+      "image": "jutsus/Captura de pantalla 2026-10-03 000559.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-10-03 000559.png",
+        "jutsus/Captura de pantalla 2026-10-03 000637.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": "",
+      "attachment_source": {
+        "description": "Imagenes adjuntas por el usuario en la conversacion del 2026-10-03; transcripcion visual, sin archivo local de las imagenes.",
+        "number": 1
+      }
+    },
+    {
+      "id": "jutsu-067",
+      "skill_id": null,
+      "name": "Kinjutsu: Garuda Spear Strike",
+      "level": 60,
+      "desc": "Directly drain enemy current HP & CP by 12% and inflict Internal Injury for 2 turns.",
+      "damage": "750",
+      "cp": "10",
+      "cd": "12",
+      "image": "jutsus/Captura de pantalla 2026-10-03 000609.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-10-03 000609.png",
+        "jutsus/Captura de pantalla 2026-10-03 000637.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": ""
+    },
+    {
+      "id": "jutsu-tomb50",
+      "skill_id": "skill_360",
+      "name": "Kinjutsu: Tomb of Excalibur",
+      "level": 50,
+      "desc": "(Kinjutsu) Impales your enemy with the power of the ancient legendary swords. Drains 15% of target's current HP & CP. (Using Taijutsu reduces your HP by 5%)",
+      "damage": "350",
+      "cp": "10",
+      "cd": "10",
+      "image": "jutsus/Captura de pantalla 2026-10-03 000637.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-10-03 000637.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": "",
+      "attachment_source": {
+        "description": "Imagenes adjuntas por el usuario en la conversacion del 2026-10-03; transcripcion visual, sin archivo local de las imagenes.",
+        "number": 10
+      }
+    },
+    {
+      "id": "jutsu-aikiryu",
+      "skill_id": "skill_485",
+      "name": "Kinjutsu: Aikiryu Palm",
+      "level": 20,
+      "desc": "(Kinjutsu) Focus the power to one point and then strike the target. Reduce target's 12% HP.",
+      "damage": "328",
+      "cp": "10",
+      "cd": "10",
+      "image": "jutsus/Captura de pantalla 2026-10-03 000646.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-10-03 000646.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": "",
+      "attachment_source": {
+        "description": "Imagenes adjuntas por el usuario en la conversacion del 2026-10-03; transcripcion visual, sin archivo local de las imagenes.",
+        "number": 2
+      }
+    },
+    {
+      "id": "jutsu-sake",
+      "skill_id": "skill_347",
+      "name": "Kinjutsu: Sake Heihachi",
+      "level": 10,
+      "desc": "(Kinjutsu) Increase 250 points damage per attack, the effect will last until the battle is over.",
+      "damage": "0",
+      "cp": "100",
+      "cd": "50",
+      "image": "jutsus/Captura de pantalla 2026-10-03 000646.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-10-03 000646.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": "",
+      "attachment_source": {
+        "description": "Imagenes adjuntas por el usuario en la conversacion del 2026-10-03; transcripcion visual, sin archivo local de las imagenes.",
+        "number": 3
+      }
+    },
+    {
+      "id": "jutsu-assault",
+      "skill_id": "skill_41481",
+      "name": "Kinjutsu: Ultimate Assault",
+      "level": 1,
+      "desc": "Applies 6% Burn onto the target for 3 turns. Reduces target's Purify Rate by 25% for 3 turns.",
+      "damage": "200",
+      "cp": "10",
+      "cd": "16",
+      "image": "jutsus/Captura de pantalla 2026-10-03 000646.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-10-03 000646.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": "",
+      "attachment_source": {
+        "description": "Imagenes adjuntas por el usuario en la conversacion del 2026-10-03; transcripcion visual, sin archivo local de las imagenes.",
+        "number": 4
+      }
+    },
+    {
+      "id": "jutsu-arrow",
+      "skill_id": "skill_656",
+      "name": "Kinjutsu: The Arrow of God Killing",
+      "level": 1,
+      "desc": "(Kinjutsu) Increase all damage by 40% for all attacks next turn. Inflicts Blind (30%) on the target for 2 turns.",
+      "damage": "400",
+      "cp": "10",
+      "cd": "15",
+      "image": "jutsus/Captura de pantalla 2026-10-03 000659.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-10-03 000659.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": "",
+      "attachment_source": {
+        "description": "Imagenes adjuntas por el usuario en la conversacion del 2026-10-03; transcripcion visual, sin archivo local de las imagenes.",
+        "number": 5
+      }
+    },
+    {
+      "id": "jutsu-bijuu4",
+      "skill_id": "skill_1830",
+      "name": "Kinjutsu: Bijuu Bomb Plus IV",
+      "level": 80,
+      "desc": "(Kinjutsu) Cast Restriction (target cannot use Ninjutsu) for 3 turns. Reduce 9% of enemy's maximum HP for 3 turns.",
+      "damage": "0",
+      "cp": "600",
+      "cd": "14",
+      "image": "jutsus/Captura de pantalla 2026-10-03 000707.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-10-03 000707.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": "",
+      "attachment_source": {
+        "description": "Imagenes adjuntas por el usuario en la conversacion del 2026-10-03; transcripcion visual, sin archivo local de las imagenes.",
+        "number": 6
+      }
+    },
+    {
+      "id": "jutsu-storm",
+      "skill_id": "skill_2122",
+      "name": "Storm Style: Draco Buster",
+      "level": 60,
+      "desc": "Use Demon Lord power to strike the enemies and give them negative status. Inflict 'Demonic Curse' by 10% and 'Dark Curse' by 50% to all enemies for 3 turns. (Demonic Curse reduce enemy HP).",
+      "damage": "600",
+      "cp": "300",
+      "cd": "14",
+      "image": "jutsus/Captura de pantalla 2026-10-03 000707.png",
+      "sources": [
+        "jutsus/Captura de pantalla 2026-10-03 000707.png"
+      ],
+      "status": "completo",
+      "missing_fields": [],
+      "review_fields": [],
+      "name_complete": true,
+      "notes": "",
+      "attachment_source": {
+        "description": "Imagenes adjuntas por el usuario en la conversacion del 2026-10-03; transcripcion visual, sin archivo local de las imagenes.",
+        "number": 7
+      }
+    }
+  ]
+}

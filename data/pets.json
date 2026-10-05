@@ -1,0 +1,189 @@
+{
+  "pets": [
+    {
+      "name": "Divine Wolf",
+      "source": "Seis capturas adjuntas por el usuario en la conversacion del 2026-10-04; transcripcion visual. Imagenes sin ruta local disponible.",
+      "skills": [
+        {
+          "name": "Basic Attack",
+          "level": 1,
+          "cd": "0",
+          "damage": null,
+          "cp": null,
+          "desc": "Pet's basic attack. Drain 1% HP from target and recover to master.",
+          "notes": "No especifica si el drenaje usa HP actual o maximo."
+        },
+        {
+          "name": "Shadow Strike",
+          "level": 5,
+          "cd": "7",
+          "damage": null,
+          "cp": null,
+          "desc": "Use shadow to create blade and strike enemy from below. Disables target's weapon attack for 4 turns.",
+          "notes": ""
+        },
+        {
+          "name": "Shadow Strangle",
+          "level": 8,
+          "cd": "8",
+          "damage": null,
+          "cp": null,
+          "desc": "Use shadow to create multiple hand and prevent enemy from move, stun enemy target for 3 turns.",
+          "notes": ""
+        },
+        {
+          "name": "Sacred Wolf Blessing",
+          "level": 15,
+          "cd": "14",
+          "damage": null,
+          "cp": null,
+          "desc": "Focus inner mind to help master target enemy. Increase master accuracy by 100%. (4 turns).",
+          "notes": "La ficha no especifica formula, acumulacion ni limites de precision; no garantiza acierto absoluto."
+        },
+        {
+          "name": "Secret: Divine Wolf Barrage",
+          "level": 20,
+          "cd": "12",
+          "damage": null,
+          "cp": null,
+          "desc": "Make the world engulf in darkness and secretly attack all enemies. Reduce all targets max HP by 10%.",
+          "notes": ""
+        },
+        {
+          "name": "Secret: Onmyouji Divination",
+          "level": 25,
+          "cd": "8",
+          "damage": null,
+          "cp": null,
+          "desc": "Use onmyouji power to help master. Heals 450 of master's HP and remove all negative status effect.",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Kyubi",
+      "source": "Tabla de habilidades aportada por el usuario en la conversacion; referencia historica con costos hasta 2012. No verificada contra el servidor actual. Mascota, no Kyubi Sage Mode.",
+      "reference_url": "https://ninjasaga.fandom.com/wiki/Kyubi",
+      "verification_status": "pendiente_verificacion_en_juego",
+      "skills": [
+        {
+          "name": "Basic Attack",
+          "level": 1,
+          "cd": null,
+          "damage": null,
+          "cp": null,
+          "desc": "Ataque basico de la mascota.",
+          "notes": ""
+        },
+        {
+          "name": "Light Fire Ball",
+          "level": 5,
+          "cd": null,
+          "damage": null,
+          "cp": null,
+          "desc": "Lanza una pequena bola de fuego que aplica quemadura del 2% durante 2 turnos.",
+          "notes": "Base del porcentaje no especificada en el texto aportado."
+        },
+        {
+          "name": "Gedo Cannon",
+          "level": 10,
+          "cd": null,
+          "damage": null,
+          "cp": null,
+          "desc": "Dispara un rayo de chakra. El objetivo no puede usar jutsu durante 2 turnos (Restriction).",
+          "notes": ""
+        },
+        {
+          "name": "Gedo Armor",
+          "level": 15,
+          "cd": null,
+          "damage": null,
+          "cp": null,
+          "desc": "Aumenta el dano de ataque de la mascota un 100% y su probabilidad de critico un 25%. Recibe un 20% de dano adicional. Duracion: 4 turnos.",
+          "notes": "Beneficios y penalizacion de la mascota; no del maestro."
+        },
+        {
+          "name": "Secret: Fire Bullet Combo",
+          "level": 20,
+          "cd": null,
+          "damage": null,
+          "cp": null,
+          "desc": "Lanza una enorme bola de fuego que se divide en bolas menores. Aplica quemadura del 2% a todos los objetivos durante 4 turnos.",
+          "notes": "Base del porcentaje no especificada en el texto aportado."
+        },
+        {
+          "name": "Secret: Broken Gedo World",
+          "level": 30,
+          "cd": null,
+          "damage": null,
+          "cp": null,
+          "desc": "Dispara un rayo de chakra a un area. Los objetivos no pueden usar jutsu durante 1 turno (Restriction).",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Easter Gobi",
+      "source": "Resumen aportado por el usuario en la conversacion. Referencias a Gobi y un video; no se confirmaron diferencias de version ni valores en el servidor actual.",
+      "reference_url": "https://ninjasaga.fandom.com/wiki/Gobi",
+      "video_url": "https://www.youtube.com/watch?v=t8MjAC3jI0Q&t=29",
+      "verification_status": "pendiente_verificacion_en_juego",
+      "skills": [
+        {
+          "name": "Viento",
+          "level": 1,
+          "cd": null,
+          "damage": null,
+          "cp": null,
+          "desc": "Reduce la evasion del enemigo un 10% durante 1 turno.",
+          "notes": "Nombre elemental aportado; nombre exacto de la habilidad pendiente."
+        },
+        {
+          "name": "Trueno",
+          "level": 5,
+          "cd": null,
+          "damage": null,
+          "cp": null,
+          "desc": "Aturde al objetivo durante 2 turnos.",
+          "notes": "Nombre elemental aportado; nombre exacto de la habilidad pendiente."
+        },
+        {
+          "name": "Fuego",
+          "level": 10,
+          "cd": null,
+          "damage": null,
+          "cp": null,
+          "desc": "Quema y reduce un 5% del HP del enemigo durante 2 turnos.",
+          "notes": "Base del porcentaje y nombre exacto pendientes."
+        },
+        {
+          "name": "Tierra",
+          "level": 15,
+          "cd": null,
+          "damage": null,
+          "cp": null,
+          "desc": "Otorga proteccion al maestro durante 2 turnos (escudo/guardian).",
+          "notes": "Tipo y magnitud exactos de proteccion y nombre exacto pendientes."
+        },
+        {
+          "name": "Agua",
+          "level": 20,
+          "cd": null,
+          "damage": null,
+          "cp": null,
+          "desc": "Reduce el HP del enemigo un 2% durante 2 turnos.",
+          "notes": "Base del porcentaje y nombre exacto pendientes."
+        },
+        {
+          "name": "Secret: Five Tag Genkai",
+          "level": null,
+          "cd": null,
+          "damage": null,
+          "cp": null,
+          "desc": "Ataque combinado de todos los elementos que golpea a todos los enemigos y reduce su HP un 10%.",
+          "notes": "Nivel indicado como 25/30 en el resumen: sin confirmar. Base del porcentaje y nombre exacto pendientes."
+        }
+      ]
+    }
+  ]
+}

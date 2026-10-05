@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#111714">
+  <meta name="description" content="Explora y compara talentos, sage modes, jutsus y mascotas de Ninja Saga. Un archivo de habilidades para preparar tu próxima batalla.">
+  <title>Ninja Saga Codex — Catálogo y comparador</title>
+  <link rel="icon" href="./favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./styles.css">
+  <script src="./app.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#main">Saltar al catálogo</a>
+  <header class="topbar">
+    <a class="brand" href="./"><span class="seal" aria-hidden="true">N</span><span>NINJA SAGA <strong>CODEX</strong></span></a>
+    <span class="header-note">ARCHIVO DE HABILIDADES <span class="version">VOL. 01</span></span>
+  </header>
+  <div class="layout">
+    <aside class="sidebar">
+      <p class="eyebrow">EXPLORAR</p>
+      <nav id="categories" aria-label="Categorías"></nav>
+      <div class="side-note"><span class="small-seal">忍</span><p>Conoce tus habilidades.<br><strong>Elige tu estrategia.</strong></p></div>
+      <p class="sidebar-foot">Catálogo de la comunidad.<br>No afiliado al juego.</p>
+    </aside>
+    <main id="main">
+      <section class="intro"><div><p class="eyebrow">TU PRÓXIMA BATALLA EMPIEZA AQUÍ</p><h1 id="heading">Talentos extremos</h1><p id="category-description">Explora las pasivas y técnicas que definen tu personaje.</p></div><div class="index-mark" aria-hidden="true">01<span>CODEX / NS</span></div></section>
+      <section class="toolbar" aria-label="Buscar y filtrar">
+        <label class="search"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Buscar nombre, habilidad o efecto…" aria-label="Buscar nombre, habilidad o efecto"></label>
+        <label>Efecto<select id="effect"><option value="">Todos los efectos</option></select></label>
+        <label>Ordenar<select id="sort"><option value="original">Orden del catálogo</option><option value="name">Nombre A–Z</option><option value="level">Nivel: menor primero</option><option value="cp">CP: menor primero</option><option value="cd">Cooldown: menor primero</option></select></label>
+      </section>
+      <div class="results-line"><p id="results" role="status" aria-live="polite">Cargando catálogo…</p><button id="reset" class="text-button">Restablecer filtros</button></div>
+      <div id="grid" class="grid" aria-label="Resultados"></div>
+      <div id="empty" class="empty" hidden><span aria-hidden="true">⌕</span><h2>Sin coincidencias</h2><p>Prueba otro nombre o elimina el filtro de efecto.</p><button id="empty-reset">Ver todo</button></div>
+      <div id="error" class="empty" hidden><h2>No pudimos cargar el catálogo</h2><p>Comprueba tu conexión y vuelve a intentarlo.</p><button onclick="location.reload()">Reintentar</button></div>
+      <footer>Los efectos se muestran según sus fuentes. Las fórmulas y la acumulación de bonos no están confirmadas.<br><span id="totals"></span></footer>
+    </main>
+  </div>
+  <section id="compare-tray" class="compare-tray" aria-label="Selección para comparar" hidden><div><span class="eyebrow">COMPARADOR</span><div id="selected"></div></div><div class="tray-actions"><button id="clear-compare" class="text-button">Vaciar</button><button id="open-compare" class="primary">Comparar <span id="compare-count"></span></button></div></section>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <dialog id="detail" aria-label="Ficha de habilidades"><div class="dialog-bar"><span class="eyebrow">FICHA DEL ARCHIVO</span><button class="close" data-close="detail" aria-label="Cerrar ficha">✕</button></div><div id="detail-content"></div></dialog>
+  <dialog id="comparison" aria-label="Comparador de habilidades"><div class="dialog-bar"><div><span class="eyebrow">COMPARADOR</span><h2>Encuentra tu siguiente técnica</h2></div><button class="close" data-close="comparison" aria-label="Cerrar comparador">✕</button></div><p class="comparison-note">Comparamos características descritas, sin sumar bonos ni simular daño. «Sin dato» no significa cero.</p><div id="comparison-content" class="table-scroll" tabindex="0" aria-label="Tabla comparativa, desplázate para ver todas las columnas"></div></dialog>
+  <noscript><p>Activa JavaScript para explorar y comparar el catálogo.</p></noscript>
+</body>
+</html>
