@@ -58,132 +58,177 @@
           "desc": "Use onmyouji power to help master. Heals 450 of master's HP and remove all negative status effect.",
           "notes": ""
         }
-      ]
+      ],
+      "image": "pets/divine-wolf.png",
+      "thumb": "pets/divine-wolf.png"
     },
     {
       "name": "Kyubi",
-      "source": "Tabla de habilidades aportada por el usuario en la conversacion; referencia historica con costos hasta 2012. No verificada contra el servidor actual. Mascota, no Kyubi Sage Mode.",
+      "source": "Capturas de habilidades proporcionadas por el usuario. Las seis habilidades de Kyubi estan documentadas; los valores no visibles permanecen sin dato.",
       "reference_url": "https://ninjasaga.fandom.com/wiki/Kyubi",
-      "verification_status": "pendiente_verificacion_en_juego",
+      "verification_status": "captura_usuario",
       "skills": [
         {
           "name": "Basic Attack",
           "level": 1,
-          "cd": null,
+          "cd": "0",
           "damage": null,
           "cp": null,
-          "desc": "Ataque basico de la mascota.",
-          "notes": ""
+          "desc": "Pet's Basic Attack. Applies 10% Bleeding onto the enemy for 1 turn",
+          "notes": "",
+          "image": "pets/skills/kyubi-ab-1.png",
+          "verification_status": "captura_usuario",
+          "source_language": "en"
         },
         {
           "name": "Light Fire Ball",
           "level": 5,
-          "cd": null,
+          "cd": "8",
           "damage": null,
           "cp": null,
-          "desc": "Lanza una pequena bola de fuego que aplica quemadura del 2% durante 2 turnos.",
-          "notes": "Base del porcentaje no especificada en el texto aportado."
+          "desc": "Blow out a small fire ball from pet's mouth which causes 5% Burn. (3 turns).",
+          "notes": "",
+          "image": "pets/skills/kyubi-ab-2.png",
+          "verification_status": "captura_usuario",
+          "source_language": "en"
         },
         {
           "name": "Gedo Cannon",
           "level": 10,
-          "cd": null,
+          "cd": "10",
           "damage": null,
           "cp": null,
-          "desc": "Dispara un rayo de chakra. El objetivo no puede usar jutsu durante 2 turnos (Restriction).",
-          "notes": ""
+          "desc": "Shoot out a Chakra beam, target will not allow to use any jutsu (3 turns).",
+          "notes": "",
+          "image": "pets/skills/kyubi-ab-3.png",
+          "verification_status": "captura_usuario",
+          "source_language": "en"
         },
         {
           "name": "Gedo Armor",
           "level": 15,
-          "cd": null,
+          "cd": "11",
           "damage": null,
           "cp": null,
-          "desc": "Aumenta el dano de ataque de la mascota un 100% y su probabilidad de critico un 25%. Recibe un 20% de dano adicional. Duracion: 4 turnos.",
-          "notes": "Beneficios y penalizacion de la mascota; no del maestro."
+          "desc": "Increase pet's attack damage by 100% and critical chance by 25% (Side effect: take extra damage by 20%) (4 turns).",
+          "notes": "",
+          "verification_status": "captura_usuario",
+          "source_language": "en",
+          "image": "pets/skills/kyubi-gedo-armor.png"
         },
         {
           "name": "Secret: Fire Bullet Combo",
           "level": 20,
-          "cd": null,
+          "cd": "11",
           "damage": null,
           "cp": null,
-          "desc": "Lanza una enorme bola de fuego que se divide en bolas menores. Aplica quemadura del 2% a todos los objetivos durante 4 turnos.",
-          "notes": "Base del porcentaje no especificada en el texto aportado."
+          "desc": "Throw a giant fire ball out, and split into many small fire balls. All targets HP will be reduced by 10% (2 turns)",
+          "notes": "",
+          "image": "pets/skills/kyubi-ab-5.png",
+          "verification_status": "captura_usuario",
+          "source_language": "en"
         },
         {
           "name": "Secret: Broken Gedo World",
           "level": 30,
-          "cd": null,
+          "cd": "12",
           "damage": null,
           "cp": null,
-          "desc": "Dispara un rayo de chakra a un area. Los objetivos no pueden usar jutsu durante 1 turno (Restriction).",
-          "notes": ""
+          "desc": "Shoot out a Chakra beam to a whole area, targets will have their agility reduced by 30% for 3 turns. This attack is highly accurate.",
+          "notes": "",
+          "image": "pets/skills/kyubi-ab-6.png",
+          "verification_status": "captura_usuario",
+          "source_language": "en"
         }
-      ]
+      ],
+      "source_language": "en",
+      "notes": "No se confirma si los porcentajes no especificados usan HP actual o maximo. No se conoce el orden de eleccion de habilidades.",
+      "image": "pets/kyubi.png",
+      "thumb": "pets/kyubi.png"
     },
     {
       "name": "Easter Gobi",
-      "source": "Resumen aportado por el usuario en la conversacion. Referencias a Gobi y un video; no se confirmaron diferencias de version ni valores en el servidor actual.",
+      "source": "Capturas de habilidades proporcionadas por el usuario el 2026-10-05. Los valores no visibles permanecen sin dato.",
       "reference_url": "https://ninjasaga.fandom.com/wiki/Gobi",
-      "video_url": "https://www.youtube.com/watch?v=t8MjAC3jI0Q&t=29",
-      "verification_status": "pendiente_verificacion_en_juego",
+      "verification_status": "captura_usuario",
       "skills": [
         {
-          "name": "Viento",
+          "name": "Wind Tag: Hot Wind",
           "level": 1,
-          "cd": null,
+          "cd": "0",
           "damage": null,
           "cp": null,
-          "desc": "Reduce la evasion del enemigo un 10% durante 1 turno.",
-          "notes": "Nombre elemental aportado; nombre exacto de la habilidad pendiente."
+          "desc": "Hot wind attack. Reduce 10% target's dodge rate (1 turn)",
+          "notes": "",
+          "image": "pets/skills/gobi1.png",
+          "verification_status": "captura_usuario",
+          "source_language": "en"
         },
         {
-          "name": "Trueno",
+          "name": "Lightning Tag: Red Thunder",
           "level": 5,
-          "cd": null,
+          "cd": "5",
           "damage": null,
           "cp": null,
-          "desc": "Aturde al objetivo durante 2 turnos.",
-          "notes": "Nombre elemental aportado; nombre exacto de la habilidad pendiente."
+          "desc": "Red Lightning which make enemy unable to move. Stun target for 2 turns",
+          "notes": "",
+          "image": "pets/skills/gobi2.png",
+          "verification_status": "captura_usuario",
+          "source_language": "en"
         },
         {
-          "name": "Fuego",
+          "name": "Fire Tag: Explosive Flame",
           "level": 10,
-          "cd": null,
+          "cd": "7",
           "damage": null,
           "cp": null,
-          "desc": "Quema y reduce un 5% del HP del enemigo durante 2 turnos.",
-          "notes": "Base del porcentaje y nombre exacto pendientes."
+          "desc": "Burn to reduce enemy's 5% HP. (2 turns)",
+          "notes": "",
+          "image": "pets/skills/gobi3.png",
+          "verification_status": "captura_usuario",
+          "source_language": "en"
         },
         {
-          "name": "Tierra",
+          "name": "Earth Tag: Red Earth",
           "level": 15,
-          "cd": null,
+          "cd": "8",
           "damage": null,
           "cp": null,
-          "desc": "Otorga proteccion al maestro durante 2 turnos (escudo/guardian).",
-          "notes": "Tipo y magnitud exactos de proteccion y nombre exacto pendientes."
+          "desc": "Protect master from all attacks. (2 turns)",
+          "notes": "",
+          "image": "pets/skills/gobi4.png",
+          "verification_status": "captura_usuario",
+          "source_language": "en"
         },
         {
-          "name": "Agua",
+          "name": "Water Tag: Aqua Regia",
           "level": 20,
-          "cd": null,
+          "cd": "8",
           "damage": null,
           "cp": null,
-          "desc": "Reduce el HP del enemigo un 2% durante 2 turnos.",
-          "notes": "Base del porcentaje y nombre exacto pendientes."
+          "desc": "Corrode enemy with aqua regia. Poison to enemy, target reduce 2%HP each turn. (2 turns)",
+          "notes": "",
+          "image": "pets/skills/gabi5.png",
+          "verification_status": "captura_usuario",
+          "source_language": "en"
         },
         {
-          "name": "Secret: Five Tag Genkai",
-          "level": null,
-          "cd": null,
+          "name": "Secret: Five Tag Infinity",
+          "level": 25,
+          "cd": "8",
           "damage": null,
           "cp": null,
-          "desc": "Ataque combinado de todos los elementos que golpea a todos los enemigos y reduce su HP un 10%.",
-          "notes": "Nivel indicado como 25/30 en el resumen: sin confirmar. Base del porcentaje y nombre exacto pendientes."
+          "desc": "Attack all enemies with different elements. Reduce all target's HP & CP by 10%",
+          "notes": "",
+          "image": "pets/skills/gobi6.png",
+          "verification_status": "captura_usuario",
+          "source_language": "en"
         }
-      ]
+      ],
+      "source_language": "en",
+      "notes": "No se confirma si los porcentajes no especificados usan HP actual o maximo. No se conoce el orden de eleccion de habilidades.",
+      "image": "pets/easter-gobi.png",
+      "thumb": "pets/easter-gobi.png"
     }
   ]
 }
