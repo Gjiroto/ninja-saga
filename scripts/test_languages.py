@@ -47,7 +47,7 @@ with sync_playwright() as p:
     page.locator('#detail [data-lang="es"]').click()
     expect(page.locator('#detail')).to_be_visible()
     expect(page.locator('#detail-content .skill')).to_have_count(6)
-    expect(page.locator('#detail-content')).to_contain_text('Traducción automática')
+    expect(page.locator('#detail-content')).to_contain_text('Ver texto original')
     page.keyboard.press('Escape')
     expect(page.locator('#global-search')).to_have_value('Divine Wolf')
     page.locator('#categories [data-category="extreme"]').click()
@@ -82,7 +82,7 @@ with sync_playwright() as p:
     page.locator('#search').fill('Easter')
     page.locator('#grid [data-detail]').click()
     expect(page.locator('#detail-content')).to_contain_text('No data')
-    expect(page.locator('#detail-content')).to_contain_text('View original text')
+    expect(page.locator('#detail-content')).to_contain_text('Five Tag Infinity')
     page.keyboard.press('Escape')
     # No storage: choose a language, use the app, and receive a clear notice.
     isolated = browser.new_context()
