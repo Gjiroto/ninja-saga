@@ -10,12 +10,12 @@ url = os.environ.get('CODEX_TEST_URL', 'http://127.0.0.1:8000/ninja-saga/')
 out = root / 'test-results'
 out.mkdir(exist_ok=True)
 translations = json.loads((root / 'data/translations.json').read_text(encoding='utf-8'))
-for filename in ['talents', 'jutsus', 'pets']:
+for filename in ['talents', 'jutsus', 'pets', 'ninjutsu']:
     data = json.loads((root / f'data/{filename}.json').read_text(encoding='utf-8'))
     def validate(node):
         if isinstance(node, dict):
             for key, value in node.items():
-                if key in ['desc','req','notes','source','description'] and isinstance(value,str) and value:
+                if key in ['desc','req','notes','source','description','obtained_by'] and isinstance(value,str) and value:
                     assert value in translations, (filename,key,value)
                     assert translations[value]['es'] and translations[value]['en']
                     assert re.findall(r'\d+(?:[.,]\d+)?',value)==re.findall(r'\d+(?:[.,]\d+)?',translations[value]['es'])
@@ -35,7 +35,7 @@ with sync_playwright() as p:
     page.locator('#language-welcome [data-lang="en"]').click()
     expect(page.locator('html')).to_have_attribute('lang','en')
     expect(page.locator('#home h1')).to_have_text('Your ninja archive')
-    expect(page.locator('#home-categories button')).to_have_count(5)
+    expect(page.locator('#home-categories button')).to_have_count(6)
     page.screenshot(path=str(out/'home-en.png'))
     page.reload()
     expect(page.locator('#language-welcome')).not_to_be_visible()
@@ -94,4 +94,4 @@ with sync_playwright() as p:
     expect(blocked.locator('#toast')).to_contain_text('cannot save')
     assert not errors,errors
     browser.close()
-print('OK: 563 traducciones, cifras, ES/EN, persistencia, busqueda global, dialogos, estado conservado, enlaces, movil y almacenamiento bloqueado.')
+print('OK: traducciones, cifras, ES/EN, persistencia, busqueda global, dialogos, estado conservado, enlaces, movil y almacenamiento bloqueado.')

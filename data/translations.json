@@ -3376,5 +3376,1931 @@
     "en": "Summary provided by the user in the conversation. References to Gobi and a video; no version differences or values ​​were confirmed on the current server.",
     "method": "machine",
     "numbers_match": true
+  },
+  "Pet's Basic Attack. Applies 10% Bleeding onto the enemy for 1 turn": {
+    "en": "Pet's Basic Attack. Applies 10% Bleeding onto the enemy for 1 turn",
+    "es": "Ataque básico de la mascota. Aplica un 10% de sangrado al enemigo durante 1 turno.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Blow out a small fire ball from pet's mouth which causes 5% Burn. (3 turns).": {
+    "en": "Blow out a small fire ball from pet's mouth which causes 5% Burn. (3 turns).",
+    "es": "Expulsa una pequeña bola de fuego de la boca de la mascota que provoca un 5 % de quemaduras. (3 vueltas).",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Shoot out a Chakra beam, target will not allow to use any jutsu (3 turns).": {
+    "en": "Shoot out a Chakra beam, target will not allow to use any jutsu (3 turns).",
+    "es": "Dispara un rayo de Chakra, el objetivo no permitirá usar ningún jutsu (3 turnos).",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Pendiente: no se recibio captura de Gedo Armor. Datos historicos sin confirmar; las capturas kyubi ab 4 y 6 muestran ambas Broken Gedo World.": {
+    "es": "Pendiente: no se recibio captura de Gedo Armor. Datos historicos sin confirmar; las capturas kyubi ab 4 y 6 muestran ambas Broken Gedo World.",
+    "en": "Pending: no capture of Gedo Armor received. Unconfirmed historical data; kyubi ab screenshots 4 and 6 both show Broken Gedo World.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Throw a giant fire ball out, and split into many small fire balls. All targets HP will be reduced by 10% (2 turns)": {
+    "en": "Throw a giant fire ball out, and split into many small fire balls. All targets HP will be reduced by 10% (2 turns)",
+    "es": "Lanza una bola de fuego gigante y divídela en muchas bolas de fuego pequeñas. Todos los objetivos HP se reducirán en un 10% (2 turnos)",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Shoot out a Chakra beam to a whole area, targets will have their agility reduced by 30% for 3 turns. This attack is highly accurate.": {
+    "en": "Shoot out a Chakra beam to a whole area, targets will have their agility reduced by 30% for 3 turns. This attack is highly accurate.",
+    "es": "Dispara un rayo de Chakra a un área completa, los objetivos verán su agilidad reducida en un 30% durante 3 turnos. Este ataque es muy preciso.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "No se confirma si los porcentajes no especificados usan HP actual o maximo. No se conoce el orden de eleccion de habilidades.": {
+    "es": "No se confirma si los porcentajes no especificados usan HP actual o maximo. No se conoce el orden de eleccion de habilidades.",
+    "en": "It is not confirmed whether unspecified percentages use current or maximum HP. The order of choosing skills is not known.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Capturas de habilidades proporcionadas por el usuario el 2026-10-05. Los valores no visibles permanecen sin dato. Gedo Armor conserva la referencia historica, pendiente de captura.": {
+    "es": "Capturas de habilidades proporcionadas por el usuario el 2026-10-05. Los valores no visibles permanecen sin dato. Gedo Armor conserva la referencia historica, pendiente de captura.",
+    "en": "Captures of skills provided by the user on 2026-10-05. Non-visible values ​​remain without data. Gedo Armor preserves the historical reference, pending capture.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Hot wind attack. Reduce 10% target's dodge rate (1 turn)": {
+    "en": "Hot wind attack. Reduce 10% target's dodge rate (1 turn)",
+    "es": "Ataque de viento caliente. Reduce un 10% la tasa de esquiva del objetivo (1 turno)",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Red Lightning which make enemy unable to move. Stun target for 2 turns": {
+    "en": "Red Lightning which make enemy unable to move. Stun target for 2 turns",
+    "es": "Red Lightning que hace que el enemigo no pueda moverse. Aturde al objetivo durante 2 turnos.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Burn to reduce enemy's 5% HP. (2 turns)": {
+    "en": "Burn to reduce enemy's 5% HP. (2 turns)",
+    "es": "Quema para reducir el 5% de HP del enemigo. (2 vueltas)",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Protect master from all attacks. (2 turns)": {
+    "en": "Protect master from all attacks. (2 turns)",
+    "es": "Protege al maestro de todos los ataques. (2 vueltas)",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Corrode enemy with aqua regia. Poison to enemy, target reduce 2%HP each turn. (2 turns)": {
+    "en": "Corrode enemy with aqua regia. Poison to enemy, target reduce 2%HP each turn. (2 turns)",
+    "es": "Corroe al enemigo con agua regia. Veneno para el enemigo, el objetivo reduce un 2% de HP cada turno. (2 vueltas)",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Attack all enemies with different elements. Reduce all target's HP & CP by 10%": {
+    "en": "Attack all enemies with different elements. Reduce all target's HP & CP by 10%",
+    "es": "Ataca a todos los enemigos con diferentes elementos. Reduce el HP y CP de todos los objetivos en un 10%.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Capturas de habilidades proporcionadas por el usuario el 2026-10-05. Los valores no visibles permanecen sin dato.": {
+    "es": "Capturas de habilidades proporcionadas por el usuario el 2026-10-05. Los valores no visibles permanecen sin dato.",
+    "en": "Captures of skills provided by the user on 2026-10-05. Non-visible values ​​remain without data.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Release one giant twister": {
+    "en": "Release one giant twister",
+    "es": "Libera un tornado gigante",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Ninja Saga Wiki (Fandom), Lista principal de Ninjutsu. Version historica; no confirma los valores del servidor actual. Se excluye iOS.": {
+    "es": "Ninja Saga Wiki (Fandom), Lista principal de Ninjutsu. Version historica; no confirma los valores del servidor actual. Se excluye iOS.",
+    "en": "Ninja Saga Wiki (Fandom), Ninjutsu Master List. historical version; it does not confirm the values ​​of the current server. iOS is excluded.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Release a cannon gust of wind": {
+    "en": "Release a cannon gust of wind",
+    "es": "Libera una ráfaga de viento de cañón.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Releases two giant twisters": {
+    "en": "Releases two giant twisters",
+    "es": "Libera dos tornados gigantes",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Forms an enormous wind sphere by spinning 360 degrees": {
+    "en": "Forms an enormous wind sphere by spinning 360 degrees",
+    "es": "Forma una enorme esfera de viento al girar 360 grados.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Releases wind vortex from ones body": {
+    "en": "Releases wind vortex from ones body",
+    "es": "Libera vórtices de viento del cuerpo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Releases a wind gust strike": {
+    "en": "Releases a wind gust strike",
+    "es": "Libera una ráfaga de viento",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Releases heavy gust of wind": {
+    "en": "Releases heavy gust of wind",
+    "es": "Libera fuertes ráfagas de viento",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Transforming into a twister drilling an enemy continously.": {
+    "en": "Transforming into a twister drilling an enemy continously.",
+    "es": "Transformándose en un tornado que perfora a un enemigo continuamente.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "A combination of wind assault and wind cannon.": {
+    "en": "A combination of wind assault and wind cannon.",
+    "es": "Una combinación de asalto de viento y cañón de viento.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Increase dodge chance by 40% /42%/45%/49%/55%/55% for 3 /3/3/3/3/4 turns.": {
+    "en": "(Kinjutsu) Increase dodge chance by 40% /42%/45%/49%/55%/55% for 3 /3/3/3/3/4 turns.",
+    "es": "(Kinjutsu) Aumenta la probabilidad de esquivar en un 40% /42%/45%/49%/55%/55% durante 3 /3/3/3/3/4 turnos.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Increase dodge chance by 40%/ 42% /45%/49%/55%/55% for 3/ 3 /3/3/3/4 turns.": {
+    "en": "(Kinjutsu) Increase dodge chance by 40%/ 42% /45%/49%/55%/55% for 3/ 3 /3/3/3/4 turns.",
+    "es": "(Kinjutsu) Aumenta la probabilidad de esquivar en un 40%/ 42% /45%/49%/55%/55% durante 3/ 3 /3/3/3/4 turnos.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Increase dodge chance by 40%/42%/ 45% /49%/55%/55% for 3/3/ 3 /3/3/4 turns.": {
+    "en": "(Kinjutsu) Increase dodge chance by 40%/42%/ 45% /49%/55%/55% for 3/3/ 3 /3/3/4 turns.",
+    "es": "(Kinjutsu) Aumenta la probabilidad de esquivar en un 40%/42%/ 45% /49%/55%/55% durante 3/3/ 3 /3/3/4 turnos.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Increase dodge chance by 40%/42%/45%/ 49% /55%/55% for 3/3/3/ 3 /3/4 turns.": {
+    "en": "(Kinjutsu) Increase dodge chance by 40%/42%/45%/ 49% /55%/55% for 3/3/3/ 3 /3/4 turns.",
+    "es": "(Kinjutsu) Aumenta la probabilidad de esquivar en un 40%/42%/45%/ 49% /55%/55% durante 3/3/3/ 3 /3/4 turnos.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Increase dodge chance by 40%/42%/45%/49%/ 55% /55% for 3/3/3/3/ 3 /4 turns.": {
+    "en": "(Kinjutsu) Increase dodge chance by 40%/42%/45%/49%/ 55% /55% for 3/3/3/3/ 3 /4 turns.",
+    "es": "(Kinjutsu) Aumenta la probabilidad de esquivar en un 40%/42%/45%/49%/ 55% /55% durante 3/3/3/3/ 3/4 turnos.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Increase dodge chance by 40%/42%/45%/49%/55%/ 55% for 3/3/3/3/3/ 4 turns.": {
+    "en": "(Kinjutsu) Increase dodge chance by 40%/42%/45%/49%/55%/ 55% for 3/3/3/3/3/ 4 turns.",
+    "es": "(Kinjutsu) Aumenta la probabilidad de esquivar en un 40%/42%/45%/49%/55%/ 55% durante 3/3/3/3/3/ 4 turnos.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Create two tornado and strike your enemies.": {
+    "en": "Create two tornado and strike your enemies.",
+    "es": "Crea dos tornados y golpea a tus enemigos.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Summons Hurricane of the SNF to cause damage to target using a series of acrobatic moves.": {
+    "en": "Summons Hurricane of the SNF to cause damage to target using a series of acrobatic moves.",
+    "es": "Invoca a Hurricane del SNF para causar daño al objetivo mediante una serie de movimientos acrobáticos.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Creates a dagger wind attack": {
+    "en": "Creates a dagger wind attack",
+    "es": "Crea un ataque de viento con daga.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Create a wind storm and attack the enemy.": {
+    "en": "Create a wind storm and attack the enemy.",
+    "es": "Crea una tormenta de viento y ataca al enemigo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Concentrate chakra in your hand and release a sharp cutter made from wind.": {
+    "en": "Concentrate chakra in your hand and release a sharp cutter made from wind.",
+    "es": "Concentra el chakra en tu mano y suelta un cortador afilado hecho de viento.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Wind attack that causes bleeding effect(Bleeding + 25% /27%/30%/35%/35% damage taken for 3 /3/3/3/4 turns)": {
+    "en": "(Kinjutsu) Wind attack that causes bleeding effect(Bleeding + 25% /27%/30%/35%/35% damage taken for 3 /3/3/3/4 turns)",
+    "es": "(Kinjutsu) Ataque de viento que causa efecto de sangrado (Sangrado + 25% /27%/30%/35%/35% de daño recibido durante 3 /3/3/3/4 turnos)",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Wind attack that causes bleeding effect(Bleeding +25%/ 27% /30%/35%/35% damage taken for 3/ 3 /3/3/4 turns)": {
+    "en": "(Kinjutsu) Wind attack that causes bleeding effect(Bleeding +25%/ 27% /30%/35%/35% damage taken for 3/ 3 /3/3/4 turns)",
+    "es": "(Kinjutsu) Ataque de viento que causa efecto de sangrado (Sangrado +25%/ 27% /30%/35%/35% de daño recibido durante 3/ 3 /3/3/4 turnos)",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Wind attack that causes bleeding effect(Bleeding +25%/27%/ 30% /35%/35% damage taken for 3/3/ 3 /3/4 turns)": {
+    "en": "(Kinjutsu) Wind attack that causes bleeding effect(Bleeding +25%/27%/ 30% /35%/35% damage taken for 3/3/ 3 /3/4 turns)",
+    "es": "(Kinjutsu) Ataque de viento que causa efecto de sangrado (Sangrado +25%/27%/ 30% /35%/35% de daño recibido durante 3/3/ 3 /3/4 turnos)",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Wind attack that causes bleeding effect(Bleeding +25%/27%/30%/ 35% /35% damage taken for 3/3/3/ 3 /4 turns)": {
+    "en": "(Kinjutsu) Wind attack that causes bleeding effect(Bleeding +25%/27%/30%/ 35% /35% damage taken for 3/3/3/ 3 /4 turns)",
+    "es": "(Kinjutsu) Ataque de viento que causa efecto de sangrado (Sangrado +25%/27%/30%/ 35% /35% de daño recibido durante 3/3/3/ 3/4 turnos)",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Wind attack that causes bleeding effect(Bleeding +25%/27%/30%/35%/ 35% damage taken for 3/3/3/3/ 4 turns)": {
+    "en": "(Kinjutsu) Wind attack that causes bleeding effect(Bleeding +25%/27%/30%/35%/ 35% damage taken for 3/3/3/3/ 4 turns)",
+    "es": "(Kinjutsu) Ataque de viento que causa efecto de sangrado (Sangrado +25%/27%/30%/35%/ 35% de daño recibido durante 3/3/3/3/ 4 turnos)",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Spin in high speed and emit wind power from body": {
+    "en": "Spin in high speed and emit wind power from body",
+    "es": "Gira a alta velocidad y emite energía eólica desde el cuerpo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Concentrate chakra in your hand and release wind edge to chop the enemy.": {
+    "en": "Concentrate chakra in your hand and release wind edge to chop the enemy.",
+    "es": "Concentra el chakra en tu mano y suelta el borde del viento para cortar al enemigo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Release wind edge in your hand to spear the enemy weakness.": {
+    "en": "Release wind edge in your hand to spear the enemy weakness.",
+    "es": "Suelta el borde del viento en tu mano para atacar la debilidad del enemigo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Summons Hurricane of the SNF to use the Balance Beam Cyclone Attack.": {
+    "en": "Summons Hurricane of the SNF to use the Balance Beam Cyclone Attack.",
+    "es": "Invoca a Hurricane del SNF para usar el ataque ciclónico Balance Beam.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Concentrate chakra in your hand and release two sharp cutters made from wind.": {
+    "en": "Concentrate chakra in your hand and release two sharp cutters made from wind.",
+    "es": "Concentra el chakra en tu mano y suelta dos cortadores afilados hechos de viento.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Increase dodge rate by 20% /22%/22%/22%. Recover 8% /8%/9%/9% CP each turn. (Apply to whole team) ( 3 /3/3/4 turns)": {
+    "en": "(Kinjutsu) Increase dodge rate by 20% /22%/22%/22%. Recover 8% /8%/9%/9% CP each turn. (Apply to whole team) ( 3 /3/3/4 turns)",
+    "es": "(Kinjutsu) Aumenta la tasa de esquiva en un 20%/22%/22%/22%. Recupera 8% /8%/9%/9% CP cada turno. (Aplica a todo el equipo) (3/3/3/4 turnos)",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Increase dodge rate by 20%/ 22% /22%/22%. Recover 8%/ 8% /9%/9% CP each turn. (Apply to whole team) (3/ 3 /3/4 turns)": {
+    "en": "(Kinjutsu) Increase dodge rate by 20%/ 22% /22%/22%. Recover 8%/ 8% /9%/9% CP each turn. (Apply to whole team) (3/ 3 /3/4 turns)",
+    "es": "(Kinjutsu) Aumenta la tasa de esquiva en un 20%/ 22% /22%/22%. Recupera 8%/ 8% /9%/9% CP cada turno. (Aplica a todo el equipo) (3/ 3 /3/4 turnos)",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Increase dodge rate by 20%/22%/ 22% /22%. Recover 8%/8%/ 9% /9% CP each turn. (Apply to whole team) (3/3/ 3 /4 turns)": {
+    "en": "(Kinjutsu) Increase dodge rate by 20%/22%/ 22% /22%. Recover 8%/8%/ 9% /9% CP each turn. (Apply to whole team) (3/3/ 3 /4 turns)",
+    "es": "(Kinjutsu) Aumenta la tasa de esquiva en un 20%/22%/22%/22%. Recupera 8%/8%/ 9% /9% CP cada turno. (Aplica a todo el equipo) (3/3/ 3/4 turnos)",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Increase dodge rate by 20%/22%/22%/ 22% . Recover 8%/8%/9%/ 9% CP each turn. (Apply to whole team) (3/3/3/ 4 turns)": {
+    "en": "(Kinjutsu) Increase dodge rate by 20%/22%/22%/ 22% . Recover 8%/8%/9%/ 9% CP each turn. (Apply to whole team) (3/3/3/ 4 turns)",
+    "es": "(Kinjutsu) Aumenta la tasa de esquiva en un 20%/22%/22%/22%. Recupera 8%/8%/9%/ 9% CP cada turno. (Aplica a todo el equipo) (3/3/3/ 4 turnos)",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Ride on a wind blade and strike target.": {
+    "en": "Ride on a wind blade and strike target.",
+    "es": "Monta sobre una pala de viento y ataca al objetivo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Spin in high speed and emit wind power as tornado.": {
+    "en": "Spin in high speed and emit wind power as tornado.",
+    "es": "Gira a alta velocidad y emite energía eólica en forma de tornado.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Release wind edge and cleave your enemy in a circle track.": {
+    "en": "Release wind edge and cleave your enemy in a circle track.",
+    "es": "Libera el borde del viento y divide a tu enemigo en una trayectoria circular.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Reduce 4 /4/5 cooldown turns of skills that are resting.": {
+    "en": "(Kinjutsu) Reduce 4 /4/5 cooldown turns of skills that are resting.",
+    "es": "(Kinjutsu) Reduce 4/4/5 turnos de enfriamiento de habilidades que están en reposo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Reduce 4/ 4 /5 cooldown turns of skills that are resting.": {
+    "en": "(Kinjutsu) Reduce 4/ 4 /5 cooldown turns of skills that are resting.",
+    "es": "(Kinjutsu) Reduce 4/ 4 /5 turnos de enfriamiento de habilidades que están en reposo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Reduce 4/4/ 5 cooldown turns of skills that are resting.": {
+    "en": "(Kinjutsu) Reduce 4/4/ 5 cooldown turns of skills that are resting.",
+    "es": "(Kinjutsu) Reduce 4/4/5 turnos de enfriamiento de habilidades que están en reposo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Release a wind blade from hand and extend to enemy with a high speed.": {
+    "en": "Release a wind blade from hand and extend to enemy with a high speed.",
+    "es": "Suelta una espada de viento de la mano y extiéndela hacia el enemigo a gran velocidad.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Double attack target by cleaving your enemy.": {
+    "en": "Double attack target by cleaving your enemy.",
+    "es": "Objetivo de doble ataque dividiendo a tu enemigo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Slash target horizontally with a windy blade.": {
+    "en": "Slash target horizontally with a windy blade.",
+    "es": "Corta al objetivo horizontalmente con una espada ventosa.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Release wind blade to stab enemy.": {
+    "en": "Release wind blade to stab enemy.",
+    "es": "Suelta la hoja de viento para apuñalar al enemigo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Remove all negative status, reduce 1 Wind Ninjutsu Cool Down on every attack the player receives ( 2 /3 Turns).": {
+    "en": "Remove all negative status, reduce 1 Wind Ninjutsu Cool Down on every attack the player receives ( 2 /3 Turns).",
+    "es": "Elimina todos los estados negativos, reduce 1 enfriamiento de Wind Ninjutsu en cada ataque que recibe el jugador (2/3 turnos).",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Remove all negative status, reduce 1 Wind Ninjutsu Cool Down on every attack the player receives (2/ 3 Turns).": {
+    "en": "Remove all negative status, reduce 1 Wind Ninjutsu Cool Down on every attack the player receives (2/ 3 Turns).",
+    "es": "Elimina todos los estados negativos, reduce 1 enfriamiento de Wind Ninjutsu en cada ataque que recibe el jugador (2/3 turnos).",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Create wind blade and hurt target at a stunning speed.": {
+    "en": "Create wind blade and hurt target at a stunning speed.",
+    "es": "Crea una pala de viento y daña al objetivo a una velocidad asombrosa.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Create wind blade and stab target within a fast, cross-shaped movement.": {
+    "en": "Create wind blade and stab target within a fast, cross-shaped movement.",
+    "es": "Crea una espada de viento y apuñala al objetivo con un movimiento rápido en forma de cruz.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Reduce 20% critical chance (4 turns), increase 3 Lightning Ninjutsu cool down, receives extra 20% damage if player is under 'Kinjutsu: Infinite Wind Breakthrough' status effect.": {
+    "en": "Reduce 20% critical chance (4 turns), increase 3 Lightning Ninjutsu cool down, receives extra 20% damage if player is under 'Kinjutsu: Infinite Wind Breakthrough' status effect.",
+    "es": "Reduce un 20 % la probabilidad crítica (4 turnos), aumenta el tiempo de reutilización de 3 Lightning Ninjutsu, recibe un 20 % de daño adicional si el jugador está bajo el efecto de estado 'Kinjutsu: Infinite Wind Breakthrough'.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Spin at an astonishing speed and generate a tornado.": {
+    "en": "Spin at an astonishing speed and generate a tornado.",
+    "es": "Gira a una velocidad asombrosa y genera un tornado.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Attack target in wind speed.": {
+    "en": "Attack target in wind speed.",
+    "es": "Ataque al objetivo a la velocidad del viento.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Form a storm around the legs and attack target.": {
+    "en": "Form a storm around the legs and attack target.",
+    "es": "Forma una tormenta alrededor de las piernas y ataca al objetivo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Ride along the wind and attack target.": {
+    "en": "Ride along the wind and attack target.",
+    "es": "Cabalga con el viento y ataca al objetivo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Protect the user with violent wind. Reduces attackers HP by 750 and inflicts \"Bleeding\" status to attackers for 3 turns. (Bleeding: 40%, 1 turn)": {
+    "en": "(Kinjutsu) Protect the user with violent wind. Reduces attackers HP by 750 and inflicts \"Bleeding\" status to attackers for 3 turns. (Bleeding: 40%, 1 turn)",
+    "es": "(Kinjutsu) Protege al usuario con viento violento. Reduce los HP de los atacantes en 750 e inflige el estado de \"sangrado\" a los atacantes durante 3 turnos. (Sangrado: 40%, 1 turno)",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Release a powerful storm to attack target.": {
+    "en": "Release a powerful storm to attack target.",
+    "es": "Libera una poderosa tormenta para atacar al objetivo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Release many storms with one punch.": {
+    "en": "Release many storms with one punch.",
+    "es": "Libera muchas tormentas con un solo golpe.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Summons Hurricane of the SNF to use the Vault-jump Wind Blade to cause damage. Opponent team is inflicted negative effect 'Bleeding' for 3 turns (Bleeding: +20% damage taken).": {
+    "en": "Summons Hurricane of the SNF to use the Vault-jump Wind Blade to cause damage. Opponent team is inflicted negative effect 'Bleeding' for 3 turns (Bleeding: +20% damage taken).",
+    "es": "Invoca a Hurricane del SNF para que use la espada de viento de salto de bóveda para causar daño. El equipo oponente sufre el efecto negativo 'Sangrado' durante 3 turnos (Sangrado: +20 % del daño recibido).",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Shoots all targets with a dragon made of strong wind.": {
+    "en": "Shoots all targets with a dragon made of strong wind.",
+    "es": "Dispara a todos los objetivos con un dragón hecho de fuerte viento.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Blasts an area with air. Inflicts \"Bleeding\" status to target 1 turn. (Bleeding: 20%, 1 turn)": {
+    "en": "Blasts an area with air. Inflicts \"Bleeding\" status to target 1 turn. (Bleeding: 20%, 1 turn)",
+    "es": "Lanza aire a un área. Inflige estado de \"sangrado\" al objetivo durante 1 turno. (Sangrado: 20%, 1 turno)",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) User consumes all CP and gains the 'Flexible' status (2 turns) (Increase dodge chance by 100%)": {
+    "en": "(Kinjutsu) User consumes all CP and gains the 'Flexible' status (2 turns) (Increase dodge chance by 100%)",
+    "es": "(Kinjutsu) El usuario consume todo el CP y obtiene el estado 'Flexible' (2 turnos) (Aumenta la probabilidad de esquivar en un 100%)",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Materials Market during 3rd Anniversary : x1 Heart of Kari x1 Crystal of Kari x20 Primary Ninja Ribbon x10 Intermediate Ninja Ribbon x10 Superior Ninja Ribbon x10 Winner Certificate": {
+    "en": "Materials Market during 3rd Anniversary : x1 Heart of Kari x1 Crystal of Kari x20 Primary Ninja Ribbon x10 Intermediate Ninja Ribbon x10 Superior Ninja Ribbon x10 Winner Certificate",
+    "es": "Mercado de Materiales durante el 3er Aniversario: x1 Corazón de Kari x1 Cristal de Kari x20 Cinta Ninja Primaria x10 Cinta Ninja Intermedia x10 Cinta Ninja Superior x10 Certificado de Ganador",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) This jutsu which can be used more frequently": {
+    "en": "(Kinjutsu) This jutsu which can be used more frequently",
+    "es": "(Kinjutsu) Este jutsu que se puede utilizar con más frecuencia.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Materials Market during 3rd Anniversary : x1 Heart of Kari x1 Crystal of Kari x6 Primary Ninja Ribbon x4 Intermediate Ninja Ribbon x4 Superior Ninja Ribbon x4 Winner Certificate": {
+    "en": "Materials Market during 3rd Anniversary : x1 Heart of Kari x1 Crystal of Kari x6 Primary Ninja Ribbon x4 Intermediate Ninja Ribbon x4 Superior Ninja Ribbon x4 Winner Certificate",
+    "es": "Mercado de Materiales durante el 3er Aniversario: x1 Corazón de Kari x1 Cristal de Kari x6 Cinta Ninja Primaria x4 Cinta Ninja Intermedia x4 Cinta Ninja Superior x4 Certificado de Ganador",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Target's CP reduced by 1300": {
+    "en": "(Kinjutsu) Target's CP reduced by 1300",
+    "es": "(Kinjutsu) CP del objetivo reducido en 1300",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Materials Market during 3rd Anniversary : x1 Heart of Kari x1 Crystal of Kari x24 Primary Ninja Ribbon x12 Intermediate Ninja Ribbon x12 Superior Ninja Ribbon x12 Winner Certificate": {
+    "en": "Materials Market during 3rd Anniversary : x1 Heart of Kari x1 Crystal of Kari x24 Primary Ninja Ribbon x12 Intermediate Ninja Ribbon x12 Superior Ninja Ribbon x12 Winner Certificate",
+    "es": "Mercado de Materiales durante el 3er Aniversario: x1 Corazón de Kari x1 Cristal de Kari x24 Cinta Ninja Primaria x12 Cinta Ninja Intermedia x12 Cinta Ninja Superior x12 Certificado de Ganador",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Emit a ball of fire from character's mouth.": {
+    "en": "Emit a ball of fire from character's mouth.",
+    "es": "Emite una bola de fuego desde la boca del personaje.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Releases a spiky wheel fire": {
+    "en": "Releases a spiky wheel fire",
+    "es": "Lanza un fuego de rueda puntiagudo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Releases a multiple fire explosion": {
+    "en": "Releases a multiple fire explosion",
+    "es": "Libera una explosión de fuego múltiple.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Emit a jet of fire from character's mouth.": {
+    "en": "Emit a jet of fire from character's mouth.",
+    "es": "Emite un chorro de fuego desde la boca del personaje.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Release fire vortex from one's body": {
+    "en": "Release fire vortex from one's body",
+    "es": "Liberar vórtice de fuego del cuerpo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Releases a flaming bird missile": {
+    "en": "Releases a flaming bird missile",
+    "es": "Lanza un misil pájaro en llamas",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Transforms into a bird to strike an enemy": {
+    "en": "Transforms into a bird to strike an enemy",
+    "es": "Se transforma en pájaro para atacar a un enemigo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Combining chakra and kunai to form an explosive giant kunai": {
+    "en": "Combining chakra and kunai to form an explosive giant kunai",
+    "es": "Combinando chakra y kunai para formar un kunai gigante explosivo",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Molds chakra and fire to release a pillar of fire": {
+    "en": "Molds chakra and fire to release a pillar of fire",
+    "es": "Moldea chakra y fuego para liberar una columna de fuego.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Increase all damage done by 40% /42%/45%/49%/55%/55% to all attacks for 3 /3/3/3/3/4 turns.": {
+    "en": "(Kinjutsu) Increase all damage done by 40% /42%/45%/49%/55%/55% to all attacks for 3 /3/3/3/3/4 turns.",
+    "es": "(Kinjutsu) Aumenta todo el daño causado en un 40% /42%/45%/49%/55%/55% a todos los ataques durante 3 /3/3/3/3/4 turnos.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Increase all damage done by 40%/ 42% /45%/49%/55%/55% to all attacks for 3/ 3 /3/3/3/4 turns.": {
+    "en": "(Kinjutsu) Increase all damage done by 40%/ 42% /45%/49%/55%/55% to all attacks for 3/ 3 /3/3/3/4 turns.",
+    "es": "(Kinjutsu) Aumenta todo el daño causado en un 40%/ 42% /45%/49%/55%/55% a todos los ataques durante 3/ 3 /3/3/3/4 turnos.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Increase all damage done by 40%/42%/ 45% /49%/55%/55% to all attacks for 3/3/ 3 /3/3/4 turns.": {
+    "en": "(Kinjutsu) Increase all damage done by 40%/42%/ 45% /49%/55%/55% to all attacks for 3/3/ 3 /3/3/4 turns.",
+    "es": "(Kinjutsu) Aumenta todo el daño causado en un 40%/42%/ 45% /49%/55%/55% a todos los ataques durante 3/3/ 3 /3/3/4 turnos.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Increase all damage done by 40%/42%/45%/ 49% /55%/55% to all attacks for 3/3/3/ 3 /3/4 turns.": {
+    "en": "(Kinjutsu) Increase all damage done by 40%/42%/45%/ 49% /55%/55% to all attacks for 3/3/3/ 3 /3/4 turns.",
+    "es": "(Kinjutsu) Aumenta todo el daño causado en un 40%/42%/45%/ 49% /55%/55% a todos los ataques durante 3/3/3/ 3 /3/4 turnos.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Increase all damage done by 40%/42%/45%/49%/ 55% /55% to all attacks for 3/3/3/3/ 3 /4 turns.": {
+    "en": "(Kinjutsu) Increase all damage done by 40%/42%/45%/49%/ 55% /55% to all attacks for 3/3/3/3/ 3 /4 turns.",
+    "es": "(Kinjutsu) Aumenta todo el daño realizado en un 40%/42%/45%/49%/ 55% /55% a todos los ataques durante 3/3/3/3/ 3/4 turnos.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Increase all damage done by 40%/42%/45%/49%/55%/ 55% to all attacks for 3/3/3/3/3/ 4 turns.": {
+    "en": "(Kinjutsu) Increase all damage done by 40%/42%/45%/49%/55%/ 55% to all attacks for 3/3/3/3/3/ 4 turns.",
+    "es": "(Kinjutsu) Aumenta todo el daño causado en un 40%/42%/45%/49%/55%/ 55% a todos los ataques durante 3/3/3/3/3/ 4 turnos.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Create two fireballs and burn your enemies into ashes.": {
+    "en": "Create two fireballs and burn your enemies into ashes.",
+    "es": "Crea dos bolas de fuego y reduce a cenizas a tus enemigos.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Summons Lava of the SNF to use the Fiery Smash on target.": {
+    "en": "Summons Lava of the SNF to use the Fiery Smash on target.",
+    "es": "Invoca Lava del SNF para usar Fiery Smash en el objetivo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Create two fire arrow and strike your enemy.": {
+    "en": "Create two fire arrow and strike your enemy.",
+    "es": "Crea dos flechas de fuego y golpea a tu enemigo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Create two Fire Whirl and attack your enemy at range.": {
+    "en": "Create two Fire Whirl and attack your enemy at range.",
+    "es": "Crea dos Fire Whirl y ataca a tu enemigo a distancia.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Concentrate the fire power in your mouth and release three fireballs at once.": {
+    "en": "Concentrate the fire power in your mouth and release three fireballs at once.",
+    "es": "Concentra el poder del fuego en tu boca y lanza tres bolas de fuego a la vez.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Inflicts damage and burn effect for 3 /3/3/3/4 turns (Burn -3% /-4%/-5%/-6%/-6% damage per turn)": {
+    "en": "(Kinjutsu) Inflicts damage and burn effect for 3 /3/3/3/4 turns (Burn -3% /-4%/-5%/-6%/-6% damage per turn)",
+    "es": "(Kinjutsu) Inflige daño y efecto de quemadura durante 3 /3/3/3/4 turnos (Quemadura -3% /-4%/-5%/-6%/-6% de daño por turno)",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Inflicts damage and burn effect for 3/ 3 /3/3/4 turns (Burn -3%/ -4% /-5%/-6%/-6% damage per turn)": {
+    "en": "(Kinjutsu) Inflicts damage and burn effect for 3/ 3 /3/3/4 turns (Burn -3%/ -4% /-5%/-6%/-6% damage per turn)",
+    "es": "(Kinjutsu) Inflige daño y efecto de quemadura durante 3/ 3 /3/3/4 turnos (Quemadura -3%/ -4% /-5%/-6%/-6% de daño por turno)",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Inflicts damage and burn effect for 3/3/ 3 /3/4 turns (Burn -3%/-4%/ -5% /-6%/-6% damage per turn)": {
+    "en": "(Kinjutsu) Inflicts damage and burn effect for 3/3/ 3 /3/4 turns (Burn -3%/-4%/ -5% /-6%/-6% damage per turn)",
+    "es": "(Kinjutsu) Inflige daño y efecto de quemadura durante 3/3/ 3 /3/4 turnos (Quemadura -3%/-4%/ -5% /-6%/-6% de daño por turno)",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Inflicts damage and burn effect for 3/3/3/ 3 /4 turns (Burn -3%/-4%/-5%/ -6% /-6% damage per turn)": {
+    "en": "(Kinjutsu) Inflicts damage and burn effect for 3/3/3/ 3 /4 turns (Burn -3%/-4%/-5%/ -6% /-6% damage per turn)",
+    "es": "(Kinjutsu) Inflige daño y efecto de quemadura durante 3/3/3/ 3 /4 turnos (Quemadura -3%/-4%/-5%/ -6% /-6% de daño por turno)",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Inflicts damage and burn effect for 3/3/3/3/ 4 turns (Burn -3%/-4%/-5%/-6%/ -6% damage per turn)": {
+    "en": "(Kinjutsu) Inflicts damage and burn effect for 3/3/3/3/ 4 turns (Burn -3%/-4%/-5%/-6%/ -6% damage per turn)",
+    "es": "(Kinjutsu) Inflige daño y efecto de quemadura durante 3/3/3/3/ 4 turnos (Quemadura -3%/-4%/-5%/-6%/ -6% de daño por turno)",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Release and focus fire energy on the hand to strike the enemy": {
+    "en": "Release and focus fire energy on the hand to strike the enemy",
+    "es": "Libera y concentra la energía del fuego en la mano para golpear al enemigo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Emit fire power from your body and spin dance towards your enemy.": {
+    "en": "Emit fire power from your body and spin dance towards your enemy.",
+    "es": "Emite poder de fuego desde tu cuerpo y baila hacia tu enemigo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Focus fire energy on fist, it will cause explosion after attack success.": {
+    "en": "Focus fire energy on fist, it will cause explosion after attack success.",
+    "es": "Concentre la energía del fuego en el puño, provocará una explosión después del éxito del ataque.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Summons Lava of the SNF to use the Lava Fragments Attack on target.": {
+    "en": "Summons Lava of the SNF to use the Lava Fragments Attack on target.",
+    "es": "Invoca Lava del SNF para usar el ataque de fragmentos de lava en el objetivo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Throw serial explosive kunai to the enemy.": {
+    "en": "Throw serial explosive kunai to the enemy.",
+    "es": "Lanza kunai explosivos en serie al enemigo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Use skills without consuming CP for 3 /3/4/5 turns. (Cannot charge for 5 /4/3/2 turns)": {
+    "en": "(Kinjutsu) Use skills without consuming CP for 3 /3/4/5 turns. (Cannot charge for 5 /4/3/2 turns)",
+    "es": "(Kinjutsu) Usa habilidades sin consumir CP durante 3/3/4/5 turnos. (No se puede cargar durante 5/4/3/2 turnos)",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Use skills without consuming CP for 3/ 3 /4/5 turns. (Cannot charge for 5/ 4 /3/2 turns)": {
+    "en": "(Kinjutsu) Use skills without consuming CP for 3/ 3 /4/5 turns. (Cannot charge for 5/ 4 /3/2 turns)",
+    "es": "(Kinjutsu) Usa habilidades sin consumir CP durante 3/3/4/5 turnos. (No se puede cargar durante 5/4/3/2 turnos)",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Use skills without consuming CP for 3/3/ 4 /5 turns. (Cannot charge for 5/4/ 3 /2 turns)": {
+    "en": "(Kinjutsu) Use skills without consuming CP for 3/3/ 4 /5 turns. (Cannot charge for 5/4/ 3 /2 turns)",
+    "es": "(Kinjutsu) Usa habilidades sin consumir CP durante 3/3/4/5 turnos. (No se puede cargar durante 5/4/3/2 turnos)",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Use skills without consuming CP for 3/3/4/ 5 turns. (Cannot charge for 5/4/3/ 2 turns)": {
+    "en": "(Kinjutsu) Use skills without consuming CP for 3/3/4/ 5 turns. (Cannot charge for 5/4/3/ 2 turns)",
+    "es": "(Kinjutsu) Usa habilidades sin consumir CP durante 3/3/4/5 turnos. (No se puede cargar durante 5/4/3/2 turnos)",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Explode on target upon fire punching.": {
+    "en": "Explode on target upon fire punching.",
+    "es": "Explota en el objetivo al golpear con fuego.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Release and focus fire energy on the hand to strike the enemy.": {
+    "en": "Release and focus fire energy on the hand to strike the enemy.",
+    "es": "Libera y concentra la energía del fuego en la mano para golpear al enemigo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Release fire power in hand and form as a wave.": {
+    "en": "Release fire power in hand and form as a wave.",
+    "es": "Libera el poder del fuego en la mano y forma una ola.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Increase damage as well as damage taken by 20% /25%/30%; Enemy will also take all damage that made on you (3 turns).": {
+    "en": "(Kinjutsu) Increase damage as well as damage taken by 20% /25%/30%; Enemy will also take all damage that made on you (3 turns).",
+    "es": "(Kinjutsu) Aumenta el daño y el daño recibido en un 20%/25%/30%; El enemigo también recibirá todo el daño que te haya causado (3 turnos).",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Increase damage as well as damage taken by 20%/ 25% /30%; Enemy will also take all damage that made on you (3 turns).": {
+    "en": "(Kinjutsu) Increase damage as well as damage taken by 20%/ 25% /30%; Enemy will also take all damage that made on you (3 turns).",
+    "es": "(Kinjutsu) Aumenta el daño y el daño recibido en un 20%/ 25% /30%; El enemigo también recibirá todo el daño que te haya causado (3 turnos).",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Increase damage as well as damage taken by 20%/25%/ 30% ; Enemy will also take all damage that made on you (3 turns).": {
+    "en": "(Kinjutsu) Increase damage as well as damage taken by 20%/25%/ 30% ; Enemy will also take all damage that made on you (3 turns).",
+    "es": "(Kinjutsu) Aumenta el daño y el daño recibido en un 20%/25%/30%; El enemigo también recibirá todo el daño que te haya causado (3 turnos).",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Burn your body and strike to the enemy to cause explosion.": {
+    "en": "Burn your body and strike to the enemy to cause explosion.",
+    "es": "Quema tu cuerpo y ataca al enemigo para provocar una explosión.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Emit 2 fire waves to enemy.": {
+    "en": "Emit 2 fire waves to enemy.",
+    "es": "Emite 2 ondas de fuego al enemigo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Combine martial art with fiery power and give a double attack to target.": {
+    "en": "Combine martial art with fiery power and give a double attack to target.",
+    "es": "Combina el arte marcial con el poder del fuego y realiza un doble ataque al objetivo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Ride on a fiery bird and crash into enemy.": {
+    "en": "Ride on a fiery bird and crash into enemy.",
+    "es": "Monta sobre un pájaro de fuego y choca contra el enemigo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Remove all negative status, ignore 30% /45% of target's dodge. (4 turns)": {
+    "en": "Remove all negative status, ignore 30% /45% of target's dodge. (4 turns)",
+    "es": "Elimina todos los estados negativos, ignora el 30%/45% de la esquiva del objetivo. (4 vueltas)",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Remove all negative status, ignore 30%/ 45% of target's dodge. (4 turns)": {
+    "en": "Remove all negative status, ignore 30%/ 45% of target's dodge. (4 turns)",
+    "es": "Elimina todos los estados negativos, ignora el 30%/45% de la esquiva del objetivo. (4 vueltas)",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Release a lot of fiery kunai and strike target by self-explosion.": {
+    "en": "Release a lot of fiery kunai and strike target by self-explosion.",
+    "es": "Libera una gran cantidad de kunai ardientes y ataca al objetivo mediante una autoexplosión.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Generate a meteoric shower that rains fiery meteors.": {
+    "en": "Generate a meteoric shower that rains fiery meteors.",
+    "es": "Genera una lluvia de meteoritos que llueve meteoritos ardientes.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Generate 3 fiery magatama and burn everything on the ground.": {
+    "en": "Generate 3 fiery magatama and burn everything on the ground.",
+    "es": "Genera 3 magatamas ardientes y quema todo lo que hay en el suelo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Reduce 20% dodge rate (4 turns), increase 3 Wind Ninjutsu cool down, reduce 8% HP on attack if the player is under 'Kinjutsu: Fire Phoenix Breath' status effect.": {
+    "en": "Reduce 20% dodge rate (4 turns), increase 3 Wind Ninjutsu cool down, reduce 8% HP on attack if the player is under 'Kinjutsu: Fire Phoenix Breath' status effect.",
+    "es": "Reducir el 20% de la tasa de esquiva (4 turnos), aumentar el enfriamiento de 3 Wind Ninjutsu, reducir el 8% de HP en el ataque si el jugador está bajo el efecto de estado 'Kinjutsu: Fire Phoenix Breath'.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Focus energy in both hands and give your target several fire punches.": {
+    "en": "Focus energy in both hands and give your target several fire punches.",
+    "es": "Concentra la energía en ambas manos y dale a tu objetivo varios golpes de fuego.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Focus flame on both hands and burn your target when they get hit.": {
+    "en": "Focus flame on both hands and burn your target when they get hit.",
+    "es": "Enfoca la llama en ambas manos y quema a tu objetivo cuando lo golpeen.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Light up flame in air, and burn your target into dust.": {
+    "en": "Light up flame in air, and burn your target into dust.",
+    "es": "Enciende una llama en el aire y quema a tu objetivo hasta convertirlo en polvo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Attack your target with a fiery jump kick.": {
+    "en": "Attack your target with a fiery jump kick.",
+    "es": "Ataca a tu objetivo con una patada en salto de fuego.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Light up infinite fiery and burn everything into dust.": {
+    "en": "Light up infinite fiery and burn everything into dust.",
+    "es": "Enciende fuego infinito y quema todo hasta convertirlo en polvo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Summons Lava of the SNF to use the Badminton Explosives. Opponent team is inflicted negative effect 'Burning' for 3 turns (Burning: reduce 3% HP each turn).": {
+    "en": "Summons Lava of the SNF to use the Badminton Explosives. Opponent team is inflicted negative effect 'Burning' for 3 turns (Burning: reduce 3% HP each turn).",
+    "es": "Invoca a Lava del SNF para usar los explosivos de bádminton. El equipo oponente sufre el efecto negativo 'Quema' durante 3 turnos (Quema: reduce un 3% de HP cada turno).",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) User consumes all CP and gains the 'Damage Absorption' status (2 turns) (Convert 100% of taken damage to HP positively)": {
+    "en": "(Kinjutsu) User consumes all CP and gains the 'Damage Absorption' status (2 turns) (Convert 100% of taken damage to HP positively)",
+    "es": "(Kinjutsu) El usuario consume todo el CP y obtiene el estado de 'Absorción de daño' (2 turnos) (Convierte el 100% del daño recibido en HP de forma positiva)",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Strike of ultra-high accuracy": {
+    "en": "(Kinjutsu) Strike of ultra-high accuracy",
+    "es": "(Kinjutsu) Golpe de altísima precisión",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Target inflicts 'Internal Injury' for 1 turns (Disable healing effect)": {
+    "en": "(Kinjutsu) Target inflicts 'Internal Injury' for 1 turns (Disable healing effect)",
+    "es": "(Kinjutsu) El objetivo inflige 'lesión interna' durante 1 turno (desactiva el efecto curativo)",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Materials Market during Christmas 2012 :": {
+    "en": "Materials Market during Christmas 2012 :",
+    "es": "Mercado de Materiales durante la Navidad 2012:",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Target inflicts 'Internal Injury' for 3 turns (Disable healing effect)": {
+    "en": "(Kinjutsu) Target inflicts 'Internal Injury' for 3 turns (Disable healing effect)",
+    "es": "(Kinjutsu) El objetivo inflige 'lesión interna' durante 3 turnos (desactiva el efecto curativo)",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Releases a lightning strike attack": {
+    "en": "Releases a lightning strike attack",
+    "es": "Lanza un ataque de rayo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Emits a small lightning spark from the body": {
+    "en": "Emits a small lightning spark from the body",
+    "es": "Emite una pequeña chispa de relámpago desde el cuerpo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Releases a lightning strike": {
+    "en": "Releases a lightning strike",
+    "es": "Lanza un rayo",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Transforms into a lightning ethereal to strike an enemy": {
+    "en": "Transforms into a lightning ethereal to strike an enemy",
+    "es": "Se transforma en un rayo etéreo para golpear a un enemigo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Emits lightning storm from ones body": {
+    "en": "Emits lightning storm from ones body",
+    "es": "Emite una tormenta eléctrica desde el cuerpo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Strikes the ground with lightning force": {
+    "en": "Strikes the ground with lightning force",
+    "es": "Golpea el suelo con la fuerza del rayo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Summons a lightning golem from the character's chakra": {
+    "en": "Summons a lightning golem from the character's chakra",
+    "es": "Invoca un golem relámpago desde el chakra del personaje.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Strikes an enemy twice using a lightning strike.": {
+    "en": "Strikes an enemy twice using a lightning strike.",
+    "es": "Golpea a un enemigo dos veces con un rayo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Concentrates all the chakra into a fist and releases a lightning arrow strike": {
+    "en": "Concentrates all the chakra into a fist and releases a lightning arrow strike",
+    "es": "Concentra todo el chakra en un puño y lanza una flecha relámpago.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Increase critical strike chance by 40% /42%/45%/49%/55%/55% for 3 /3/3/3/3/4 turns.": {
+    "en": "(Kinjutsu) Increase critical strike chance by 40% /42%/45%/49%/55%/55% for 3 /3/3/3/3/4 turns.",
+    "es": "(Kinjutsu) Aumenta la probabilidad de golpe crítico en un 40% /42%/45%/49%/55%/55% durante 3 /3/3/3/3/4 turnos.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Increase critical strike chance by 40%/ 42% /45%/49%/55%/55% for 3/ 3 /3/3/3/4 turns.": {
+    "en": "(Kinjutsu) Increase critical strike chance by 40%/ 42% /45%/49%/55%/55% for 3/ 3 /3/3/3/4 turns.",
+    "es": "(Kinjutsu) Aumenta la probabilidad de golpe crítico en un 40%/ 42% /45%/49%/55%/55% durante 3/ 3 /3/3/3/4 turnos.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Increase critical strike chance by 40%/42%/ 45% /49%/55%/55% for 3/3/ 3 /3/3/4 turns.": {
+    "en": "(Kinjutsu) Increase critical strike chance by 40%/42%/ 45% /49%/55%/55% for 3/3/ 3 /3/3/4 turns.",
+    "es": "(Kinjutsu) Aumenta la probabilidad de golpe crítico en un 40%/42%/ 45% /49%/55%/55% durante 3/3/ 3 /3/3/4 turnos.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Increase critical strike chance by 40%/42%/45%/ 49% /55%/55% for 3/3/3/ 3 /3/4 turns.": {
+    "en": "(Kinjutsu) Increase critical strike chance by 40%/42%/45%/ 49% /55%/55% for 3/3/3/ 3 /3/4 turns.",
+    "es": "(Kinjutsu) Aumenta la probabilidad de golpe crítico en un 40%/42%/45%/ 49% /55%/55% durante 3/3/3/ 3 /3/4 turnos.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Increase critical strike chance by 40%/42%/45%/49%/ 55% /55% for 3/3/3/3/ 3 /4 turns.": {
+    "en": "(Kinjutsu) Increase critical strike chance by 40%/42%/45%/49%/ 55% /55% for 3/3/3/3/ 3 /4 turns.",
+    "es": "(Kinjutsu) Aumenta la probabilidad de golpe crítico en un 40%/42%/45%/49%/ 55% /55% durante 3/3/3/3/ 3/4 turnos.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Increase critical strike chance by 40%/42%/45%/49%/55%/ 55% for 3/3/3/3/3/ 4 turns.": {
+    "en": "(Kinjutsu) Increase critical strike chance by 40%/42%/45%/49%/55%/ 55% for 3/3/3/3/3/ 4 turns.",
+    "es": "(Kinjutsu) Aumenta la probabilidad de golpe crítico en un 40%/42%/45%/49%/55%/ 55% durante 3/3/3/3/3/ 4 turnos.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Empowered version of Lightning Edge.": {
+    "en": "Empowered version of Lightning Edge.",
+    "es": "Versión potenciada de Lightning Edge.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Summons Lightning of the SNF to use Rapid Sword Strikes on target.": {
+    "en": "Summons Lightning of the SNF to use Rapid Sword Strikes on target.",
+    "es": "Invoca a Lightning of the SNF para usar Rapid Sword Strikes en el objetivo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Create a lightning ball and strike your enemy. (Not effective on World Boss)": {
+    "en": "Create a lightning ball and strike your enemy. (Not effective on World Boss)",
+    "es": "Crea una bola de relámpagos y golpea a tu enemigo. (No es efectivo en World Boss)",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Create lightning rays that splits and damages an enemy.": {
+    "en": "Create lightning rays that splits and damages an enemy.",
+    "es": "Crea rayos que dividen y dañan a un enemigo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Create a lightning spear with chakra and attacks your enemy.": {
+    "en": "Create a lightning spear with chakra and attacks your enemy.",
+    "es": "Crea una lanza relámpago con chakra y ataca a tu enemigo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Lightning Flash that blinds a target for 2 /2/2/2/3 turns. (extra 70% /72%/75%/80%/80% dodge rate during target's attack)": {
+    "en": "(Kinjutsu) Lightning Flash that blinds a target for 2 /2/2/2/3 turns. (extra 70% /72%/75%/80%/80% dodge rate during target's attack)",
+    "es": "(Kinjutsu) Relámpago que ciega al objetivo durante 2/2/2/2/3 turnos. (tasa de esquiva adicional del 70%/72%/75%/80%/80% durante el ataque del objetivo)",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Lightning Flash that blinds a target for 2/ 2 /2/2/3 turns. (extra 70%/ 72% /75%/80%/80% dodge rate during target's attack)": {
+    "en": "(Kinjutsu) Lightning Flash that blinds a target for 2/ 2 /2/2/3 turns. (extra 70%/ 72% /75%/80%/80% dodge rate during target's attack)",
+    "es": "(Kinjutsu) Relámpago que ciega al objetivo durante 2/ 2 /2/2/3 turnos. (tasa de esquiva adicional del 70%/72%/75%/80%/80% durante el ataque del objetivo)",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Lightning Flash that blinds a target for 2/2/ 2 /2/3 turns. (extra 70%/72%/ 75% /80%/80% dodge rate during target's attack)": {
+    "en": "(Kinjutsu) Lightning Flash that blinds a target for 2/2/ 2 /2/3 turns. (extra 70%/72%/ 75% /80%/80% dodge rate during target's attack)",
+    "es": "(Kinjutsu) Relámpago que ciega al objetivo durante 2/2/2/2/3 turnos. (tasa de esquiva adicional del 70 %/72 %/75 %/80 %/80 % durante el ataque del objetivo)",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Lightning Flash that blinds a target for 2/2/2/ 2 /3 turns. (extra 70%/72%/75%/ 80% /80% dodge rate during target's attack)": {
+    "en": "(Kinjutsu) Lightning Flash that blinds a target for 2/2/2/ 2 /3 turns. (extra 70%/72%/75%/ 80% /80% dodge rate during target's attack)",
+    "es": "(Kinjutsu) Relámpago que ciega al objetivo durante 2/2/2/2/3 turnos. (tasa de esquiva adicional del 70%/72%/75%/80%/80% durante el ataque del objetivo)",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Lightning Flash that blinds a target for 2/2/2/2/ 3 turns. (extra 70%/72%/75%/80%/ 80% dodge rate during target's attack)": {
+    "en": "(Kinjutsu) Lightning Flash that blinds a target for 2/2/2/2/ 3 turns. (extra 70%/72%/75%/80%/ 80% dodge rate during target's attack)",
+    "es": "(Kinjutsu) Relámpago que ciega al objetivo durante 2/2/2/2/3 turnos. (tasa de esquiva adicional del 70%/72%/75%/80%/80% durante el ataque del objetivo)",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Emits and scatte lightning storm to strike the ground": {
+    "en": "Emits and scatte lightning storm to strike the ground",
+    "es": "Emite y dispersa una tormenta eléctrica que golpea el suelo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Create two lightning spear with chakra and attacks your enemy.": {
+    "en": "Create two lightning spear with chakra and attacks your enemy.",
+    "es": "Crea dos lanzas relámpago con chakra y ataca a tu enemigo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Focus lightning energy on fist, it will cause scatter after attack success.": {
+    "en": "Focus lightning energy on fist, it will cause scatter after attack success.",
+    "es": "Concentre la energía del rayo en el puño, esto causará dispersión después del éxito del ataque.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Summons Lightning of the SNF to shoot ten thousand arrows at once.": {
+    "en": "Summons Lightning of the SNF to shoot ten thousand arrows at once.",
+    "es": "Invoca a Lightning del SNF para disparar diez mil flechas a la vez.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Release lightning ball and burst on the enemy body.": {
+    "en": "Release lightning ball and burst on the enemy body.",
+    "es": "Suelta una bola de relámpago y explota sobre el cuerpo enemigo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Reduce target's dodge rate for 40% /44%/50%/50%. Reduce target's CP for 8% /8%/9%/9% when target gives attacks. ( 3 /3/3/4 turns)": {
+    "en": "(Kinjutsu) Reduce target's dodge rate for 40% /44%/50%/50%. Reduce target's CP for 8% /8%/9%/9% when target gives attacks. ( 3 /3/3/4 turns)",
+    "es": "(Kinjutsu) Reduce la tasa de esquiva del objetivo en un 40%/44%/50%/50%. Reduce el CP del objetivo en un 8%/8%/9%/9% cuando el objetivo realiza ataques. (3/3/3/4 vueltas)",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Reduce target's dodge rate for 40%/ 44% /50%/50%. Reduce target's CP for 8%/ 8% /9%/9% when target gives attacks. (3/ 3 /3/4 turns)": {
+    "en": "(Kinjutsu) Reduce target's dodge rate for 40%/ 44% /50%/50%. Reduce target's CP for 8%/ 8% /9%/9% when target gives attacks. (3/ 3 /3/4 turns)",
+    "es": "(Kinjutsu) Reduce la tasa de esquiva del objetivo en un 40%/ 44% /50%/50%. Reduce el CP del objetivo en un 8%/ 8% /9%/9% cuando el objetivo realiza ataques. (3/ 3 /3/4 vueltas)",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Reduce target's dodge rate for 40%/44%/ 50% /50%. Reduce target's CP for 8%/8%/ 9% /9% when target gives attacks. (3/3/ 3 /4 turns)": {
+    "en": "(Kinjutsu) Reduce target's dodge rate for 40%/44%/ 50% /50%. Reduce target's CP for 8%/8%/ 9% /9% when target gives attacks. (3/3/ 3 /4 turns)",
+    "es": "(Kinjutsu) Reduce la tasa de esquiva del objetivo en un 40%/44%/50%/50%. Reduce el CP del objetivo en un 8%/8%/ 9% /9% cuando el objetivo realiza ataques. (3/3/ 3 /4 vueltas)",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Reduce target's dodge rate for 40%/44%/50%/ 50% . Reduce target's CP for 8%/8%/9%/ 9% when target gives attacks. (3/3/3/ 4 turns)": {
+    "en": "(Kinjutsu) Reduce target's dodge rate for 40%/44%/50%/ 50% . Reduce target's CP for 8%/8%/9%/ 9% when target gives attacks. (3/3/3/ 4 turns)",
+    "es": "(Kinjutsu) Reduce la tasa de esquiva del objetivo en un 40%/44%/50%/50%. Reduce el CP del objetivo en un 8%/8%/9%/9% cuando el objetivo realiza ataques. (3/3/3/ 4 vueltas)",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Transforms into lightning ethereal to strike an enemy.": {
+    "en": "Transforms into lightning ethereal to strike an enemy.",
+    "es": "Se transforma en un rayo etéreo para golpear a un enemigo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Releases a lightning beam and strike your enemy.": {
+    "en": "Releases a lightning beam and strike your enemy.",
+    "es": "Libera un rayo y golpea a tu enemigo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Create two lightning balls and strike your enemy.": {
+    "en": "Create two lightning balls and strike your enemy.",
+    "es": "Crea dos bolas de relámpagos y golpea a tu enemigo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Increase damage and critical chance by 15% /20%/20%; and ignore 15% /20%/20% of target's dodge. ( 3 /3/4 turns)": {
+    "en": "(Kinjutsu) Increase damage and critical chance by 15% /20%/20%; and ignore 15% /20%/20% of target's dodge. ( 3 /3/4 turns)",
+    "es": "(Kinjutsu) Aumenta el daño y la probabilidad crítica en un 15%/20%/20%; e ignora el 15%/20%/20% de la esquiva del objetivo. (3/3/4 vueltas)",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Increase damage and critical chance by 15%/ 20% /20%; and ignore 15%/ 20% /20% of target's dodge. (3/ 3 /4 turns)": {
+    "en": "(Kinjutsu) Increase damage and critical chance by 15%/ 20% /20%; and ignore 15%/ 20% /20% of target's dodge. (3/ 3 /4 turns)",
+    "es": "(Kinjutsu) Aumenta el daño y la probabilidad crítica en un 15%/ 20% /20%; e ignora el 15%/ 20% /20% de la esquiva del objetivo. (3/ 3/4 vueltas)",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Increase damage and critical chance by 15%/20%/ 20% ; and ignore 15%/20%/ 20% of target's dodge. (3/3/ 4 turns)": {
+    "en": "(Kinjutsu) Increase damage and critical chance by 15%/20%/ 20% ; and ignore 15%/20%/ 20% of target's dodge. (3/3/ 4 turns)",
+    "es": "(Kinjutsu) Aumenta el daño y la probabilidad crítica en un 15%/20%/20%; e ignora el 15%/20%/20% de la esquiva del objetivo. (3/3/4 vueltas)",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Create 2 lightning balls to form a strong flash ball and burst on the enemy.": {
+    "en": "Create 2 lightning balls to form a strong flash ball and burst on the enemy.",
+    "es": "Crea 2 bolas de relámpagos para formar una bola de destello fuerte y explotar sobre el enemigo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Concentrate lightning energy and explode it on enemy.": {
+    "en": "Concentrate lightning energy and explode it on enemy.",
+    "es": "Concentra la energía del rayo y explótala contra el enemigo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Generate large amount of electricity and slash target at high speed.": {
+    "en": "Generate large amount of electricity and slash target at high speed.",
+    "es": "Genera una gran cantidad de electricidad y corta el objetivo a alta velocidad.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Create a huge lightning ball and throw to enemy.": {
+    "en": "Create a huge lightning ball and throw to enemy.",
+    "es": "Crea una enorme bola de rayos y tírala al enemigo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Remove all negative status for once, stun target 1 turn with Lightning Ninjutsu ( 2 /3 turns).": {
+    "en": "Remove all negative status for once, stun target 1 turn with Lightning Ninjutsu ( 2 /3 turns).",
+    "es": "Elimina todos los estados negativos por una vez, aturde al objetivo 1 turno con Lightning Ninjutsu (2/3 turnos).",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Remove all negative status for once, stun target 1 turn with Lightning Ninjutsu (2/ 3 turns).": {
+    "en": "Remove all negative status for once, stun target 1 turn with Lightning Ninjutsu (2/ 3 turns).",
+    "es": "Elimina todos los estados negativos por una vez, aturde al objetivo 1 turno con Lightning Ninjutsu (2/3 turnos).",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Release a pair of lightning beams to strike target.": {
+    "en": "Release a pair of lightning beams to strike target.",
+    "es": "Libera un par de rayos para alcanzar el objetivo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Explode a high voltage lightning ball on target.": {
+    "en": "Explode a high voltage lightning ball on target.",
+    "es": "Explota una bola de relámpagos de alto voltaje en el objetivo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Reduce 20% reactive force chance (4 turns), increase 3 Earth Ninjutsu cool down, receive 100% Critical Hit if the player is under 'Kinjutsu: Ultimate Lightning Boost' status effect.": {
+    "en": "Reduce 20% reactive force chance (4 turns), increase 3 Earth Ninjutsu cool down, receive 100% Critical Hit if the player is under 'Kinjutsu: Ultimate Lightning Boost' status effect.",
+    "es": "Reduce el 20% de probabilidad de fuerza reactiva (4 turnos), aumenta el tiempo de reutilización de 3 Earth Ninjutsu, recibe 100% de golpe crítico si el jugador está bajo el efecto de estado 'Kinjutsu: Ultimate Lightning Boost'.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Concentrate lightning energy and unloosen them in the form of continous lightning balls.": {
+    "en": "Concentrate lightning energy and unloosen them in the form of continous lightning balls.",
+    "es": "Concentra la energía del rayo y libérala en forma de bolas de rayos continuas.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Use lightning to increase speed and attack target with a lightning chop.": {
+    "en": "Use lightning to increase speed and attack target with a lightning chop.",
+    "es": "Usa un rayo para aumentar la velocidad y ataca al objetivo con un rayo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Collect all the lightning in the sky and combine them with your lightning energy. Form a giant lightning ball to attack.": {
+    "en": "Collect all the lightning in the sky and combine them with your lightning energy. Form a giant lightning ball to attack.",
+    "es": "Recoge todos los relámpagos del cielo y combínalos con la energía de tus rayos. Forma una bola de rayos gigante para atacar.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Combine all your lightning element within your attack.": {
+    "en": "Combine all your lightning element within your attack.",
+    "es": "Combina todo tu elemento relámpago dentro de tu ataque.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Direct all the lightning scatter to attack your enemy.": {
+    "en": "Direct all the lightning scatter to attack your enemy.",
+    "es": "Dirige todos los rayos para atacar a tu enemigo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Kick down your target in a flash.": {
+    "en": "Kick down your target in a flash.",
+    "es": "Derriba a tu objetivo en un instante.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Summons Lightning of the SNF to attack all enemies with Ultimate Lightning Attack. Opponent team is inflicted negative effect 'Blind' for 2 turns (Blind: extra 20% dodge rate during oppoent's attack).": {
+    "en": "Summons Lightning of the SNF to attack all enemies with Ultimate Lightning Attack. Opponent team is inflicted negative effect 'Blind' for 2 turns (Blind: extra 20% dodge rate during oppoent's attack).",
+    "es": "Invoca Lightning of the SNF para atacar a todos los enemigos con Ultimate Lightning Attack. El equipo oponente sufre el efecto negativo \"Ciego\" durante 2 turnos (Ciego: 20 % de tasa de esquiva adicional durante el ataque del oponente).",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) User consumes all CP, target inflicts the 'Blind' status (2 turns) (extra 100% dodge rate during target's attack)": {
+    "en": "(Kinjutsu) User consumes all CP, target inflicts the 'Blind' status (2 turns) (extra 100% dodge rate during target's attack)",
+    "es": "(Kinjutsu) El usuario consume todo el CP, el objetivo inflige el estado \"Ciego\" (2 turnos) (tasa de esquiva adicional del 100% durante el ataque del objetivo)",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Stun target for 1 turn": {
+    "en": "(Kinjutsu) Stun target for 1 turn",
+    "es": "(Kinjutsu) Aturde al objetivo durante 1 turno.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) This jutsu can be used more frequently and consumes less CP": {
+    "en": "(Kinjutsu) This jutsu can be used more frequently and consumes less CP",
+    "es": "(Kinjutsu) Este jutsu se puede usar con más frecuencia y consume menos CP.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Strikes an enormous power on the ground": {
+    "en": "Strikes an enormous power on the ground",
+    "es": "Golpea un enorme poder en el suelo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Creates a Earth based hand, stun the enemy for 2 turns (Not effective on World Boss)": {
+    "en": "Creates a Earth based hand, stun the enemy for 2 turns (Not effective on World Boss)",
+    "es": "Crea una mano basada en la Tierra, aturde al enemigo durante 2 turnos (No es efectivo en World Boss)",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Transforms a fist into solid rock": {
+    "en": "Transforms a fist into solid rock",
+    "es": "Transforma un puño en roca sólida.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Releases a huge solid earth wall": {
+    "en": "Releases a huge solid earth wall",
+    "es": "Libera un enorme muro de tierra sólida.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Summons a mud golem from the characters chakra": {
+    "en": "Summons a mud golem from the characters chakra",
+    "es": "Invoca un golem de barro del chakra del personaje.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Releases a huge earth spikes from the ground": {
+    "en": "Releases a huge earth spikes from the ground",
+    "es": "Lanza enormes púas de tierra desde el suelo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Absorbing the minerals from the soil causing earth erosion": {
+    "en": "Absorbing the minerals from the soil causing earth erosion",
+    "es": "Absorber los minerales del suelo provocando la erosión de la tierra.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Concentrates all the chakra in the fist striking giant power blast": {
+    "en": "Concentrates all the chakra in the fist striking giant power blast",
+    "es": "Concentra todo el chakra en el puño golpeando una explosión de poder gigante.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Absorbs mineral from soil and creates an earth rock boulder": {
+    "en": "Absorbs mineral from soil and creates an earth rock boulder",
+    "es": "Absorbe minerales del suelo y crea una roca terrestre.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Create a mud golem to protect you from all attacks. Reducing damage by 40% /42%/45%/49%/55%/55% for 3 /3/3/3/3/4 turns.": {
+    "en": "(Kinjutsu) Create a mud golem to protect you from all attacks. Reducing damage by 40% /42%/45%/49%/55%/55% for 3 /3/3/3/3/4 turns.",
+    "es": "(Kinjutsu) Crea un golem de barro para protegerte de todos los ataques. Reducir el daño en un 40% /42%/45%/49%/55%/55% durante 3 /3/3/3/3/4 turnos.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Create a mud golem to protect you from all attacks. Reducing damage by 40%/ 42% /45%/49%/55%/55% for 3/ 3 /3/3/3/4 turns.": {
+    "en": "(Kinjutsu) Create a mud golem to protect you from all attacks. Reducing damage by 40%/ 42% /45%/49%/55%/55% for 3/ 3 /3/3/3/4 turns.",
+    "es": "(Kinjutsu) Crea un golem de barro para protegerte de todos los ataques. Reducir el daño en un 40%/ 42% /45%/49%/55%/55% durante 3/ 3 /3/3/3/4 turnos.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Create a mud golem to protect you from all attacks. Reducing damage by 40%/42%/ 45% /49%/55%/55% for 3/3/ 3 /3/3/4 turns.": {
+    "en": "(Kinjutsu) Create a mud golem to protect you from all attacks. Reducing damage by 40%/42%/ 45% /49%/55%/55% for 3/3/ 3 /3/3/4 turns.",
+    "es": "(Kinjutsu) Crea un golem de barro para protegerte de todos los ataques. Reducir el daño en un 40%/42%/ 45% /49%/55%/55% durante 3/3/ 3 /3/3/4 turnos.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Create a mud golem to protect you from all attacks. Reducing damage by 40%/42%/45%/ 49% /55%/55% for 3/3/3/ 3 /3/4 turns.": {
+    "en": "(Kinjutsu) Create a mud golem to protect you from all attacks. Reducing damage by 40%/42%/45%/ 49% /55%/55% for 3/3/3/ 3 /3/4 turns.",
+    "es": "(Kinjutsu) Crea un golem de barro para protegerte de todos los ataques. Reducir el daño en un 40%/42%/45%/ 49% /55%/55% durante 3/3/3/ 3 /3/4 turnos.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Create a mud golem to protect you from all attacks. Reducing damage by 40%/42%/45%/49%/ 55% /55% for 3/3/3/3/ 3 /4 turns.": {
+    "en": "(Kinjutsu) Create a mud golem to protect you from all attacks. Reducing damage by 40%/42%/45%/49%/ 55% /55% for 3/3/3/3/ 3 /4 turns.",
+    "es": "(Kinjutsu) Crea un golem de barro para protegerte de todos los ataques. Reducir el daño en un 40%/42%/45%/49%/ 55% /55% durante 3/3/3/3/ 3 /4 turnos.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Create a mud golem to protect you from all attacks. Reducing damage by 40%/42%/45%/49%/55%/ 55% for 3/3/3/3/3/ 4 turns.": {
+    "en": "(Kinjutsu) Create a mud golem to protect you from all attacks. Reducing damage by 40%/42%/45%/49%/55%/ 55% for 3/3/3/3/3/ 4 turns.",
+    "es": "(Kinjutsu) Crea un golem de barro para protegerte de todos los ataques. Reducir el daño en un 40%/42%/45%/49%/55%/ 55% durante 3/3/3/3/3/ 4 turnos.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Smash your enemies with the earthen power.": {
+    "en": "Smash your enemies with the earthen power.",
+    "es": "Aplasta a tus enemigos con el poder de la tierra.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Summons Gaia of the SNF to use the Rock Disk Toss on target.": {
+    "en": "Summons Gaia of the SNF to use the Rock Disk Toss on target.",
+    "es": "Invoca a Gaia del SNF para usar el Rock Disk Toss en el objetivo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "A fist made out of hard composition of mud": {
+    "en": "A fist made out of hard composition of mud",
+    "es": "Un puño hecho de una composición dura de barro.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Create large rock boulder and smash it to an enemy": {
+    "en": "Create large rock boulder and smash it to an enemy",
+    "es": "Crea una gran roca y aplastala contra un enemigo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Attack your enemy with spines created in mud.": {
+    "en": "Attack your enemy with spines created in mud.",
+    "es": "Ataca a tu enemigo con espinas creadas en barro.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Earth damage that drain 15% /25%/40%/60%/85% of target's current CP.": {
+    "en": "(Kinjutsu) Earth damage that drain 15% /25%/40%/60%/85% of target's current CP.",
+    "es": "(Kinjutsu) Daño de tierra que drena 15%/25%/40%/60%/85% del CP actual del objetivo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Earth damage that drain 15%/ 25% /40%/60%/85% of target's current CP.": {
+    "en": "(Kinjutsu) Earth damage that drain 15%/ 25% /40%/60%/85% of target's current CP.",
+    "es": "(Kinjutsu) Daño de tierra que drena 15%/ 25% /40%/60%/85% del CP actual del objetivo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Earth damage that drain 15%/25%/ 40% /60%/85% of target's current CP.": {
+    "en": "(Kinjutsu) Earth damage that drain 15%/25%/ 40% /60%/85% of target's current CP.",
+    "es": "(Kinjutsu) Daño de tierra que drena 15%/25%/ 40% /60%/85% del CP actual del objetivo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Earth damage that drain 15%/25%/40%/ 60% /85% of target's current CP.": {
+    "en": "(Kinjutsu) Earth damage that drain 15%/25%/40%/ 60% /85% of target's current CP.",
+    "es": "(Kinjutsu) Daño de tierra que drena 15%/25%/40%/ 60% /85% del CP actual del objetivo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Earth damage that drain 15%/25%/40%/60%/ 85% of target's current CP.": {
+    "en": "(Kinjutsu) Earth damage that drain 15%/25%/40%/60%/ 85% of target's current CP.",
+    "es": "(Kinjutsu) Daño de tierra que drena 15%/25%/40%/60%/85% del CP actual del objetivo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Combo of mud fist releases huge solid earth wall to attack the enemy": {
+    "en": "Combo of mud fist releases huge solid earth wall to attack the enemy",
+    "es": "Combo de puño de barro libera un enorme muro de tierra sólida para atacar al enemigo",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Release a fist of mud to strike the enemy twice.": {
+    "en": "Release a fist of mud to strike the enemy twice.",
+    "es": "Suelta un puño de barro para golpear al enemigo dos veces.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Absorbs mineral from rock and creates an earth rock boulder.": {
+    "en": "Absorbs mineral from rock and creates an earth rock boulder.",
+    "es": "Absorbe minerales de la roca y crea una roca terrestre.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Summons Gaia of the SNF to use the Super Stone Throw Attack.": {
+    "en": "Summons Gaia of the SNF to use the Super Stone Throw Attack.",
+    "es": "Invoca a Gaia del SNF para usar el ataque Super Lanzamiento de Piedra.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Create an earth based arm to attack the enemy.": {
+    "en": "Create an earth based arm to attack the enemy.",
+    "es": "Crea un brazo terrestre para atacar al enemigo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Reduce taken damage by 100% for 1 /1/1/1 turn and increase attack damage for 75% /80%/85%/90% in the next turn.": {
+    "en": "(Kinjutsu) Reduce taken damage by 100% for 1 /1/1/1 turn and increase attack damage for 75% /80%/85%/90% in the next turn.",
+    "es": "(Kinjutsu) Reduce el daño recibido en un 100 % durante 1 /1/1/1 turno y aumenta el daño de ataque en un 75 % /80 %/85 %/90 % en el siguiente turno.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Reduce taken damage by 100% for 1/ 1 /1/1 turn and increase attack damage for 75%/ 80% /85%/90% in the next turn.": {
+    "en": "(Kinjutsu) Reduce taken damage by 100% for 1/ 1 /1/1 turn and increase attack damage for 75%/ 80% /85%/90% in the next turn.",
+    "es": "(Kinjutsu) Reduce el daño recibido en un 100% durante 1/ 1 /1/1 turno y aumenta el daño de ataque en un 75%/ 80% /85%/90% en el siguiente turno.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Reduce taken damage by 100% for 1/1/ 1 /1 turn and increase attack damage for 75%/80%/ 85% /90% in the next turn.": {
+    "en": "(Kinjutsu) Reduce taken damage by 100% for 1/1/ 1 /1 turn and increase attack damage for 75%/80%/ 85% /90% in the next turn.",
+    "es": "(Kinjutsu) Reduce el daño recibido en un 100% durante 1/1/1/1 turno y aumenta el daño de ataque en un 75%/80%/85%/90% en el siguiente turno.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Reduce taken damage by 100% for 1/1/1/ 1 turn and increase attack damage for 75%/80%/85%/ 90% in the next turn.": {
+    "en": "(Kinjutsu) Reduce taken damage by 100% for 1/1/1/ 1 turn and increase attack damage for 75%/80%/85%/ 90% in the next turn.",
+    "es": "(Kinjutsu) Reduce el daño recibido en un 100% durante 1/1/1/1 turno y aumenta el daño de ataque en un 75%/80%/85%/90% en el siguiente turno.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Releases a huge hexagonal rock wall.": {
+    "en": "Releases a huge hexagonal rock wall.",
+    "es": "Libera una enorme pared de roca hexagonal.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Create two earth based arms to attack the enemy.": {
+    "en": "Create two earth based arms to attack the enemy.",
+    "es": "Crea dos armas terrestres para atacar al enemigo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Creates a Earth based palm and squelch your enemy.": {
+    "en": "Creates a Earth based palm and squelch your enemy.",
+    "es": "Crea una palma basada en la Tierra y aplasta a tu enemigo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Increase HP by 5% /6%/6% every turn and will not be affected by any negative status ( 3 /3/4 turns).": {
+    "en": "(Kinjutsu) Increase HP by 5% /6%/6% every turn and will not be affected by any negative status ( 3 /3/4 turns).",
+    "es": "(Kinjutsu) Aumenta HP en un 5%/6%/6% cada turno y no se verá afectado por ningún estado negativo (3/3/4 turnos).",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Increase HP by 5%/ 6% /6% every turn and will not be affected by any negative status (3/ 3 /4 turns).": {
+    "en": "(Kinjutsu) Increase HP by 5%/ 6% /6% every turn and will not be affected by any negative status (3/ 3 /4 turns).",
+    "es": "(Kinjutsu) Aumenta HP en un 5%/ 6% /6% cada turno y no se verá afectado por ningún estado negativo (3/ 3/4 turnos).",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Increase HP by 5%/6%/ 6% every turn and will not be affected by any negative status (3/3/ 4 turns).": {
+    "en": "(Kinjutsu) Increase HP by 5%/6%/ 6% every turn and will not be affected by any negative status (3/3/ 4 turns).",
+    "es": "(Kinjutsu) Aumenta HP en un 5%/6%/6% cada turno y no se verá afectado por ningún estado negativo (3/3/4 turnos).",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Summons a mud golem and strike the enemy by fist": {
+    "en": "Summons a mud golem and strike the enemy by fist",
+    "es": "Invoca un golem de barro y golpea al enemigo con el puño.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Throw 2 rock boulders to the enemy.": {
+    "en": "Throw 2 rock boulders to the enemy.",
+    "es": "Lanza 2 rocas al enemigo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Summon a lot of earth spines and slab into target's heart.": {
+    "en": "Summon a lot of earth spines and slab into target's heart.",
+    "es": "Invoca muchas espinas de tierra y las clava en el corazón del objetivo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Crush a giant stone with earthen fist and hurt enemy with the stone pieces.": {
+    "en": "Crush a giant stone with earthen fist and hurt enemy with the stone pieces.",
+    "es": "Aplasta una piedra gigante con un puño de tierra y daña al enemigo con los pedazos de piedra.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Remove all negative status, reduce 25% damage (2 turns); if any Earth Ninjutsu is used, next turn reduce 100% damage.": {
+    "en": "Remove all negative status, reduce 25% damage (2 turns); if any Earth Ninjutsu is used, next turn reduce 100% damage.",
+    "es": "Elimina todos los estados negativos, reduce el daño en un 25% (2 turnos); Si se usa algún Ninjutsu de Tierra, el próximo turno reduce el daño al 100%.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Remove all negative status for once; reduce 25%/ 30% damage (2/ 3 turns); if any Earth Ninjutsu is used, next turn reduce 100% damage.": {
+    "en": "Remove all negative status for once; reduce 25%/ 30% damage (2/ 3 turns); if any Earth Ninjutsu is used, next turn reduce 100% damage.",
+    "es": "Eliminar todos los estados negativos por una vez; reducir el daño 25%/ 30% (2/ 3 turnos); Si se usa algún Ninjutsu de Tierra, el próximo turno reduce el daño al 100%.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Summon the Golem to hit target fiercely.": {
+    "en": "Summon the Golem to hit target fiercely.",
+    "es": "Invoca al Golem para que golpee al objetivo con fiereza.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Smash the floor and damage target with the splashing rocks and stones.": {
+    "en": "Smash the floor and damage target with the splashing rocks and stones.",
+    "es": "Rompe el suelo y daña al objetivo con las rocas y piedras que salpican.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Reduce 20% purify chance (4 turns), increase 3 Water Ninjutsu cooldown and ignore disable target from healing if player is under 'Kinjutsu: Golem Rock Gauntlets' status effect. (4 turns)": {
+    "en": "Reduce 20% purify chance (4 turns), increase 3 Water Ninjutsu cooldown and ignore disable target from healing if player is under 'Kinjutsu: Golem Rock Gauntlets' status effect. (4 turns)",
+    "es": "Reduce un 20 % la probabilidad de purificación (4 turnos), aumenta 3 el tiempo de reutilización de Ninjutsu de agua e ignora la desactivación de la curación del objetivo si el jugador está bajo el efecto de estado 'Kinjutsu: Golem Rock Gauntlets'. (4 vueltas)",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Summon nailed walls to besiege your target.": {
+    "en": "Summon nailed walls to besiege your target.",
+    "es": "Invoca paredes clavadas para asediar a tu objetivo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Absorb soil and form a rock to attack enemy.": {
+    "en": "Absorb soil and form a rock to attack enemy.",
+    "es": "Absorbe el suelo y forma una roca para atacar al enemigo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Jump up and strike your target down from the top.": {
+    "en": "Jump up and strike your target down from the top.",
+    "es": "Salta y golpea a tu objetivo desde arriba.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Summons a mud golem and rise up a huge hexagonal rock wall.": {
+    "en": "Summons a mud golem and rise up a huge hexagonal rock wall.",
+    "es": "Invoca un golem de barro y se levanta sobre una enorme pared de roca hexagonal.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Focus soil in hand to form a giant rock fist and hit the ground to great earthquake.": {
+    "en": "Focus soil in hand to form a giant rock fist and hit the ground to great earthquake.",
+    "es": "Enfoca el suelo en tu mano para formar un puño de roca gigante y golpea el suelo provocando un gran terremoto.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Summons a mud golem to attack your target with a giant rock.": {
+    "en": "Summons a mud golem to attack your target with a giant rock.",
+    "es": "Invoca un golem de barro para atacar a tu objetivo con una roca gigante.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Summons Gaia of the SNF to use the Long-Jump Sand Attack to cause damage to target. Opponent team is inflicted negative effect 'Weaken' for 3 turns (Weaken: reduce 20% attack damage).": {
+    "en": "Summons Gaia of the SNF to use the Long-Jump Sand Attack to cause damage to target. Opponent team is inflicted negative effect 'Weaken' for 3 turns (Weaken: reduce 20% attack damage).",
+    "es": "Invoca a Gaia del SNF para que use el ataque de arena de salto largo para causar daño al objetivo. El equipo oponente sufre el efecto negativo \"Debilitar\" durante 3 turnos (Debilitar: reduce un 20% el daño de ataque).",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) User consumes all CP and gains the 'Debuff Resist' status and 'Guard' statuses (2 turns)": {
+    "en": "(Kinjutsu) User consumes all CP and gains the 'Debuff Resist' status and 'Guard' statuses (2 turns)",
+    "es": "(Kinjutsu) El usuario consume todo el CP y obtiene el estado de \"Resistencia al Debuff\" y el estado de \"Guardia\" (2 turnos)",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Target inflicts 'Internal Injury' for 2 turns (Disable healing effect)": {
+    "en": "(Kinjutsu) Target inflicts 'Internal Injury' for 2 turns (Disable healing effect)",
+    "es": "(Kinjutsu) El objetivo inflige 'lesión interna' durante 2 turnos (desactiva el efecto curativo)",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Target inflicts 'Muddy' status (2 turns) (Reduce 50% purify chance)": {
+    "en": "(Kinjutsu) Target inflicts 'Muddy' status (2 turns) (Reduce 50% purify chance)",
+    "es": "(Kinjutsu) El objetivo inflige el estado \"fangoso\" (2 turnos) (Reduce un 50% la probabilidad de purificación)",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Release water from the ground": {
+    "en": "Release water from the ground",
+    "es": "Liberar agua del suelo",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Use your chakra to recover HP.(+HP)": {
+    "en": "Use your chakra to recover HP.(+HP)",
+    "es": "Usa tu chakra para recuperar HP.(+HP)",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Releases a ball of water from the sealer's mouth.": {
+    "en": "Releases a ball of water from the sealer's mouth.",
+    "es": "Libera una bola de agua de la boca del sellador.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Forms a huge ball of water and imprison an enemy": {
+    "en": "Forms a huge ball of water and imprison an enemy",
+    "es": "Forma una enorme bola de agua y aprisiona a un enemigo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Releases a bursting water vortex": {
+    "en": "Releases a bursting water vortex",
+    "es": "Libera un vórtice de agua que explota",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Releases a water shark missile": {
+    "en": "Releases a water shark missile",
+    "es": "Lanza un misil tiburón de agua",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Releases a water jet cannon": {
+    "en": "Releases a water jet cannon",
+    "es": "Lanza un cañón de chorro de agua.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Releases thorns of water impaling an enemy.": {
+    "en": "Releases thorns of water impaling an enemy.",
+    "es": "Libera espinas de agua que empalan a un enemigo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Molds chakra and water to release a twin water shark missile": {
+    "en": "Molds chakra and water to release a twin water shark missile",
+    "es": "Moldea chakra y agua para liberar un misil de tiburón de agua gemelo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Regenerate 13% /15%/18%/18%/22%/22% CP every turn for 3 /3/3/4/4/5 turns.": {
+    "en": "(Kinjutsu) Regenerate 13% /15%/18%/18%/22%/22% CP every turn for 3 /3/3/4/4/5 turns.",
+    "es": "(Kinjutsu) Regenera 13% /15%/18%/18%/22%/22% CP cada turno durante 3 /3/3/4/4/5 turnos.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Regenerate 13%/ 15% /18%/18%/22%/22% CP every turn for 3/ 3 /3/4/4/5 turns.": {
+    "en": "(Kinjutsu) Regenerate 13%/ 15% /18%/18%/22%/22% CP every turn for 3/ 3 /3/4/4/5 turns.",
+    "es": "(Kinjutsu) Regenera 13%/ 15% /18%/18%/22%/22% CP cada turno durante 3/ 3 /3/4/4/5 turnos.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Regenerate 13%/15%/ 18% /18%/22%/22% CP every turn for 3/3/ 3 /4/4/5 turns.": {
+    "en": "(Kinjutsu) Regenerate 13%/15%/ 18% /18%/22%/22% CP every turn for 3/3/ 3 /4/4/5 turns.",
+    "es": "(Kinjutsu) Regenera 13%/15%/ 18% /18%/22%/22% CP cada turno durante 3/3/ 3 /4/4/5 turnos.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Regenerate 13%/15%/18%/ 18% /22%/22% CP every turn for 3/3/3/ 4 /4/5 turns.": {
+    "en": "(Kinjutsu) Regenerate 13%/15%/18%/ 18% /22%/22% CP every turn for 3/3/3/ 4 /4/5 turns.",
+    "es": "(Kinjutsu) Regenera 13%/15%/18%/ 18% /22%/22% CP cada turno durante 3/3/3/ 4 /4/5 turnos.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Regenerate 13%/15%/18%/18%/ 22% /22% CP every turn for 3/3/3/4/ 4 /5 turns.": {
+    "en": "(Kinjutsu) Regenerate 13%/15%/18%/18%/ 22% /22% CP every turn for 3/3/3/4/ 4 /5 turns.",
+    "es": "(Kinjutsu) Regenera 13%/15%/18%/18%/ 22% /22% CP cada turno durante 3/3/3/4/ 4/5 turnos.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Regenerate 13%/15%/18%/18%/22%/ 22% CP every turn for 3/3/3/4/4/ 5 turns.": {
+    "en": "(Kinjutsu) Regenerate 13%/15%/18%/18%/22%/ 22% CP every turn for 3/3/3/4/4/ 5 turns.",
+    "es": "(Kinjutsu) Regenera 13%/15%/18%/18%/22%/ 22% CP cada turno durante 3/3/3/4/4/ 5 turnos.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Empowered your water burst skill and damage your enemies.": {
+    "en": "Empowered your water burst skill and damage your enemies.",
+    "es": "Potencia tu habilidad de explosión de agua y daña a tus enemigos.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Summons Tsunami of the SNF to cause physical damage to target using Wind-surf combo.": {
+    "en": "Summons Tsunami of the SNF to cause physical damage to target using Wind-surf combo.",
+    "es": "Invoca a Tsunami del SNF para causar daño físico al objetivo usando un combo de Wind-surf.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Create a watery shark and strike your enemy.": {
+    "en": "Create a watery shark and strike your enemy.",
+    "es": "Crea un tiburón acuático y ataca a tu enemigo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Create three water spears and pierce your enemy": {
+    "en": "Create three water spears and pierce your enemy",
+    "es": "Crea tres lanzas de agua y atraviesa a tu enemigo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Attack your enemy with a chakra made in water sphere.": {
+    "en": "Attack your enemy with a chakra made in water sphere.",
+    "es": "Ataca a tu enemigo con un chakra hecho en una esfera de agua.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Restrain your enemy. Enemy will not be able to use any skills for 2 /2/2/3/3 turns.": {
+    "en": "(Kinjutsu) Restrain your enemy. Enemy will not be able to use any skills for 2 /2/2/3/3 turns.",
+    "es": "(Kinjutsu) Restringe a tu enemigo. El enemigo no podrá utilizar ninguna habilidad durante 2/2/2/3/3 turnos.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Restrain your enemy. Enemy will not be able to use any skills for 2/ 2 /2/3/3 turns.": {
+    "en": "(Kinjutsu) Restrain your enemy. Enemy will not be able to use any skills for 2/ 2 /2/3/3 turns.",
+    "es": "(Kinjutsu) Restringe a tu enemigo. El enemigo no podrá usar ninguna habilidad durante 2/2/2/3/3 turnos.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Restrain your enemy. Enemy will not be able to use any skills for 2/2/ 2 /3/3 turns.": {
+    "en": "(Kinjutsu) Restrain your enemy. Enemy will not be able to use any skills for 2/2/ 2 /3/3 turns.",
+    "es": "(Kinjutsu) Restringe a tu enemigo. El enemigo no podrá usar ninguna habilidad durante 2/2/2/3/3 turnos.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Restrain your enemy. Enemy will not be able to use any skills for 2/2/2/ 3 /3 turns.": {
+    "en": "(Kinjutsu) Restrain your enemy. Enemy will not be able to use any skills for 2/2/2/ 3 /3 turns.",
+    "es": "(Kinjutsu) Restringe a tu enemigo. El enemigo no podrá usar ninguna habilidad durante 2/2/2/3/3 turnos.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Restrain your enemy. Enemy will not be able to use any skills for 2/2/2/3/ 3 turns.": {
+    "en": "(Kinjutsu) Restrain your enemy. Enemy will not be able to use any skills for 2/2/2/3/ 3 turns.",
+    "es": "(Kinjutsu) Restringe a tu enemigo. El enemigo no podrá usar ninguna habilidad durante 2/2/2/3/3 turnos.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Use two edges made of water to cut the enemy": {
+    "en": "Use two edges made of water to cut the enemy",
+    "es": "Usa dos bordes hechos de agua para cortar al enemigo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Attack your enemy with two chakra made in water sphere.": {
+    "en": "Attack your enemy with two chakra made in water sphere.",
+    "es": "Ataca a tu enemigo con dos chakras hechos en una esfera de agua.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Create large amount of water to flood your enemy.": {
+    "en": "Create large amount of water to flood your enemy.",
+    "es": "Crea una gran cantidad de agua para inundar a tu enemigo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Summons Tsunami of the SNF to use Water Sphere attack on all opponents.": {
+    "en": "Summons Tsunami of the SNF to use Water Sphere attack on all opponents.",
+    "es": "Invoca a Tsunami del SNF para usar el ataque Water Sphere contra todos los oponentes.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Compressed water ball mixed with chakra.": {
+    "en": "Compressed water ball mixed with chakra.",
+    "es": "Bola de agua comprimida mezclada con chakra.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Reduce target HP & CP by 2% /3%/5%/8% and stun target for 2 turns.": {
+    "en": "(Kinjutsu) Reduce target HP & CP by 2% /3%/5%/8% and stun target for 2 turns.",
+    "es": "(Kinjutsu) Reduce el HP y CP del objetivo en un 2%/3%/5%/8% y aturde al objetivo durante 2 turnos.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Reduce target HP & CP by 2%/ 3% /5%/8% and stun target for 2 turns.": {
+    "en": "(Kinjutsu) Reduce target HP & CP by 2%/ 3% /5%/8% and stun target for 2 turns.",
+    "es": "(Kinjutsu) Reduce el HP y CP del objetivo en un 2%/ 3% /5%/8% y aturde al objetivo durante 2 turnos.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Reduce target HP & CP by 2%/3%/ 5% /8% and stun target for 2 turns.": {
+    "en": "(Kinjutsu) Reduce target HP & CP by 2%/3%/ 5% /8% and stun target for 2 turns.",
+    "es": "(Kinjutsu) Reduce el HP y CP del objetivo en un 2%/3%/5%/8% y aturde al objetivo durante 2 turnos.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Reduce target HP & CP by 2%/3%/5%/ 8% and stun target for 2 turns.": {
+    "en": "(Kinjutsu) Reduce target HP & CP by 2%/3%/5%/ 8% and stun target for 2 turns.",
+    "es": "(Kinjutsu) Reduce el HP y CP del objetivo en un 2%/3%/5%/8% y aturde al objetivo durante 2 turnos.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Seize target in a water sphere and suffocate him.": {
+    "en": "Seize target in a water sphere and suffocate him.",
+    "es": "Agarra al objetivo en una esfera de agua y asfixíalo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Create four watery shark and strike your enemy.": {
+    "en": "Create four watery shark and strike your enemy.",
+    "es": "Crea cuatro tiburones acuáticos y ataca a tu enemigo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Emit three water bomb from the top of your enemy.": {
+    "en": "Emit three water bomb from the top of your enemy.",
+    "es": "Emite tres bombas de agua desde la cima de tu enemigo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Take damage by CP instead of HP (Ratio: 1CP = 2 /3/3HP) ( 3 /3/4 turns). (HP will be reduced when there is not enough CP left)": {
+    "en": "(Kinjutsu) Take damage by CP instead of HP (Ratio: 1CP = 2 /3/3HP) ( 3 /3/4 turns). (HP will be reduced when there is not enough CP left)",
+    "es": "(Kinjutsu) Recibe daño por CP en lugar de HP (Relación: 1CP = 2/3/3HP) (3/3/4 turnos). (HP se reducirá cuando no quede suficiente CP)",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Take damage by CP instead of HP (Ratio: 1CP = 2/ 3 /3HP) (3/ 3 /4 turns). (HP will be reduced when there is not enough CP left)": {
+    "en": "(Kinjutsu) Take damage by CP instead of HP (Ratio: 1CP = 2/ 3 /3HP) (3/ 3 /4 turns). (HP will be reduced when there is not enough CP left)",
+    "es": "(Kinjutsu) Recibe daño por CP en lugar de HP (Relación: 1CP = 2/ 3 /3HP) (3/ 3 /4 turnos). (HP se reducirá cuando no quede suficiente CP)",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Take damage by CP instead of HP (Ratio: 1CP = 2/3/ 3 HP) (3/3/ 4 turns). (HP will be reduced when there is not enough CP left)": {
+    "en": "(Kinjutsu) Take damage by CP instead of HP (Ratio: 1CP = 2/3/ 3 HP) (3/3/ 4 turns). (HP will be reduced when there is not enough CP left)",
+    "es": "(Kinjutsu) Recibe daño por CP en lugar de HP (Relación: 1CP = 2/3/ 3 HP) (3/3/ 4 turnos). (HP se reducirá cuando no quede suficiente CP)",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Create a water shark to flood your enemy.": {
+    "en": "Create a water shark to flood your enemy.",
+    "es": "Crea un tiburón de agua para inundar a tu enemigo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Attack enemy with water cannon.": {
+    "en": "Attack enemy with water cannon.",
+    "es": "Ataca al enemigo con un cañón de agua.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Concentrate large amount of water and release huge vortexes.": {
+    "en": "Concentrate large amount of water and release huge vortexes.",
+    "es": "Concentra gran cantidad de agua y libera enormes vórtices.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Concentrate large amount of water and release a huge vortex.": {
+    "en": "Concentrate large amount of water and release a huge vortex.",
+    "es": "Concentra una gran cantidad de agua y libera un enorme vórtice.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Remove all negative status, + extra 30% /50% healing effect on water healing Ninjutsu and healing scroll ( 3 /4 turns), -10% /-15% target's CP on every attack the player receives. ( 3 /4 turns)": {
+    "en": "Remove all negative status, + extra 30% /50% healing effect on water healing Ninjutsu and healing scroll ( 3 /4 turns), -10% /-15% target's CP on every attack the player receives. ( 3 /4 turns)",
+    "es": "Elimina todos los estados negativos, + 30% /50% de efecto curativo adicional en Ninjutsu curativo con agua y pergamino curativo (3/4 turnos), -10% /-15% del CP del objetivo en cada ataque que recibe el jugador. (3/4 vueltas)",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Remove all negative status, + extra 30%/ 50% healing effect on water healing Ninjutsu and healing scroll (3/ 4 turns), -10%/ -15% target's CP on every attack the player receives. (3/ 4 turns)": {
+    "en": "Remove all negative status, + extra 30%/ 50% healing effect on water healing Ninjutsu and healing scroll (3/ 4 turns), -10%/ -15% target's CP on every attack the player receives. (3/ 4 turns)",
+    "es": "Elimina todos los estados negativos, + 30 %/ 50 % de efecto curativo adicional en el Ninjutsu curativo con agua y el pergamino curativo (3/ 4 turnos), -10 %/ -15 % del CP del objetivo en cada ataque que recibe el jugador. (3/ 4 vueltas)",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Damage target with a lot of sharks.": {
+    "en": "Damage target with a lot of sharks.",
+    "es": "Daña al objetivo con muchos tiburones.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Concentrate a large amount of water and form a giant water bomb.": {
+    "en": "Concentrate a large amount of water and form a giant water bomb.",
+    "es": "Concentra una gran cantidad de agua y forma una bomba de agua gigante.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Blast high pressured water bombs to attack target.": {
+    "en": "Blast high pressured water bombs to attack target.",
+    "es": "Explota bombas de agua a alta presión para atacar al objetivo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Reduce 20% combustion chance (4 turns), increase 3 Fire Ninjutsu cool down, reduce 50% damage if player is under 'Kinjutsu: Shark Encampment Shield' status effect. (4 turns)": {
+    "en": "Reduce 20% combustion chance (4 turns), increase 3 Fire Ninjutsu cool down, reduce 50% damage if player is under 'Kinjutsu: Shark Encampment Shield' status effect. (4 turns)",
+    "es": "Reducir el 20 % de la probabilidad de combustión (4 turnos), aumentar el enfriamiento de 3 Ninjutsu de fuego, reducir el daño del 50 % si el jugador está bajo el efecto de estado 'Kinjutsu: Escudo de campamento de tiburones'. (4 vueltas)",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Burst out water from the ground and tight up your target.": {
+    "en": "Burst out water from the ground and tight up your target.",
+    "es": "Saca agua del suelo y refuerza tu objetivo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Burst out water from the ground and get your target flooded.": {
+    "en": "Burst out water from the ground and get your target flooded.",
+    "es": "Expulsa agua del suelo e inunda tu objetivo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Shoot our pressured water out of your hands.": {
+    "en": "Shoot our pressured water out of your hands.",
+    "es": "Dispara nuestra agua a presión fuera de tus manos.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Form a solid wall with water, and crush your target.": {
+    "en": "Form a solid wall with water, and crush your target.",
+    "es": "Forma una pared sólida con agua y aplasta a tu objetivo.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Focus water element in both hands and use chakra increases its physical size.": {
+    "en": "Focus water element in both hands and use chakra increases its physical size.",
+    "es": "Enfocar el elemento agua en ambas manos y usar chakra aumenta su tamaño físico.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Summons Tsunami of the SNF to cause a tsunami from a platform dive. Reduces 30% CP of opponent.": {
+    "en": "Summons Tsunami of the SNF to cause a tsunami from a platform dive. Reduces 30% CP of opponent.",
+    "es": "Convoca a Tsunami del SNF para provocar un tsunami desde una plataforma en picada. Reduce el 30% CP del oponente.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) User consumes all CP and fully restores HP": {
+    "en": "(Kinjutsu) User consumes all CP and fully restores HP",
+    "es": "(Kinjutsu) El usuario consume todo el CP y restaura completamente el HP.",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Does not consume CP": {
+    "en": "(Kinjutsu) Does not consume CP",
+    "es": "(Kinjutsu) No consume CP",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "(Kinjutsu) Target inflicts the 'Weaken' status (1 turn) (Reduce 100% attack damage)": {
+    "en": "(Kinjutsu) Target inflicts the 'Weaken' status (1 turn) (Reduce 100% attack damage)",
+    "es": "(Kinjutsu) El objetivo inflige el estado 'Debilitado' (1 turno) (Reduce el daño de ataque en un 100%)",
+    "method": "machine",
+    "numbers_match": true
+  },
+  "Increase pet's attack damage by 100% and critical chance by 25% (Side effect: take extra damage by 20%) (4 turns).": {
+    "en": "Increase pet's attack damage by 100% and critical chance by 25% (Side effect: take extra damage by 20%) (4 turns).",
+    "es": "Aumenta el daño de ataque de la mascota en un 100% y su probabilidad de crítico en un 25% (efecto secundario: recibe un 20% de daño adicional) (4 turnos).",
+    "method": "reviewed",
+    "numbers_match": true
+  },
+  "Capturas de habilidades proporcionadas por el usuario. Las seis habilidades de Kyubi estan documentadas; los valores no visibles permanecen sin dato.": {
+    "es": "Capturas de habilidades proporcionadas por el usuario. Las seis habilidades de Kyubi estan documentadas; los valores no visibles permanecen sin dato.",
+    "en": "Skill screenshots provided by the user. All six Kyubi skills are documented; values not visible remain unspecified.",
+    "method": "reviewed",
+    "numbers_match": true
   }
 }

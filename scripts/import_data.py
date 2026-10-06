@@ -12,6 +12,17 @@ DATA.mkdir(exist_ok=True)
 for folder, name in [('datos_nso', 'talents'), ('datos_jutsus', 'jutsus'), ('datos_mascotas', 'pets')]:
     shutil.copy2(SOURCE / folder / 'catalogo.json', DATA / (name + '.json'))
 
+# Mantener las imagenes locales aportadas por el usuario al reimportar catalogos.
+overrides = json.loads((DATA / 'image-overrides.json').read_text(encoding='utf-8'))
+pets = json.loads((DATA / 'pets.json').read_text(encoding='utf-8'))
+for pet in pets['pets']:
+    path = overrides['pets'].get(pet['name'])
+    if path:
+        assert (ROOT / 'assets' / path).is_file(), f'Falta imagen local: {path}'
+        pet['image'] = path
+        pet['thumb'] = path
+(DATA / 'pets.json').write_text(json.dumps(pets, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+
 talents = json.loads((DATA / 'talents.json').read_text(encoding='utf-8'))
 jutsus = json.loads((DATA / 'jutsus.json').read_text(encoding='utf-8'))['jutsus']
 for item in jutsus:

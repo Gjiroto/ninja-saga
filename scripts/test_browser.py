@@ -51,11 +51,11 @@ with sync_playwright() as p:
     assert 0 < page.locator('.card').count() < 74
     page.locator('#categories [data-category="pet"]').click()
     expect(page.locator('.card')).to_have_count(3)
-    expect(page.locator('.tag.warn')).to_have_count(2)
+    expect(page.locator('.tag.warn')).to_have_count(0)
     page.locator('#search').fill('Easter')
     page.locator('[data-detail]').click()
     expect(page.locator('#detail-content')).to_contain_text('Sin dato')
-    expect(page.locator('#detail-content')).to_contain_text('25/30')
+    expect(page.locator('#detail-content')).to_contain_text('Five Tag Infinity')
     page.keyboard.press('Escape')
     for cat,count in [('secret',32),('senjutsu',8)]:
         page.locator(f'#categories [data-category="{cat}"]').click()

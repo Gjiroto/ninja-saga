@@ -18,16 +18,17 @@ def add(text, language):
     if text:
         entries[text] = language
 
-for filename in ['talents', 'jutsus', 'pets']:
+for filename in ['talents', 'jutsus', 'pets', 'ninjutsu']:
     data = json.loads((ROOT / f'data/{filename}.json').read_text(encoding='utf-8'))
-    groups = data.values() if filename == 'talents' else [data['jutsus' if filename == 'jutsus' else 'pets']]
+    groups = data.values() if filename == 'talents' else [data['pets' if filename == 'pets' else 'jutsus']]
     for group in groups:
         for item in group:
-            language = 'es' if filename == 'pets' and item['name'] != 'Divine Wolf' else 'en'
+            language = item.get('source_language', 'es' if filename == 'pets' and item['name'] != 'Divine Wolf' else 'en')
             add(item.get('desc'), language)
             add(item.get('req'), 'en')
+            add(item.get('obtained_by'), 'en')
             for skill in item.get('skills', []):
-                add(skill.get('desc'), language)
+                add(skill.get('desc'), skill.get('source_language',language))
                 add(skill.get('notes'), 'es')
             for key in ['notes', 'source']:
                 add(item.get(key), 'es')
